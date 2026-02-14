@@ -13,7 +13,12 @@
             { "text": "Im", "strongID": null },
             { "text": "Anfang", "strongID": "H7225" },
             { "text": "schuf", "strongID": "H1254" },
-            { "text": "Gott", "strongID": "H430" }
+            { "text": "Gott", "strongID": "H430" },
+            { "text": "die", "strongID": "H853" },
+            { "text": "Himmel", "strongID": "H8064" },
+            { "text": "und", "strongID": "H853" },
+            { "text": "die", "strongID": "H776" },
+            { "text": "Erde.", "strongID": "H776" }
           ]
         }
       ]
