@@ -1,42 +1,661 @@
 {
-  "id": 1,
-  "name": "1. Mose",
-  "chapters": [
+  "id" : 2,
+  "chapters" : [
     {
-      "id": 1,
-      "verses": [
-        { "id": 1, "number": 1, "text": "Im Anfang schuf Gott die Himmel und die Erde.", "words": [{ "text": "Im", "strongID": null }, { "text": "Anfang", "strongID": "H7225" }, { "text": "schuf", "strongID": "H1254" }, { "text": "Gott", "strongID": "H430" }, { "text": "die", "strongID": "H853" }, { "text": "Himmel", "strongID": "H8064" }, { "text": "und", "strongID": "H853" }, { "text": "die", "strongID": "H776" }, { "text": "Erde.", "strongID": "H776" }] },
-        { "id": 2, "number": 2, "text": "Und die Erde war wüst und leer, und Finsternis war über der Tiefe; und der Geist Gottes schwebte über den Wassern.", "words": [{ "text": "Und", "strongID": "H205" }, { "text": "die", "strongID": null }, { "text": "Erde", "strongID": "H776" }, { "text": "war", "strongID": "H1961" }, { "text": "wüst", "strongID": "H8414" }, { "text": "leer", "strongID": "H922" }] },
-        { "id": 3, "number": 3, "text": "Und Gott sprach: Es werde Licht! Und es ward Licht.", "words": [{ "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "sprach", "strongID": "H559" }, { "text": "Licht", "strongID": "H216" }] },
-        { "id": 4, "number": 4, "text": "Und Gott sah das Licht, daß es gut war; und Gott schied das Licht von der Finsternis.", "words": [] },
-        { "id": 5, "number": 5, "text": "Und Gott nannte das Licht Tag, und die Finsternis nannte er Nacht. Und es ward Abend, und es ward Morgen: ein Tag.", "words": [] },
-        { "id": 6, "number": 6, "text": "Und Gott sprach: Es werde eine Ausdehnung inmitten der Wasser, und sie scheide die Wasser von den Wassern!", "words": [] },
-        { "id": 7, "number": 7, "text": "Und Gott machte die Ausdehnung und schied die Wasser, die unter der Ausdehnung, von den Wassern, die oberhalb der Ausdehnung waren. Und es ward also.", "words": [] },
-        { "id": 8, "number": 8, "text": "Und Gott nannte die Ausdehnung Himmel. Und es ward Abend, und es ward Morgen: ein zweiter Tag.", "words": [] },
-        { "id": 9, "number": 9, "text": "Und Gott sprach: Es sammle sich das Wasser unterhalb des Himmels an einen Ort, und es erscheine das Trockene! Und es ward also.", "words": [] },
-        { "id": 10, "number": 10, "text": "Und Gott nannte das Trockene Erde, und die Ansammlung der Wasser nannte er Meere. Und Gott sah, daß es gut war.", "words": [] },
-        { "id": 11, "number": 11, "text": "Und Gott sprach: Die Erde lasse Gras hervorsprossen, Kraut, das Samen hervorbringe, Fruchtbäume, die Frucht tragen nach ihrer Art, in welcher ihr Same sei auf der Erde! Und es ward also.", "words": [] },
-        { "id": 12, "number": 12, "text": "Und die Erde brachte Gras hervor, Kraut, das Samen hervorbringt nach seiner Art, und Bäume, die Frucht tragen, in welcher ihr Same ist nach ihrer Art. Und Gott sah, daß es gut war.", "words": [] },
-        { "id": 13, "number": 13, "text": "Und es ward Abend, und es ward Morgen: ein dritter Tag.", "words": [] },
-        { "id": 14, "number": 14, "text": "Und Gott sprach: Es seien Lichter an der Ausdehnung des Himmels, um zu scheiden zwischen dem Tage und der Nacht; und sie seien zu Zeichen und zur Bestimmung von Zeiten und Tagen und Jahren;", "words": [] },
-        { "id": 15, "number": 15, "text": "und sie seien zu Lichtern an der Ausdehnung des Himmels, um auf die Erde zu leuchten! Und es ward also.", "words": [] },
-        { "id": 16, "number": 16, "text": "Und Gott machte die zwei großen Lichter: das große Licht zur Beherrschung des Tages, und das kleine Licht zur Beherrschung der Nacht, und die Sterne.", "words": [] },
-        { "id": 17, "number": 17, "text": "Und Gott setzte sie an die Ausdehnung des Himmels, um auf die Erde zu leuchten,", "words": [] },
-        { "id": 18, "number": 18, "text": "und um zu herrschen über den Tag und über die Nacht, und um zu scheiden zwischen dem Licht und der Finsternis. Und Gott sah, daß es gut war.", "words": [] },
-        { "id": 19, "number": 19, "text": "Und es ward Abend, und es ward Morgen: ein vierte Tag.", "words": [] },
-        { "id": 20, "number": 20, "text": "Und Gott sprach: Es wimmeln die Wasser von lebendigen Wesen, und Vögel sollen über der Erde fliegen an der Vorderseite der Ausdehnung des Himmels!", "words": [] },
-        { "id": 21, "number": 21, "text": "Und Gott schuf die großen Seeungeheuer und jedes lebendige, sich regende Wesen, von denen die Wasser wimmeln nach ihrer Art, und alles geflügelte Gevögel nach seiner Art. Und Gott sah, daß es gut war.", "words": [] },
-        { "id": 22, "number": 22, "text": "Und Gott segnete sie und sprach: Seid fruchtbar und mehret euch und füllet die Wasser in den Meeren, und das Gevögel mehre sich auf der Erde!", "words": [] },
-        { "id": 23, "number": 23, "text": "Und es ward Abend, und es ward Morgen: ein fünfter Tag.", "words": [] },
-        { "id": 24, "number": 24, "text": "Und Gott sprach: Die Erde bringe lebendige Wesen hervor nach ihrer Art: Vieh und Gewürm und Tiere der Erde nach ihrer Art! Und es ward also.", "words": [] },
-        { "id": 25, "number": 25, "text": "Und Gott machte die Tiere der Erde nach ihrer Art, und das Vieh nach seiner Art, und alles Gewürm des Erdbodens nach seiner Art. Und Gott sah, daß es gut war.", "words": [] },
-        { "id": 26, "number": 26, "text": "Und Gott sprach: Lasset uns Menschen machen in unserem Bilde, nach unserem Gleichnis; und sie sollen herrschen über die Fische des Meeres und über das Gevögel des Himmels und über das Vieh und über die ganze Erde und über alles Gewürm, das sich auf der Erde regt!", "words": [] },
-        { "id": 27, "number": 27, "text": "Und Gott schuf den Menschen in seinem Bilde, im Bilde Gottes schuf er ihn; Mann und Weib schuf er sie.", "words": [] },
-        { "id": 28, "number": 28, "text": "Und Gott segnete sie, und Gott sprach zu ihnen: Seid fruchtbar und mehret euch und füllet die Erde und machet sie euch untertan; und herrschet über die Fische des Meeres und über das Gevögel des Himmels und über alles Getier, das sich auf der Erde regt!", "words": [] },
-        { "id": 29, "number": 29, "text": "Und Gott sprach: Siehe, ich habe euch gegeben alles samenbringende Kraut, das auf der ganzen Erdoberfläche ist, und jeden Baum, an dem samenbringende Baumfrucht ist: es soll euch zur Speise sein;", "words": [] },
-        { "id": 30, "number": 30, "text": "und allem Getier der Erde und allem Gevögel des Himmels und allem, was sich auf der Erde regt, in welchem eine lebendige Seele ist, habe ich alles grüne Kraut zur Speise gegeben. Und es ward also.", "words": [] },
-        { "id": 31, "number": 31, "text": "Und Gott sah alles, was er gemacht hatte, und siehe, es war sehr gut. Und es ward Abend, und es ward Morgen: der sechste Tag.", "words": [] }
+      "verses" : [
+        {
+          "id" : 1,
+          "words" : [
+
+          ],
+          "text" : "Im Anfang schuf Gott die Himmel und die Erde.",
+          "number" : 1
+        },
+        {
+          "id" : 2,
+          "words" : [
+
+          ],
+          "text" : "Und die Erde war wüst und leer",
+          "number" : 2
+        },
+        {
+          "id" : 3,
+          "words" : [
+
+          ],
+          "text" : "Und Gott sprach",
+          "number" : 3
+        },
+        {
+          "id" : 4,
+          "words" : [
+
+          ],
+          "text" : "Und Gott sah das Licht",
+          "number" : 4
+        },
+        {
+          "id" : 5,
+          "words" : [
+
+          ],
+          "text" : "Und Gott nannte das Licht Tag",
+          "number" : 5
+        },
+        {
+          "id" : 6,
+          "words" : [
+
+          ],
+          "text" : "Und Gott sprach",
+          "number" : 6
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 7,
+          "id" : 7,
+          "text" : "Und Gott machte die Ausdehnung und schied die Wasser"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 8,
+          "id" : 8,
+          "text" : "Und Gott nannte die Ausdehnung Himmel. Und es ward Abend"
+        },
+        {
+          "text" : "Und Gott sprach",
+          "words" : [
+
+          ],
+          "id" : 9,
+          "number" : 9
+        },
+        {
+          "text" : "Und Gott nannte das Trockene Erde",
+          "words" : [
+
+          ],
+          "id" : 10,
+          "number" : 10
+        },
+        {
+          "text" : "Und Gott sprach",
+          "words" : [
+
+          ],
+          "id" : 11,
+          "number" : 11
+        },
+        {
+          "text" : "Und die Erde brachte Gras hervor",
+          "words" : [
+
+          ],
+          "id" : 12,
+          "number" : 12
+        },
+        {
+          "text" : "Und es ward Abend",
+          "id" : 13,
+          "words" : [
+
+          ],
+          "number" : 13
+        },
+        {
+          "text" : "Und Gott sprach",
+          "id" : 14,
+          "words" : [
+
+          ],
+          "number" : 14
+        },
+        {
+          "text" : "und sie seien zu Lichtern an der Ausdehnung der Himmel",
+          "id" : 15,
+          "words" : [
+
+          ],
+          "number" : 15
+        },
+        {
+          "text" : "Und Gott machte die zwei großen Lichter",
+          "id" : 16,
+          "words" : [
+
+          ],
+          "number" : 16
+        },
+        {
+          "text" : "Und Gott setzte sie an die Ausdehnung der Himmel",
+          "id" : 17,
+          "words" : [
+
+          ],
+          "number" : 17
+        },
+        {
+          "text" : "und um zu herrschen über den Tag und über die Nacht",
+          "id" : 18,
+          "words" : [
+
+          ],
+          "number" : 18
+        },
+        {
+          "text" : "Und es ward Abend",
+          "id" : 19,
+          "words" : [
+
+          ],
+          "number" : 19
+        },
+        {
+          "text" : "Und Gott sprach",
+          "id" : 20,
+          "words" : [
+
+          ],
+          "number" : 20
+        },
+        {
+          "text" : "Und Gott schuf die großen Seetiere und jedes lebendige Wesen",
+          "id" : 21,
+          "words" : [
+
+          ],
+          "number" : 21
+        },
+        {
+          "text" : "Und Gott segnete sie und sprach",
+          "id" : 22,
+          "words" : [
+
+          ],
+          "number" : 22
+        },
+        {
+          "text" : "Und es ward Abend",
+          "id" : 23,
+          "words" : [
+
+          ],
+          "number" : 23
+        },
+        {
+          "text" : "Und Gott sprach",
+          "id" : 24,
+          "words" : [
+
+          ],
+          "number" : 24
+        },
+        {
+          "text" : "Und Gott machte das Getier der Erde nach seiner Art und das Vieh nach seiner Art und alles Gewürm des Erdbodens nach seiner Art. Und Gott sah",
+          "id" : 25,
+          "words" : [
+
+          ],
+          "number" : 25
+        },
+        {
+          "text" : "Und Gott sprach",
+          "id" : 26,
+          "words" : [
+
+          ],
+          "number" : 26
+        },
+        {
+          "text" : "Und Gott schuf den Menschen in seinem Bilde",
+          "id" : 27,
+          "words" : [
+
+          ],
+          "number" : 27
+        },
+        {
+          "text" : "Und Gott segnete sie",
+          "id" : 28,
+          "words" : [
+
+          ],
+          "number" : 28
+        },
+        {
+          "text" : "Und Gott sprach",
+          "id" : 29,
+          "words" : [
+
+          ],
+          "number" : 29
+        },
+        {
+          "text" : "und jedem Getier der Erde und jedem Gevögel des Himmels und allem",
+          "id" : 30,
+          "words" : [
+
+          ],
+          "number" : 30
+        },
+        {
+          "text" : "Und Gott sah alles",
+          "id" : 31,
+          "words" : [
+
+          ],
+          "number" : 31
+        }
+      ],
+      "id" : 1
+    },
+    {
+      "verses" : [
+        {
+          "words" : [
+
+          ],
+          "id" : 1,
+          "number" : 1,
+          "text" : "So wurden die Himmel und die Erde und all ihr Heer vollendet."
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 2,
+          "number" : 2,
+          "text" : "Und Gott hatte am siebten Tage sein Werk vollendet"
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 3,
+          "number" : 3,
+          "text" : "Und Gott segnete den siebten Tag und heiligte ihn; denn an ihm ruhte er von all seinem Werke"
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 4,
+          "number" : 4,
+          "text" : "Dies ist die Geschichte der Himmel und der Erde"
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 5,
+          "number" : 5,
+          "text" : "und alles Gesträuch des Feldes"
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 6,
+          "number" : 6,
+          "text" : "Aber ein Dunst stieg auf von der Erde und befeuchtete die ganze Oberfläche des Erdbodens."
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 7,
+          "number" : 7,
+          "text" : "Und Jehova Gott bildete den Menschen"
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 8,
+          "number" : 8,
+          "text" : "Und Jehova Gott pflanzte einen Garten in Eden gegen Osten"
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 9,
+          "number" : 9,
+          "text" : "Und Jehova Gott ließ aus dem Erdboden aufsprossen allerlei Bäume"
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 10,
+          "number" : 10,
+          "text" : "Und ein Fluß ging aus von Eden"
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 11,
+          "number" : 11,
+          "text" : "Der Name des ersten ist Pison; dieser ist es"
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 12,
+          "number" : 12,
+          "text" : "und das Gold dieses Landes ist gut; dort ist das Bedolach und der Stein Schoham."
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 13,
+          "number" : 13,
+          "text" : "Und der Name des zweiten Flusses"
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 14,
+          "number" : 14,
+          "text" : "Und der Name des dritten Flusses"
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 15,
+          "number" : 15,
+          "text" : "Und Jehova Gott nahm den Menschen und setzte ihn in den Garten Eden"
+        },
+        {
+          "words" : [
+
+          ],
+          "id" : 16,
+          "number" : 16,
+          "text" : "Und Jehova Gott gebot dem Menschen und sprach"
+        },
+        {
+          "number" : 17,
+          "text" : "aber von dem Baume der Erkenntnis des Guten und Bösen",
+          "id" : 17,
+          "words" : [
+
+          ]
+        },
+        {
+          "number" : 18,
+          "text" : "Und Jehova Gott sprach",
+          "id" : 18,
+          "words" : [
+
+          ]
+        },
+        {
+          "number" : 19,
+          "text" : "Und Jehova Gott bildete aus dem Erdboden alles Getier des Feldes und alles Gevögel des Himmels",
+          "id" : 19,
+          "words" : [
+
+          ]
+        },
+        {
+          "number" : 20,
+          "text" : "Und der Mensch gab Namen allem Vieh und dem Gevögel des Himmels und allem Getier des Feldes; aber für Adam fand er keine Hilfe",
+          "id" : 20,
+          "words" : [
+
+          ]
+        },
+        {
+          "number" : 21,
+          "text" : "Da ließ Jehova Gott einen tiefen Schlaf auf den Menschen fallen",
+          "id" : 21,
+          "words" : [
+
+          ]
+        },
+        {
+          "number" : 22,
+          "text" : "Und Jehova Gott baute aus der Rippe",
+          "id" : 22,
+          "words" : [
+
+          ]
+        },
+        {
+          "number" : 23,
+          "text" : "Und der Mensch sprach",
+          "id" : 23,
+          "words" : [
+
+          ]
+        },
+        {
+          "number" : 24,
+          "text" : "Darum wird ein Mann seinen Vater und seine Mutter verlassen und seinem Weibe anhangen",
+          "id" : 24,
+          "words" : [
+
+          ]
+        },
+        {
+          "number" : 25,
+          "text" : "Und sie waren beide nackt",
+          "id" : 25,
+          "words" : [
+
+          ]
+        }
+      ],
+      "id" : 2
+    },
+    {
+      "id" : 3,
+      "verses" : [
+        {
+          "words" : [
+
+          ],
+          "number" : 1,
+          "id" : 1,
+          "text" : "Und die Schlange war listiger als alles Getier des Feldes"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 2,
+          "id" : 2,
+          "text" : "Und das Weib sprach zu der Schlange"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 3,
+          "id" : 3,
+          "text" : "aber von der Frucht des Baumes"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 4,
+          "id" : 4,
+          "text" : "Da sprach die Schlange zu dem Weibe"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 5,
+          "id" : 5,
+          "text" : "sondern Gott weiß"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 6,
+          "id" : 6,
+          "text" : "Und das Weib sah"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 7,
+          "id" : 7,
+          "text" : "Da wurden ihrer beider Augen aufgetan"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 8,
+          "id" : 8,
+          "text" : "Und sie hörten die Stimme Jehovas Gottes"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 9,
+          "id" : 9,
+          "text" : "Und Jehova Gott rief den Menschen und sprach zu ihm"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 10,
+          "id" : 10,
+          "text" : "Und er sprach"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 11,
+          "id" : 11,
+          "text" : "Und er sprach"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 12,
+          "id" : 12,
+          "text" : "Da sprach der Mensch"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 13,
+          "id" : 13,
+          "text" : "Und Jehova Gott sprach zu dem Weibe"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 14,
+          "id" : 14,
+          "text" : "Da sprach Jehova Gott zu der Schlange"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 15,
+          "id" : 15,
+          "text" : "Und ich werde Feindschaft setzen zwischen dir und dem Weibe und zwischen deinem Samen und ihrem Samen; er wird dir den Kopf zertreten"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 16,
+          "id" : 16,
+          "text" : "Zu dem Weibe sprach er"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 17,
+          "id" : 17,
+          "text" : "Und zu Adam sprach er"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 18,
+          "id" : 18,
+          "text" : "Dornen und Disteln wird er dir sprossen lassen"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 19,
+          "id" : 19,
+          "text" : "Im Schweiße deines Angesichts wirst du dein Brot essen"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 20,
+          "id" : 20,
+          "text" : "Und der Mensch nannte den Namen seines Weibes Eva"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 21,
+          "id" : 21,
+          "text" : "Und Jehova Gott machte Adam und seinem Weibe Röcke von Fell und kleidete sie."
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 22,
+          "id" : 22,
+          "text" : "Und Jehova Gott sprach"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 23,
+          "id" : 23,
+          "text" : "Und Jehova Gott schickte ihn aus dem Garten Eden hinaus"
+        },
+        {
+          "words" : [
+
+          ],
+          "number" : 24,
+          "id" : 24,
+          "text" : "Und er trieb den Menschen aus und ließ östlich vom Garten Eden die Cherubim lagern und die Flamme des kreisenden Schwertes"
+        }
       ]
     }
-  ]
+  ],
+  "name" : "2. Mose"
 }
