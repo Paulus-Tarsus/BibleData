@@ -1,0 +1,524 @@
+{
+  "id": 55,
+  "name": "2 Timothy",
+  "chapters": [
+    {
+      "id": 1,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "Paulus, Apostel Jesu Christi durch Gottes Willen, nach der Verheißung des Lebens in Christus Jesus,",
+          "words": []
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "an Timotheus, seinen geliebten Sohn: Gnade, Barmherzigkeit, Friede von Gott, dem Vater und Christus Jesus, unsrem Herrn!",
+          "words": []
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "Ich danke Gott, welchem ich von den Voreltern her mit reinem Gewissen diene, wie ich unablässig deiner gedenke in meinen Gebeten Tag und Nacht,",
+          "words": []
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "voll Verlangen, dich zu sehen, eingedenk deiner Tränen, damit ich mit Freude erfüllt werde,",
+          "words": []
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "da ich die Erinnerung an deinen ungeheuchelten Glauben festhalte, der zuvor in deiner Großmutter Lois und deiner Mutter Eunike gewohnt hat, ich bin aber versichert, auch in dir.",
+          "words": []
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "Aus diesem Grunde erinnere ich dich daran, die Gabe Gottes anzufachen, die durch Auflegung meiner Hände in dir ist;",
+          "words": []
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "denn Gott hat uns nicht einen Geist der Furchtsamkeit gegeben, sondern der Kraft und der Liebe und der Zucht.",
+          "words": []
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "So schäme dich nun nicht des Zeugnisses unsres Herrn, auch nicht meiner, der ich sein Gebundener bin; sondern leide Ungemach mit dem Evangelium, nach der Kraft Gottes,",
+          "words": []
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "der uns gerettet und mit einem heiligen Ruf berufen hat, nicht nach unsren Werken, sondern nach seinem eigenen Vorsatz und der Gnade, die uns in Christus Jesus vor ewigen Zeiten gegeben,",
+          "words": []
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "jetzt aber geoffenbart worden ist durch die Erscheinung unsres Retters Jesus Christus, der dem Tode die Macht genommen, aber Leben und Unvergänglichkeit ans Licht gebracht hat durch das Evangelium,",
+          "words": []
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "für welches ich als Prediger und Apostel und Lehrer der Heiden eingesetzt worden bin.",
+          "words": []
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "Aus diesem Grunde leide ich auch solches; aber ich schäme mich dessen nicht. Denn ich weiß, wem ich mein Vertrauen geschenkt habe, und ich bin überzeugt, daß er mächtig ist, das mir anvertraute Gut zu verwahren bis auf jenen Tag.",
+          "words": []
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "Halte dich an das Muster der gesunden Worte, die du von mir gehört hast, im Glauben und in der Liebe, die in Christus Jesus ist!",
+          "words": []
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "Dieses edle anvertraute Gut bewahre durch den heiligen Geist, der in uns wohnt.",
+          "words": []
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "Das weißt du, daß sich von mir alle abgewandt haben, die in Asien sind, unter ihnen auch Phygellus und Hermogenes.",
+          "words": []
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "Der Herr erweise Barmherzigkeit dem Hause des Onesiphorus, weil er mich oft erquickt und sich meiner Ketten nicht geschämt hat;",
+          "words": []
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "sondern als er in Rom war, suchte er mich fleißig und fand mich auch.",
+          "words": []
+        },
+        {
+          "id": 18,
+          "number": 18,
+          "text": "Der Herr gebe ihm, daß er Barmherzigkeit erlange vom Herrn an jenem Tage! Und wieviel er mir zu Ephesus gedient hat, weißt du am besten.",
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "Du nun, mein Sohn, erstarke in der Gnade, die in Christus Jesus ist.",
+          "words": []
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "Und was du von mir gehört hast durch viele Zeugen, das vertraue treuen Menschen an, welche fähig sein werden, auch andere zu lehren.",
+          "words": []
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "Du nun leide Ungemach, als ein edler Streiter Jesu Christi!",
+          "words": []
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "Wer Kriegsdienst tut, verflicht sich nicht in Geschäfte des Lebensunterhalts, damit er dem gefalle, der ihn ausgehoben hat.",
+          "words": []
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "Und wenn auch jemand sich an Wettkämpfen beteiligt, wird er nicht gekrönt, wenn er nicht nach den Regeln kämpft.",
+          "words": []
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "Der Ackersmann, der den Acker bebaut, hat den ersten Anspruch an die Früchte.",
+          "words": []
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "Bedenke, was ich dir sage! Denn der Herr wird dir Einsicht in alles geben.",
+          "words": []
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "Halt im Gedächtnis Jesus Christus, der von den Toten auferstanden ist, aus Davids Samen, nach meinem Evangelium,",
+          "words": []
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "in dessen Dienst ich Ungemach leide, sogar Ketten wie ein Übeltäter; aber das Wort Gottes ist nicht gekettet.",
+          "words": []
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "Darum erdulde ich alles um der Auserwählten willen, damit auch sie das Heil erlangen, das in Christus Jesus ist, mit ewiger Herrlichkeit.",
+          "words": []
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "Glaubwürdig ist das Wort: Sind wir mitgestorben, so werden wir auch mitleben;",
+          "words": []
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "dulden wir, so werden wir mitherrschen; verleugnen wir, so wird er uns auch verleugnen;",
+          "words": []
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "sind wir untreu, so bleibt er treu; denn er kann sich selbst nicht verleugnen.",
+          "words": []
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "Daran erinnere, und bezeuge ernstlich vor dem Herrn, daß man nicht um Worte zanke, was zu nichts nütze ist als zur Verwirrung der Zuhörer.",
+          "words": []
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "Gib dir Mühe, dich Gott als bewährt zu erweisen, als einen Arbeiter, der sich nicht zu schämen braucht, der das Wort der Wahrheit richtig behandelt.",
+          "words": []
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "Der unheiligen Schwätzereien aber entschlage dich; denn sie fördern nur noch mehr die Gottlosigkeit,",
+          "words": []
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "und ihr Wort frißt um sich wie ein Krebsgeschwür.",
+          "words": []
+        },
+        {
+          "id": 18,
+          "number": 18,
+          "text": "Zu ihnen gehören Hymenäus und Philetus, welche von der Wahrheit abgekommen sind, indem sie sagen, die Auferstehung sei schon geschehen, und so den Glauben etlicher Leute umgestürzt haben.",
+          "words": []
+        },
+        {
+          "id": 19,
+          "number": 19,
+          "text": "Aber der feste Grund Gottes bleibt bestehen und trägt dieses Siegel: «Der Herr kennt die Seinen», und: «es trete ab von der Ungerechtigkeit, wer den Namen des Herrn nennt!»",
+          "words": []
+        },
+        {
+          "id": 20,
+          "number": 20,
+          "text": "In einem großen Hause gibt es aber nicht nur goldene und silberne Gefäße, sondern auch hölzerne und irdene, und die einen zur Ehre, die andern zur Unehre.",
+          "words": []
+        },
+        {
+          "id": 21,
+          "number": 21,
+          "text": "Wenn nun jemand sich von solchen reinigt, wird er ein Gefäß zur Ehre sein, geheiligt und dem Hausherrn nützlich, zu jedem guten Werke zubereitet.",
+          "words": []
+        },
+        {
+          "id": 22,
+          "number": 22,
+          "text": "Fliehe die jugendlichen Lüste, jage aber der Gerechtigkeit, dem Glauben, der Liebe, dem Frieden nach samt denen, die den Herrn aus reinem Herzen anrufen.",
+          "words": []
+        },
+        {
+          "id": 23,
+          "number": 23,
+          "text": "Die törichten und unziemlichen Streitfragen aber meide, da du weißt, daß sie nur Streit erzeugen.",
+          "words": []
+        },
+        {
+          "id": 24,
+          "number": 24,
+          "text": "Ein Knecht des Herrn aber soll nicht streiten, sondern milde sein gegen jedermann, lehrtüchtig, fähig die Bösen zu tragen,",
+          "words": []
+        },
+        {
+          "id": 25,
+          "number": 25,
+          "text": "mit Sanftmut die Widerspenstigen zurechtweisend, ob ihnen Gott nicht noch Buße geben möchte zur Erkenntnis der Wahrheit",
+          "words": []
+        },
+        {
+          "id": 26,
+          "number": 26,
+          "text": "und sie wieder nüchtern werden, aus der Schlinge des Teufels heraus, von welchem sie lebendig gefangen worden sind für seinen Willen.",
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "Das aber sollst du wissen, daß in den letzten Tagen schwere Zeiten eintreten werden.",
+          "words": []
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "Denn die Menschen werden selbstsüchtig sein, geldgierig, prahlerisch, hochmütig, Lästerer, den Eltern ungehorsam, undankbar, gottlos,",
+          "words": []
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "lieblos, unversöhnlich, verleumderisch, unenthaltsam, zuchtlos, dem Guten feind,",
+          "words": []
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "treulos, leichtsinnig, aufgeblasen, das Vergnügen mehr liebend als Gott;",
+          "words": []
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "dabei haben sie den Schein von Gottseligkeit, deren Kraft aber verleugnen sie. Solche meide!",
+          "words": []
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "Denn zu diesen gehören die, welche sich in die Häuser einschleichen und Weiblein gefangennehmen, die mit Sünden beladen sind und von mancherlei Lüsten umgetrieben werden,",
+          "words": []
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "immerdar lernen und doch nie zur Erkenntnis der Wahrheit kommen können.",
+          "words": []
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "Gleicherweise aber, wie Jannes und Jambres dem Mose widerstanden, so widerstehen auch diese der Wahrheit; es sind Menschen zerrütteten Sinnes, untüchtig zum Glauben.",
+          "words": []
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "Aber sie werden es nicht mehr viel weiter bringen; denn ihre Torheit wird jedermann offenbar werden, wie es auch bei jenen der Fall war.",
+          "words": []
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "Du aber bist mir nachgefolgt in der Lehre, in der Lebensführung, im Vorsatz, im Glauben, in der Langmut, in der Liebe, in der Geduld,",
+          "words": []
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "in den Verfolgungen, in den Leiden, wie sie mir in Antiochia, in Ikonium und Lystra widerfahren sind. Solche Verfolgungen habe ich ausgehalten, und aus allen hat mich der Herr errettet!",
+          "words": []
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "Und alle, die gottselig leben wollen in Christus Jesus, müssen Verfolgung leiden.",
+          "words": []
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "Schlechte Menschen aber und Betrüger werden es immer schlimmer treiben, da sie verführen und sich verführen lassen.",
+          "words": []
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "Du aber bleibe in dem, was du gelernt hast und was dir anvertraut ist, da du weißt, von wem du es gelernt hast,",
+          "words": []
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "weil du von Kindheit an die heiligen Schriften kennst, welche dich weise machen können zum Heil durch den Glauben in Christus Jesus.",
+          "words": []
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "Jede Schrift ist von Gottes Geist eingegeben und nützlich zur Belehrung, zur Überführung, zur Zurechtweisung, zur Erziehung in der Gerechtigkeit,",
+          "words": []
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "damit der Mensch Gottes vollkommen sei, zu jedem guten Werke ausgerüstet.",
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "Ich beschwöre dich vor Gott und Christus Jesus, der Lebendige und Tote richten wird bei seiner Erscheinung und bei seinem Reich:",
+          "words": []
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "Predige das Wort, tritt dafür ein, es sei gelegen oder ungelegen; überführe, tadle, ermahne mit aller Geduld und Belehrung!",
+          "words": []
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "Denn es wird eine Zeit kommen, da sie die gesunde Lehre nicht ertragen, sondern sich nach ihren eigenen Lüsten Lehrer anhäufen werden, weil sie empfindliche Ohren haben;",
+          "words": []
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "und sie werden ihre Ohren von der Wahrheit abwenden und sich den Fabeln zuwenden.",
+          "words": []
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "Du aber bleibe nüchtern in allen Dingen, erleide das Ungemach, tue das Werk eines Evangelisten, richte deinen Dienst völlig aus!",
+          "words": []
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "Denn ich werde schon geopfert, und die Zeit meiner Auflösung ist nahe.",
+          "words": []
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben bewahrt;",
+          "words": []
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "hinfort liegt für mich die Krone der Gerechtigkeit bereit, welche mir der Herr, der gerechte Richter, an jenem Tage zuerkennen wird, nicht aber mir allein, sondern auch allen, die seine Erscheinung liebgewonnen haben.",
+          "words": []
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "Beeile dich, bald zu mir zu kommen!",
+          "words": []
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "Denn Demas hat mich verlassen, weil er diesen Weltlauf liebgewonnen hat, und ist nach Thessalonich gezogen, Crescens nach Galatien, Titus nach Dalmatien.",
+          "words": []
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "Lukas ist allein bei mir. Bringe Markus mit dir; denn er ist mir sehr nützlich zum Dienste.",
+          "words": []
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "Tychikus aber habe ich nach Ephesus gesandt.",
+          "words": []
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "Den Reisemantel, den ich in Troas bei Karpus ließ, bringe mit, wenn du kommst, auch die Bücher, namentlich die Pergamente.",
+          "words": []
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "Alexander, der Kupferschmied, hat mir viel Böses erwiesen; der Herr wird ihm vergelten nach seinen Werken.",
+          "words": []
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "Vor ihm hüte auch du dich; denn er hat unsren Worten sehr widerstanden.",
+          "words": []
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "Bei meiner ersten Verantwortung vor Gericht stand mir niemand bei, sondern alle verließen mich; es sei ihnen nicht zugerechnet!",
+          "words": []
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "Der Herr aber stand mir bei und stärkte mich, damit durch mich die Predigt vollständig vorgetragen würde und alle Heiden sie hören könnten; und ich wurde erlöst aus dem Rachen des Löwen.",
+          "words": []
+        },
+        {
+          "id": 18,
+          "number": 18,
+          "text": "Und der Herr wird mich von jedem boshaften Werk erlösen und mich retten in sein himmlisches Reich. Ihm sei die Ehre von Ewigkeit zu Ewigkeit! Amen.",
+          "words": []
+        },
+        {
+          "id": 19,
+          "number": 19,
+          "text": "Grüße Prisca und Aquila und das Haus des Onesiphorus.",
+          "words": []
+        },
+        {
+          "id": 20,
+          "number": 20,
+          "text": "Erastus blieb in Korinth, Trophimus ließ ich in Milet krank zurück.",
+          "words": []
+        },
+        {
+          "id": 21,
+          "number": 21,
+          "text": "Beeile dich, vor dem Winter zu kommen! Es grüßen dich Eubulus und Pudens und Linus und Claudia und die Brüder alle.",
+          "words": []
+        },
+        {
+          "id": 22,
+          "number": 22,
+          "text": "Der Herr Jesus Christus sei mit deinem Geist; die Gnade sei mit euch!",
+          "words": []
+        }
+      ]
+    }
+  ]
+}
