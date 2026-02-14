@@ -5,22 +5,37 @@
     {
       "id": 1,
       "verses": [
-        {
-          "id": 1,
-          "number": 1,
-          "text": "Im Anfang schuf Gott die Himmel und die Erde.",
-          "words": [
-            { "text": "Im", "strongID": null },
-            { "text": "Anfang", "strongID": "H7225" },
-            { "text": "schuf", "strongID": "H1254" },
-            { "text": "Gott", "strongID": "H430" },
-            { "text": "die", "strongID": "H853" },
-            { "text": "Himmel", "strongID": "H8064" },
-            { "text": "und", "strongID": "H853" },
-            { "text": "die", "strongID": "H776" },
-            { "text": "Erde.", "strongID": "H776" }
-          ]
-        }
+        { "id": 1, "number": 1, "text": "Im Anfang schuf Gott die Himmel und die Erde.", "words": [{ "text": "Im", "strongID": null }, { "text": "Anfang", "strongID": "H7225" }, { "text": "schuf", "strongID": "H1254" }, { "text": "Gott", "strongID": "H430" }, { "text": "die", "strongID": "H853" }, { "text": "Himmel", "strongID": "H8064" }, { "text": "und", "strongID": "H853" }, { "text": "die", "strongID": "H776" }, { "text": "Erde.", "strongID": "H776" }] },
+        { "id": 2, "number": 2, "text": "Und die Erde war wüst und leer, und Finsternis war über der Tiefe; und der Geist Gottes schwebte über den Wassern.", "words": [{ "text": "Und", "strongID": "H205" }, { "text": "die", "strongID": null }, { "text": "Erde", "strongID": "H776" }, { "text": "war", "strongID": "H1961" }, { "text": "wüst", "strongID": "H8414" }, { "text": "leer", "strongID": "H922" }] },
+        { "id": 3, "number": 3, "text": "Und Gott sprach: Es werde Licht! Und es ward Licht.", "words": [{ "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "sprach", "strongID": "H559" }, { "text": "Licht", "strongID": "H216" }] },
+        { "id": 4, "number": 4, "text": "Und Gott sah das Licht, daß es gut war; und Gott schied das Licht von der Finsternis.", "words": [] },
+        { "id": 5, "number": 5, "text": "Und Gott nannte das Licht Tag, und die Finsternis nannte er Nacht. Und es ward Abend, und es ward Morgen: ein Tag.", "words": [] },
+        { "id": 6, "number": 6, "text": "Und Gott sprach: Es werde eine Ausdehnung inmitten der Wasser, und sie scheide die Wasser von den Wassern!", "words": [] },
+        { "id": 7, "number": 7, "text": "Und Gott machte die Ausdehnung und schied die Wasser, die unter der Ausdehnung, von den Wassern, die oberhalb der Ausdehnung waren. Und es ward also.", "words": [] },
+        { "id": 8, "number": 8, "text": "Und Gott nannte die Ausdehnung Himmel. Und es ward Abend, und es ward Morgen: ein zweiter Tag.", "words": [] },
+        { "id": 9, "number": 9, "text": "Und Gott sprach: Es sammle sich das Wasser unterhalb des Himmels an einen Ort, und es erscheine das Trockene! Und es ward also.", "words": [] },
+        { "id": 10, "number": 10, "text": "Und Gott nannte das Trockene Erde, und die Ansammlung der Wasser nannte er Meere. Und Gott sah, daß es gut war.", "words": [] },
+        { "id": 11, "number": 11, "text": "Und Gott sprach: Die Erde lasse Gras hervorsprossen, Kraut, das Samen hervorbringe, Fruchtbäume, die Frucht tragen nach ihrer Art, in welcher ihr Same sei auf der Erde! Und es ward also.", "words": [] },
+        { "id": 12, "number": 12, "text": "Und die Erde brachte Gras hervor, Kraut, das Samen hervorbringt nach seiner Art, und Bäume, die Frucht tragen, in welcher ihr Same ist nach ihrer Art. Und Gott sah, daß es gut war.", "words": [] },
+        { "id": 13, "number": 13, "text": "Und es ward Abend, und es ward Morgen: ein dritter Tag.", "words": [] },
+        { "id": 14, "number": 14, "text": "Und Gott sprach: Es seien Lichter an der Ausdehnung des Himmels, um zu scheiden zwischen dem Tage und der Nacht; und sie seien zu Zeichen und zur Bestimmung von Zeiten und Tagen und Jahren;", "words": [] },
+        { "id": 15, "number": 15, "text": "und sie seien zu Lichtern an der Ausdehnung des Himmels, um auf die Erde zu leuchten! Und es ward also.", "words": [] },
+        { "id": 16, "number": 16, "text": "Und Gott machte die zwei großen Lichter: das große Licht zur Beherrschung des Tages, und das kleine Licht zur Beherrschung der Nacht, und die Sterne.", "words": [] },
+        { "id": 17, "number": 17, "text": "Und Gott setzte sie an die Ausdehnung des Himmels, um auf die Erde zu leuchten,", "words": [] },
+        { "id": 18, "number": 18, "text": "und um zu herrschen über den Tag und über die Nacht, und um zu scheiden zwischen dem Licht und der Finsternis. Und Gott sah, daß es gut war.", "words": [] },
+        { "id": 19, "number": 19, "text": "Und es ward Abend, und es ward Morgen: ein vierte Tag.", "words": [] },
+        { "id": 20, "number": 20, "text": "Und Gott sprach: Es wimmeln die Wasser von lebendigen Wesen, und Vögel sollen über der Erde fliegen an der Vorderseite der Ausdehnung des Himmels!", "words": [] },
+        { "id": 21, "number": 21, "text": "Und Gott schuf die großen Seeungeheuer und jedes lebendige, sich regende Wesen, von denen die Wasser wimmeln nach ihrer Art, und alles geflügelte Gevögel nach seiner Art. Und Gott sah, daß es gut war.", "words": [] },
+        { "id": 22, "number": 22, "text": "Und Gott segnete sie und sprach: Seid fruchtbar und mehret euch und füllet die Wasser in den Meeren, und das Gevögel mehre sich auf der Erde!", "words": [] },
+        { "id": 23, "number": 23, "text": "Und es ward Abend, und es ward Morgen: ein fünfter Tag.", "words": [] },
+        { "id": 24, "number": 24, "text": "Und Gott sprach: Die Erde bringe lebendige Wesen hervor nach ihrer Art: Vieh und Gewürm und Tiere der Erde nach ihrer Art! Und es ward also.", "words": [] },
+        { "id": 25, "number": 25, "text": "Und Gott machte die Tiere der Erde nach ihrer Art, und das Vieh nach seiner Art, und alles Gewürm des Erdbodens nach seiner Art. Und Gott sah, daß es gut war.", "words": [] },
+        { "id": 26, "number": 26, "text": "Und Gott sprach: Lasset uns Menschen machen in unserem Bilde, nach unserem Gleichnis; und sie sollen herrschen über die Fische des Meeres und über das Gevögel des Himmels und über das Vieh und über die ganze Erde und über alles Gewürm, das sich auf der Erde regt!", "words": [] },
+        { "id": 27, "number": 27, "text": "Und Gott schuf den Menschen in seinem Bilde, im Bilde Gottes schuf er ihn; Mann und Weib schuf er sie.", "words": [] },
+        { "id": 28, "number": 28, "text": "Und Gott segnete sie, und Gott sprach zu ihnen: Seid fruchtbar und mehret euch und füllet die Erde und machet sie euch untertan; und herrschet über die Fische des Meeres und über das Gevögel des Himmels und über alles Getier, das sich auf der Erde regt!", "words": [] },
+        { "id": 29, "number": 29, "text": "Und Gott sprach: Siehe, ich habe euch gegeben alles samenbringende Kraut, das auf der ganzen Erdoberfläche ist, und jeden Baum, an dem samenbringende Baumfrucht ist: es soll euch zur Speise sein;", "words": [] },
+        { "id": 30, "number": 30, "text": "und allem Getier der Erde und allem Gevögel des Himmels und allem, was sich auf der Erde regt, in welchem eine lebendige Seele ist, habe ich alles grüne Kraut zur Speise gegeben. Und es ward also.", "words": [] },
+        { "id": 31, "number": 31, "text": "Und Gott sah alles, was er gemacht hatte, und siehe, es war sehr gut. Und es ward Abend, und es ward Morgen: der sechste Tag.", "words": [] }
       ]
     }
   ]
