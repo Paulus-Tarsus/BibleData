@@ -1,0 +1,571 @@
+ {
+    "id": 1,
+    "name": "1. Mose",
+    "chapters": [
+      {
+        "id": 1,
+        "verses": [
+          {
+            "id": 1,
+            "number": 1,
+            "text": "Im Anfang schuf Gott die Himmel und die Erde.",
+            "words": [
+              {"text": "Im"},
+              {"text": "Anfang", "strongID": "H7225"},
+              {"text": "schuf", "strongID": "H1254"},
+              {"text": "Gott", "strongID": "H430"},
+              {"text": "die"},
+              {"text": "Himmel", "strongID": "H8064"},
+              {"text": "und"},
+              {"text": "die"},
+              {"text": "Erde.", "strongID": "H776"}
+            ]
+          },
+          {
+            "id": 2,
+            "number": 2,
+            "text": "Und die Erde war wüst und leer, und Finsternis lag auf der Tiefe; und der Geist Gottes schwebte über dem Wasser.",
+            "words": [
+              {"text": "Und"},
+              {"text": "die"},
+              {"text": "Erde", "strongID": "H776"},
+              {"text": "war"},
+              {"text": "wüst", "strongID": "H8414"},
+              {"text": "und"},
+              {"text": "leer,", "strongID": "H922"},
+              {"text": "und"},
+              {"text": "Finsternis"},
+              {"text": "lag"},
+              {"text": "auf"},
+              {"text": "der"},
+              {"text": "Tiefe;"},
+              {"text": "und"},
+              {"text": "der"},
+              {"text": "Geist"},
+              {"text": "Gottes", "strongID": "H430"},
+              {"text": "schwebte"},
+              {"text": "über"},
+              {"text": "dem"},
+              {"text": "Wasser."}
+            ]
+          },
+          {
+            "id": 3,
+            "number": 3,
+            "text": "Und Gott sprach: Es werde Licht! Und es ward Licht.",
+            "words": [
+              {"text": "Und"},
+              {"text": "Gott", "strongID": "H430"},
+              {"text": "sprach:"},
+              {"text": "Es"},
+              {"text": "werde"},
+              {"text": "Licht!", "strongID": "H216"},
+              {"text": "Und"},
+              {"text": "es"},
+              {"text": "ward"},
+              {"text": "Licht.", "strongID": "H216"}
+            ]
+          },{
+            "id": 4,
+            "number": 4,
+            "text": "Und Gott sah das Licht, dass es gut war; und Gott schied das Licht von der Finsternis.",
+            "words": [
+              {"text": "Und"},
+              {"text": "Gott", "strongID": "H430"},
+              {"text": "sah,", "strongID": "H7200"},
+              {"text": "das"},
+              {"text": "Licht,", "strongID": "H216"},
+              {"text": "dass"},
+              {"text": "es"},
+              {"text": "gut", "strongID": "H2896"},
+              {"text": "war;"},
+              {"text": "und"},
+              {"text": "Gott", "strongID": "H430"},
+              {"text": "schied", "strongID": "H914"},
+              {"text": "das"},
+              {"text": "Licht"},
+              {"text": "von"},
+              {"text": "der"},
+              {"text": "Finsternis.", "strongID": "H2822"}
+            ]
+          },
+          {
+            "id": 5,
+            "number": 5,
+            "text": "Und Gott nannte das Licht Tag, und die Finsternis nannte er Nacht. Und es ward Abend und es ward Morgen: der erste Tag.",
+            "words": [
+              {"text": "Und"},
+              {"text": "Gott", "strongID": "H430"},
+              {"text": "nannte", "strongID": "H7121"},
+              {"text": "das"},
+              {"text": "Licht"},
+              {"text": "Tag,", "strongID": "H3117"},
+              {"text": "und"},
+              {"text": "die"},
+              {"text": "Finsternis", "strongID": "H2822"},
+              {"text": "nannte"},
+              {"text": "er"},
+              {"text": "Nacht.", "strongID": "H3915"},
+              {"text": "Und"},
+              {"text": "es"},
+              {"text": "ward"},
+              {"text": "Abend", "strongID": "H6153"},
+              {"text": "und"},
+              {"text": "es"},
+              {"text": "ward"},
+              {"text": "Morgen:", "strongID": "H1242"},
+              {"text": "der"},
+              {"text": "erste", "strongID": "H259"},
+              {"text": "Tag.", "strongID": "H3117"}
+            ]
+          },
+          {
+            "id": 6,
+            "number": 6,
+            "text": "Und Gott sprach: Es werde eine Feste zwischen den Wassern, die da scheide zwischen den Wassern.",
+            "words": [
+              {"text": "Und"},
+              {"text": "Gott", "strongID": "H430"},
+              {"text": "sprach:", "strongID": "H559"},
+              {"text": "Es"},
+              {"text": "werde"},
+              {"text": "eine"},
+              {"text": "Feste", "strongID": "H7549"},
+              {"text": "zwischen"},
+              {"text": "den"},
+              {"text": "Wassern,", "strongID": "H4325"},
+              {"text": "die"},
+              {"text": "da"},
+              {"text": "scheide", "strongID": "H914"},
+              {"text": "zwischen"},
+              {"text": "den"},
+              {"text": "Wassern."}
+            ]
+          },
+          {
+            "id": 7,
+            "number": 7,
+            "text": "Da machte Gott die Feste und schied das Wasser unter der Feste von dem Wasser über der Feste. Und es geschah so.",
+            "words": [
+              {"text": "Da"},
+              {"text": "machte", "strongID": "H6213"},
+              {"text": "Gott", "strongID": "H430"},
+              {"text": "die"},
+              {"text": "Feste", "strongID": "H7549"},
+              {"text": "und"},
+              {"text": "schied", "strongID": "H914"},
+              {"text": "das"},
+              {"text": "Wasser", "strongID": "H4325"},
+              {"text": "unter"},
+              {"text": "der"},
+              {"text": "Feste"},
+              {"text": "von"},
+              {"text": "dem"},
+              {"text": "Wasser"},
+              {"text": "über"},
+              {"text": "der"},
+              {"text": "Feste."},
+              {"text": "Und"},
+              {"text": "es"},
+              {"text": "geschah", "strongID": "H1961"},
+              {"text": "so."}
+            ]
+          },
+          {
+            "id": 8,
+            "number": 8,
+            "text": "Und Gott nannte die Feste Himmel. Da ward aus Abend und Morgen der zweite Tag.",
+            "words": [
+              {"text": "Und"},
+              {"text": "Gott", "strongID": "H430"},
+              {"text": "nannte", "strongID": "H7121"},
+              {"text": "die"},
+              {"text": "Feste"},
+              {"text": "Himmel.", "strongID": "H8064"},
+              {"text": "Da"},
+              {"text": "ward"},
+              {"text": "aus"},
+              {"text": "Abend", "strongID": "H6153"},
+              {"text": "und"},
+              {"text": "Morgen", "strongID": "H1242"},
+              {"text": "der"},
+              {"text": "zweite", "strongID": "H8145"},
+              {"text": "Tag.", "strongID": "H3117"}
+            ]
+          },
+          {
+            "id": 9,
+            "number": 9,
+            "text": "Und Gott sprach: Es sammle sich das Wasser unter dem Himmel an einen Ort, dass man das Trockene sehe. Und es geschah so.",
+            "words": [
+              {"text": "Und"},
+              {"text": "Gott", "strongID": "H430"},
+              {"text": "sprach:", "strongID": "H559"},
+              {"text": "Es"},
+              {"text": "sammle", "strongID": "H6950"},
+              {"text": "sich"},
+              {"text": "das"},
+              {"text": "Wasser", "strongID": "H4325"},
+              {"text": "unter"},
+              {"text": "dem"},
+              {"text": "Himmel", "strongID": "H8064"},
+              {"text": "an"},
+              {"text": "einen"},
+              {"text": "Ort,", "strongID": "H4725"},
+              {"text": "dass"},
+              {"text": "man"},
+              {"text": "das"},
+              {"text": "Trockene", "strongID": "H3004"},
+              {"text": "sehe.", "strongID": "H7200"},
+              {"text": "Und"},
+              {"text": "es"},
+              {"text": "geschah", "strongID": "H1961"},
+              {"text": "so."}
+            ]
+          },
+          {
+            "id": 10,
+            "number": 10,
+            "text": "Und Gott nannte das Trockene Erde, und die Sammlung der Wasser nannte er Meer. Und Gott sah, dass es gut war.",
+            "words": [
+              {"text": "Und"},
+              {"text": "Gott", "strongID": "H430"},
+              {"text": "nannte", "strongID": "H7121"},
+              {"text": "das"},
+              {"text": "Trockene", "strongID": "H3004"},
+              {"text": "Erde,", "strongID": "H776"},
+              {"text": "und"},
+              {"text": "die"},
+              {"text": "Sammlung"},
+              {"text": "der"},
+              {"text": "Wasser", "strongID": "H4325"},
+              {"text": "nannte"},
+              {"text": "er"},
+              {"text": "Meer.", "strongID": "H3220"},
+              {"text": "Und"},
+              {"text": "Gott", "strongID": "H430"},
+              {"text": "sah,", "strongID": "H7200"},
+              {"text": "dass"},
+              {"text": "es"},
+              {"text": "gut", "strongID": "H2896"},
+              {"text": "war."}
+            ]
+          },
+          {
+            "id": 11,
+            "number": 11,
+            "text": "Und Gott sprach: Es lasse die Erde aufgehen Gras und Kraut, das Samen bringe, und fruchtbare Bäume, die ein jeder nach seiner Art Früchte tragen, in denen ihr Same ist auf Erden. Und es geschah so.",
+            "words": [
+              {"text": "Und"},
+              {"text": "Gott", "strongID": "H430"},
+              {"text": "sprach:", "strongID": "H559"},
+              {"text": "Es"},
+              {"text": "lasse"},
+              {"text": "die"},
+              {"text": "Erde", "strongID": "H776"},
+              {"text": "aufgehen"},
+              {"text": "Gras", "strongID": "H1877"},
+              {"text": "und"},
+              {"text": "Kraut,", "strongID": "H6212"},
+              {"text": "das"},
+              {"text": "Samen", "strongID": "H2233"},
+              {"text": "bringe,"},
+              {"text": "und"},
+              {"text": "fruchtbare"},
+              {"text": "Bäume,", "strongID": "H6086"},
+              {"text": "die"},
+              {"text": "ein"},
+              {"text": "jeder"},
+              {"text": "nach"},
+              {"text": "seiner"},
+              {"text": "Art", "strongID": "H4327"},
+              {"text": "Früchte", "strongID": "H6529"},
+              {"text": "tragen,"},
+              {"text": "in"},
+              {"text": "denen"},
+              {"text": "ihr"},
+              {"text": "Same", "strongID": "H2233"},
+              {"text": "ist"},
+              {"text": "auf"},
+              {"text": "Erden.", "strongID": "H776"},
+              {"text": "Und"},
+              {"text": "es"},
+              {"text": "geschah", "strongID": "H1961"},
+              {"text": "so."}
+            ]
+          },
+          {
+            "id": 12,
+            "number": 12,
+            "text": "Und die Erde ließ aufgehen Gras und Kraut, das Samen bringt, ein jedes nach seiner Art, und Bäume, die da Früchte tragen, in denen ihr Same ist, ein jeder nach seiner Art. Und Gott sah, dass es gut war.",
+            "words": [
+              {"text": "Und"},
+              {"text": "die"},
+              {"text": "Erde", "strongID": "H776"},
+              {"text": "ließ"},
+              {"text": "aufgehen"},
+              {"text": "Gras", "strongID": "H1877"},
+              {"text": "und"},
+              {"text": "Kraut,", "strongID": "H6212"},
+              {"text": "das"},
+              {"text": "Samen", "strongID": "H2233"},
+              {"text": "bringt,"},
+              {"text": "ein"},
+              {"text": "jedes"},
+              {"text": "nach"},
+              {"text": "seiner"},
+              {"text": "Art,", "strongID": "H4327"},
+              {"text": "und"},
+              {"text": "Bäume,", "strongID": "H6086"},
+              {"text": "die"},
+              {"text": "da"},
+              {"text": "Früchte", "strongID": "H6529"},
+              {"text": "tragen,"},
+              {"text": "in"},
+              {"text": "denen"},
+              {"text": "ihr"},
+              {"text": "Same", "strongID": "H2233"},
+              {"text": "ist,"},
+              {"text": "ein"},
+              {"text": "jeder"},
+              {"text": "nach"},
+              {"text": "seiner"},
+              {"text": "Art.", "strongID": "H4327"},
+              {"text": "Und"},
+              {"text": "Gott", "strongID": "H430"},
+              {"text": "sah,", "strongID": "H7200"},
+              {"text": "dass"},
+              {"text": "es"},
+              {"text": "gut", "strongID": "H2896"},
+              {"text": "war."}
+            ]
+          },
+          {
+            "id": 13,
+            "number": 13,
+            "text": "Da ward aus Abend und Morgen der dritte Tag.",
+            "words": [
+              {"text": "Da"},
+              {"text": "ward"},
+              {"text": "aus"},
+              {"text": "Abend", "strongID": "H6153"},
+              {"text": "und"},
+              {"text": "Morgen", "strongID": "H1242"},
+              {"text": "der"},
+              {"text": "dritte", "strongID": "H7992"},
+              {"text": "Tag.", "strongID": "H3117"}
+            ]
+          },
+          {
+    "id": 14, "number": 14,
+    "text": "Und Gott sprach: Es werden Lichter an der Ausdehnung des Himmels, um den Tag von der Nacht zu scheiden, und sie sollen zu Zeichen und zu Zeiten und zu Tagen und Jahren sein;",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "sprach", "strongID": "H559" },
+      { "text": "Es", "strongID": null }, { "text": "werden", "strongID": "H1961" }, { "text": "Lichter", "strongID": "H3974" },
+      { "text": "an", "strongID": null }, { "text": "der", "strongID": null }, { "text": "Ausdehnung", "strongID": "H7549" },
+      { "text": "des", "strongID": null }, { "text": "Himmels", "strongID": "H8064" },
+      { "text": "um", "strongID": null }, { "text": "den", "strongID": null }, { "text": "Tag", "strongID": "H3117" },
+      { "text": "von", "strongID": null }, { "text": "der", "strongID": null }, { "text": "Nacht", "strongID": "H3915" },
+      { "text": "zu", "strongID": null }, { "text": "scheiden", "strongID": "H914" }
+    ]
+  },
+  {
+    "id": 15, "number": 15,
+    "text": "und sie seien zu Lichtern an der Ausdehnung des Himmels, um auf die Erde zu leuchten! Und es geschah so.",
+    "words": [
+      { "text": "und", "strongID": "H205" }, { "text": "sie", "strongID": null }, { "text": "seien", "strongID": "H1961" },
+      { "text": "zu", "strongID": null }, { "text": "Lichtern", "strongID": "H3974" },
+      { "text": "an", "strongID": null }, { "text": "der", "strongID": null }, { "text": "Ausdehnung", "strongID": "H7549" },
+      { "text": "des", "strongID": null }, { "text": "Himmels", "strongID": "H8064" },
+      { "text": "um", "strongID": null }, { "text": "auf", "strongID": "H5921" },
+      { "text": "die", "strongID": null }, { "text": "Erde", "strongID": "H776" },
+      { "text": "zu", "strongID": null }, { "text": "leuchten", "strongID": "H215" }
+    ]
+  },
+  {
+    "id": 16, "number": 16,
+    "text": "Und Gott machte die zwei großen Lichter: das große Licht zur Beherrschung des Tages, und das kleine Licht zur Beherrschung der Nacht, und die Sterne.",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "machte", "strongID": "H6213" },
+      { "text": "die", "strongID": null }, { "text": "zwei", "strongID": "H8147" },
+      { "text": "großen", "strongID": "H1419" }, { "text": "Lichter", "strongID": "H3974" },
+      { "text": "das", "strongID": null }, { "text": "große", "strongID": "H1419" }, { "text": "Licht", "strongID": "H3974" },
+      { "text": "zur", "strongID": null }, { "text": "Beherrschung", "strongID": "H4475" },
+      { "text": "des", "strongID": null }, { "text": "Tages", "strongID": "H3117" },
+      { "text": "und", "strongID": "H205" }, { "text": "das", "strongID": null }, { "text": "kleine", "strongID": "H6996" },
+      { "text": "Licht", "strongID": "H3974" }, { "text": "zur", "strongID": null }, { "text": "Beherrschung", "strongID": "H4475" },
+      { "text": "der", "strongID": null }, { "text": "Nacht", "strongID": "H3915" },
+      { "text": "und", "strongID": "H205" }, { "text": "die", "strongID": null }, { "text": "Sterne", "strongID": "H3556" }
+    ]
+  },
+  {
+    "id": 17, "number": 17,
+    "text": "Und Gott setzte sie an die Ausdehnung des Himmels, um auf die Erde zu leuchten,",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "setzte", "strongID": "H5414" },
+      { "text": "sie", "strongID": null }, { "text": "an", "strongID": null }, { "text": "die", "strongID": null },
+      { "text": "Ausdehnung", "strongID": "H7549" }, { "text": "des", "strongID": null }, { "text": "Himmels", "strongID": "H8064" },
+      { "text": "um", "strongID": null }, { "text": "auf", "strongID": null }, { "text": "die", "strongID": null },
+      { "text": "Erde", "strongID": "H776" }, { "text": "zu", "strongID": null }, { "text": "leuchten", "strongID": "H215" }
+    ]
+  },
+  {
+    "id": 18, "number": 18,
+    "text": "und zu herrschen über den Tag und über die Nacht und zu scheiden zwischen dem Licht und der Finsternis. Und Gott sah, dass es gut war.",
+    "words": [
+      { "text": "und", "strongID": "H205" }, { "text": "zu", "strongID": null }, { "text": "herrschen", "strongID": "H4910" },
+      { "text": "über", "strongID": null }, { "text": "den", "strongID": null }, { "text": "Tag", "strongID": "H3117" },
+      { "text": "und", "strongID": null }, { "text": "über", "strongID": null }, { "text": "die", "strongID": null }, { "text": "Nacht", "strongID": "H3915" },
+      { "text": "und", "strongID": null }, { "text": "zu", "strongID": null }, { "text": "scheiden", "strongID": "H914" },
+      { "text": "zwischen", "strongID": null }, { "text": "dem", "strongID": null }, { "text": "Licht", "strongID": "H216" },
+      { "text": "und", "strongID": "H205" }, { "text": "der", "strongID": null }, { "text": "Finsternis", "strongID": "H2822" },
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "sah", "strongID": "H7200" },
+      { "text": "dass", "strongID": null }, { "text": "es", "strongID": null }, { "text": "gut", "strongID": "H2896" },
+      { "text": "war", "strongID": null }
+    ]
+  },
+  {
+    "id": 19, "number": 19,
+    "text": "Und es wurde Abend und es wurde Morgen: vierter Tag.",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "es", "strongID": null }, { "text": "wurde", "strongID": "H1961" },
+      { "text": "Abend", "strongID": "H6153" }, { "text": "und", "strongID": "H205" }, { "text": "es", "strongID": null },
+      { "text": "wurde", "strongID": "H1961" }, { "text": "Morgen", "strongID": "H1242" },
+      { "text": "vierter", "strongID": "H7243" }, { "text": "Tag", "strongID": "H3117" }
+    ]
+  },
+  {
+    "id": 20, "number": 20,
+    "text": "Und Gott sprach: Es wimmeln die Wasser vom Gewimmel lebendiger Wesen, und Vögel sollen über der Erde fliegen an der Ausdehnung des Himmels hin!",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "sprach", "strongID": "H559" },
+      { "text": "Es", "strongID": null }, { "text": "wimmeln", "strongID": "H8317" }, { "text": "die", "strongID": null }, { "text": "Wasser", "strongID": "H4325" },
+      { "text": "vom", "strongID": null }, { "text": "Gewimmel", "strongID": "H8318" },
+      { "text": "lebendiger", "strongID": "H2416" }, { "text": "Wesen", "strongID": "H5315" },
+      { "text": "und", "strongID": "H205" }, { "text": "Vögel", "strongID": "H5775" }, { "text": "sollen", "strongID": null },
+      { "text": "über", "strongID": "H5921" }, { "text": "der", "strongID": null }, { "text": "Erde", "strongID": "H776" },
+      { "text": "fliegen", "strongID": "H5774" }
+    ]
+  },
+  {
+    "id": 21, "number": 21,
+    "text": "Und Gott schuf die großen Seeungeheuer und alle lebendigen Wesen, die sich regen, wovon die Wasser wimmeln, nach ihrer Art, und alle geflügelten Vögel nach ihrer Art. Und Gott sah, dass es gut war.",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "schuf", "strongID": "H1254" },
+      { "text": "die", "strongID": null }, { "text": "großen", "strongID": "H1419" }, { "text": "Seeungeheuer", "strongID": "H8577" },
+      { "text": "und", "strongID": "H205" }, { "text": "alle", "strongID": "H3605" },
+      { "text": "lebendigen", "strongID": "H2416" }, { "text": "Wesen", "strongID": "H5315" },
+      { "text": "die", "strongID": null }, { "text": "sich", "strongID": null }, { "text": "regen", "strongID": "H7430" }
+    ]
+  },
+  {
+    "id": 22, "number": 22,
+    "text": "Und Gott segnete sie und sprach: Seid fruchtbar und mehret euch und füllet die Wasser in den Meeren, und die Vögel sollen sich mehren auf der Erde!",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "segnete", "strongID": "H1288" },
+      { "text": "sie", "strongID": null }, { "text": "und", "strongID": "H205" }, { "text": "sprach", "strongID": "H559" },
+      { "text": "Seid", "strongID": null }, { "text": "fruchtbar", "strongID": "H6509" },
+      { "text": "und", "strongID": "H205" }, { "text": "mehret", "strongID": "H7235" }, { "text": "euch", "strongID": null },
+      { "text": "und", "strongID": "H205" }, { "text": "füllet", "strongID": "H4390" },
+      { "text": "die", "strongID": null }, { "text": "Wasser", "strongID": "H4325" }
+    ]
+  },
+  {
+    "id": 23, "number": 23,
+    "text": "Und es wurde Abend und es wurde Morgen: fünfter Tag.",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "es", "strongID": null }, { "text": "wurde", "strongID": "H1961" },
+      { "text": "Abend", "strongID": "H6153" }, { "text": "und", "strongID": "H205" }, { "text": "es", "strongID": null },
+      { "text": "wurde", "strongID": "H1961" }, { "text": "Morgen", "strongID": "H1242" },
+      { "text": "fünfter", "strongID": "H2549" }, { "text": "Tag", "strongID": "H3117" }
+    ]
+  },
+  {
+    "id": 24, "number": 24,
+    "text": "Und Gott sprach: Die Erde bringe hervor lebendige Wesen nach ihrer Art: Vieh und Gewürm und Tiere der Erde nach ihrer Art! Und es geschah so.",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "sprach", "strongID": "H559" },
+      { "text": "Die", "strongID": null }, { "text": "Erde", "strongID": "H776" }, { "text": "bringe", "strongID": "H3318" }, { "text": "hervor", "strongID": null },
+      { "text": "lebendige", "strongID": "H2416" }, { "text": "Wesen", "strongID": "H5315" },
+      { "text": "nach", "strongID": null }, { "text": "ihrer", "strongID": null }, { "text": "Art", "strongID": "H4327" },
+      { "text": "Vieh", "strongID": "H929" }, { "text": "und", "strongID": "H205" }, { "text": "Gewürm", "strongID": "H7431" }
+    ]
+  },
+  {
+    "id": 25, "number": 25,
+    "text": "Und Gott machte die Tiere der Erde nach ihrer Art und das Vieh nach seiner Art und alles Gewürm des Erdbodens nach seiner Art. Und Gott sah, dass es gut war.",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "machte", "strongID": "H6213" },
+      { "text": "die", "strongID": null }, { "text": "Tiere", "strongID": "H2416" }, { "text": "der", "strongID": null }, { "text": "Erde", "strongID": "H776" }
+    ]
+  },
+  {
+    "id": 26, "number": 26,
+    "text": "Und Gott sprach: Lasst uns Menschen machen in unserem Bilde, nach unserem Gleichnis! Und sie sollen herrschen über die Fische des Meeres und über die Vögel des Himmels und über das Vieh und über die ganze Erde und über alles Gewürm, das sich auf der Erde regt.",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "sprach", "strongID": "H559" },
+      { "text": "Lasst", "strongID": "H6213" }, { "text": "uns", "strongID": null }, { "text": "Menschen", "strongID": "H120" },
+      { "text": "machen", "strongID": "H6213" }, { "text": "in", "strongID": null }, { "text": "unserem", "strongID": null },
+      { "text": "Bilde", "strongID": "H6754" }, { "text": "nach", "strongID": null }, { "text": "unserem", "strongID": null },
+      { "text": "Gleichnis", "strongID": "H1823" }
+    ]
+  },
+  {
+    "id": 27, "number": 27,
+    "text": "Und Gott schuf den Menschen in seinem Bilde, im Bilde Gottes schuf er ihn; Mann und Frau schuf er sie.",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "schuf", "strongID": "H1254" },
+      { "text": "den", "strongID": null }, { "text": "Menschen", "strongID": "H120" },
+      { "text": "in", "strongID": null }, { "text": "seinem", "strongID": null }, { "text": "Bilde", "strongID": "H6754" },
+      { "text": "im", "strongID": null }, { "text": "Bilde", "strongID": "H6754" }, { "text": "Gottes", "strongID": "H430" },
+      { "text": "Mann", "strongID": "H2145" }, { "text": "und", "strongID": "H205" }, { "text": "Frau", "strongID": "H5347" },
+      { "text": "schuf", "strongID": "H1254" }, { "text": "er", "strongID": null }, { "text": "sie", "strongID": null }
+    ]
+  },
+  {
+    "id": 28, "number": 28,
+    "text": "Und Gott segnete sie, und Gott sprach zu ihnen: Seid fruchtbar und mehret euch und füllet die Erde und macht sie euch untertan...",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "segnete", "strongID": "H1288" },
+      { "text": "sie", "strongID": null }, { "text": "und", "strongID": "H205" }, { "text": "sprach", "strongID": "H559" },
+      { "text": "Seid", "strongID": null }, { "text": "fruchtbar", "strongID": "H6509" },
+      { "text": "und", "strongID": "H205" }, { "text": "mehret", "strongID": "H7235" }, { "text": "euch", "strongID": null },
+      { "text": "und", "strongID": "H205" }, { "text": "füllet", "strongID": "H4390" },
+      { "text": "die", "strongID": null }, { "text": "Erde", "strongID": "H776" }
+    ]
+  },
+  {
+    "id": 29, "number": 29,
+    "text": "Und Gott sprach: Siehe, ich habe euch gegeben alles kraut samentragende, das auf der Fläche der ganzen Erde ist...",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "sprach", "strongID": "H559" },
+      { "text": "Siehe", "strongID": "H2009" }, { "text": "ich", "strongID": null }, { "text": "habe", "strongID": null },
+      { "text": "gegeben", "strongID": "H5414" }, { "text": "alles", "strongID": "H3605" }, { "text": "Kraut", "strongID": "H6212" }
+    ]
+  },
+  {
+    "id": 30, "number": 30,
+    "text": "und allem Tier der Erde und allen Vögeln des Himmels...",
+    "words": [
+      { "text": "und", "strongID": "H205" }, { "text": "allem", "strongID": "H3605" }, { "text": "Tier", "strongID": "H2416" }, { "text": "der", "strongID": null }, { "text": "Erde", "strongID": "H776" }
+    ]
+  },
+  {
+    "id": 31, "number": 31,
+    "text": "Und Gott sah alles, was er gemacht hatte, und siehe, es war sehr gut. Und es wurde Abend und es wurde Morgen: der sechste Tag.",
+    "words": [
+      { "text": "Und", "strongID": "H205" }, { "text": "Gott", "strongID": "H430" }, { "text": "sah", "strongID": "H7200" },
+      { "text": "alles", "strongID": "H3605" }, { "text": "was", "strongID": "H834" },
+      { "text": "er", "strongID": null }, { "text": "gemacht", "strongID": "H6213" }, { "text": "hatte", "strongID": null },
+      { "text": "und", "strongID": "H205" }, { "text": "siehe", "strongID": "H2009" },
+      { "text": "sehr", "strongID": "H3966" }, { "text": "gut", "strongID": "H2896" },
+      { "text": "Und", "strongID": "H205" }, { "text": "es", "strongID": null }, { "text": "wurde", "strongID": "H1961" },
+      { "text": "Abend", "strongID": "H6153" }, { "text": "und", "strongID": "H205" }, { "text": "es", "strongID": null },
+      { "text": "wurde", "strongID": "H1961" }, { "text": "Morgen", "strongID": "H1242" },
+      { "text": "der", "strongID": null }, { "text": "sechste", "strongID": "H8345" }, { "text": "Tag", "strongID": "H3117" }
+    ]
+  }
+        ]
+      }
+    ]
+  }
