@@ -1,0 +1,4757 @@
+{
+  "id": 32,
+  "name": "Jonah",
+  "chapters": [
+    {
+      "id": 1,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "Now the word of the LORD came unto Jonah the son of Amittai, saying, {Jonah: Gr. Jonas}",
+          "words": [
+            {
+              "text": "Now"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "word"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "came"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "Jonah"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "son"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Amittai,"
+            },
+            {
+              "text": "saying,"
+            },
+            {
+              "text": "{Jonah:"
+            },
+            {
+              "text": "Gr."
+            },
+            {
+              "text": "Jonas}"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.",
+          "words": [
+            {
+              "text": "Arise,"
+            },
+            {
+              "text": "go"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "Nineveh,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "city,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "cry"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "it;"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "wickedness"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "come"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "me."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "Jonah"
+            },
+            {
+              "text": "rose"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "flee"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "Tarshish"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "presence"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "went"
+            },
+            {
+              "text": "down"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "Joppa;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "found"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "ship"
+            },
+            {
+              "text": "going"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "Tarshish:"
+            },
+            {
+              "text": "so"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "paid"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fare"
+            },
+            {
+              "text": "thereof,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "went"
+            },
+            {
+              "text": "down"
+            },
+            {
+              "text": "into"
+            },
+            {
+              "text": "it,"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "go"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "Tarshish"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "presence"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken. {sent out: Heb. cast forth} {was like...: Heb. thought to be broken}",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "sent"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "wind"
+            },
+            {
+              "text": "into"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "there"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "mighty"
+            },
+            {
+              "text": "tempest"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea,"
+            },
+            {
+              "text": "so"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "ship"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "like"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "broken."
+            },
+            {
+              "text": "{sent"
+            },
+            {
+              "text": "out:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "cast"
+            },
+            {
+              "text": "forth}"
+            },
+            {
+              "text": "{was"
+            },
+            {
+              "text": "like...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "thought"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "broken}"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that {were} in the ship into the sea, to lighten {it} of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.",
+          "words": [
+            {
+              "text": "Then"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "mariners"
+            },
+            {
+              "text": "were"
+            },
+            {
+              "text": "afraid,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "cried"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "god,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "cast"
+            },
+            {
+              "text": "forth"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wares"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "{were}"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "ship"
+            },
+            {
+              "text": "into"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea,"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "lighten"
+            },
+            {
+              "text": "{it}"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "them."
+            },
+            {
+              "text": "But"
+            },
+            {
+              "text": "Jonah"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "gone"
+            },
+            {
+              "text": "down"
+            },
+            {
+              "text": "into"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sides"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "ship;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "lay,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "fast"
+            },
+            {
+              "text": "asleep."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.",
+          "words": [
+            {
+              "text": "So"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "shipmaster"
+            },
+            {
+              "text": "came"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "said"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "What"
+            },
+            {
+              "text": "meanest"
+            },
+            {
+              "text": "thou,"
+            },
+            {
+              "text": "O"
+            },
+            {
+              "text": "sleeper?"
+            },
+            {
+              "text": "arise,"
+            },
+            {
+              "text": "call"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "God,"
+            },
+            {
+              "text": "if"
+            },
+            {
+              "text": "so"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "think"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "us,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "perish"
+            },
+            {
+              "text": "not."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil {is} upon us. So they cast lots, and the lot fell upon Jonah.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "said"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "one"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "fellow,"
+            },
+            {
+              "text": "Come,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "let"
+            },
+            {
+              "text": "us"
+            },
+            {
+              "text": "cast"
+            },
+            {
+              "text": "lots,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "know"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "whose"
+            },
+            {
+              "text": "cause"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "evil"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "us."
+            },
+            {
+              "text": "So"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "cast"
+            },
+            {
+              "text": "lots,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "lot"
+            },
+            {
+              "text": "fell"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "Jonah."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "Then said they unto him, Tell us, we pray thee, for whose cause this evil {is} upon us; What {is} thine occupation? and whence comest thou? what {is} thy country? and of what people {art} thou?",
+          "words": [
+            {
+              "text": "Then"
+            },
+            {
+              "text": "said"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "Tell"
+            },
+            {
+              "text": "us,"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "pray"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "whose"
+            },
+            {
+              "text": "cause"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "evil"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "us;"
+            },
+            {
+              "text": "What"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "thine"
+            },
+            {
+              "text": "occupation?"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "whence"
+            },
+            {
+              "text": "comest"
+            },
+            {
+              "text": "thou?"
+            },
+            {
+              "text": "what"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "country?"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "what"
+            },
+            {
+              "text": "people"
+            },
+            {
+              "text": "{art}"
+            },
+            {
+              "text": "thou?"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "And he said unto them, I {am} an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry {land}. {the LORD: or, JEHOVAH}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "said"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "them,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "{am}"
+            },
+            {
+              "text": "an"
+            },
+            {
+              "text": "Hebrew;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "fear"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "heaven,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "dry"
+            },
+            {
+              "text": "{land}."
+            },
+            {
+              "text": "{the"
+            },
+            {
+              "text": "LORD:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "JEHOVAH}"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them. {exceedingly...: Heb. with great fear}",
+          "words": [
+            {
+              "text": "Then"
+            },
+            {
+              "text": "were"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "men"
+            },
+            {
+              "text": "exceedingly"
+            },
+            {
+              "text": "afraid,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "said"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "Why"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "done"
+            },
+            {
+              "text": "this?"
+            },
+            {
+              "text": "For"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "men"
+            },
+            {
+              "text": "knew"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "fled"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "presence"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "because"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "had"
+            },
+            {
+              "text": "told"
+            },
+            {
+              "text": "them."
+            },
+            {
+              "text": "{exceedingly...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "fear}"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous. {may...: Heb. may be silent from us} {wrought...: or, grew more and more tempestuous: Heb. went}",
+          "words": [
+            {
+              "text": "Then"
+            },
+            {
+              "text": "said"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "What"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea"
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "calm"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "us?"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea"
+            },
+            {
+              "text": "wrought,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "tempestuous."
+            },
+            {
+              "text": "{may...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "silent"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "us}"
+            },
+            {
+              "text": "{wrought...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "grew"
+            },
+            {
+              "text": "more"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "more"
+            },
+            {
+              "text": "tempestuous:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "went}"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest {is} upon you.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "said"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "them,"
+            },
+            {
+              "text": "Take"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "up,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "cast"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "forth"
+            },
+            {
+              "text": "into"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea;"
+            },
+            {
+              "text": "so"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "calm"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "you:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "know"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "sake"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "tempest"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "you."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "Nevertheless the men rowed hard to bring {it} to the land; but they could not: for the sea wrought, and was tempestuous against them. {rowed: Heb. digged} {wrought...: or, grew more and more tempestuous: Heb. went}",
+          "words": [
+            {
+              "text": "Nevertheless"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "men"
+            },
+            {
+              "text": "rowed"
+            },
+            {
+              "text": "hard"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "bring"
+            },
+            {
+              "text": "{it}"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "land;"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "could"
+            },
+            {
+              "text": "not:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea"
+            },
+            {
+              "text": "wrought,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "tempestuous"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "them."
+            },
+            {
+              "text": "{rowed:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "digged}"
+            },
+            {
+              "text": "{wrought...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "grew"
+            },
+            {
+              "text": "more"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "more"
+            },
+            {
+              "text": "tempestuous:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "went}"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O LORD, hast done as it pleased thee.",
+          "words": [
+            {
+              "text": "Wherefore"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "cried"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "said,"
+            },
+            {
+              "text": "We"
+            },
+            {
+              "text": "beseech"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "O"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "beseech"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "let"
+            },
+            {
+              "text": "us"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "perish"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "man's"
+            },
+            {
+              "text": "life,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "lay"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "us"
+            },
+            {
+              "text": "innocent"
+            },
+            {
+              "text": "blood:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "thou,"
+            },
+            {
+              "text": "O"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "done"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "pleased"
+            },
+            {
+              "text": "thee."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging. {ceased: Heb. stood}",
+          "words": [
+            {
+              "text": "So"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "took"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "Jonah,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "cast"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "forth"
+            },
+            {
+              "text": "into"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea:"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea"
+            },
+            {
+              "text": "ceased"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "her"
+            },
+            {
+              "text": "raging."
+            },
+            {
+              "text": "{ceased:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "stood}"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows. {offered...: Heb. sacrifice unto the LORD, and vowed vows}",
+          "words": [
+            {
+              "text": "Then"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "men"
+            },
+            {
+              "text": "feared"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "exceedingly,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "offered"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "sacrifice"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "vows."
+            },
+            {
+              "text": "{offered...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "sacrifice"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "vowed"
+            },
+            {
+              "text": "vows}"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights. {belly: Heb. bowels}",
+          "words": [
+            {
+              "text": "Now"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "had"
+            },
+            {
+              "text": "prepared"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "fish"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "swallow"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "Jonah."
+            },
+            {
+              "text": "And"
+            },
+            {
+              "text": "Jonah"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "belly"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fish"
+            },
+            {
+              "text": "three"
+            },
+            {
+              "text": "days"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "three"
+            },
+            {
+              "text": "nights."
+            },
+            {
+              "text": "{belly:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "bowels}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "Then Jonah prayed unto the LORD his God out of the fish's belly,",
+          "words": [
+            {
+              "text": "Then"
+            },
+            {
+              "text": "Jonah"
+            },
+            {
+              "text": "prayed"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fish's"
+            },
+            {
+              "text": "belly,"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, {and} thou heardest my voice. {by...: or, out of mine affliction} {hell: or, the grave}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "said,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "cried"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "reason"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "mine"
+            },
+            {
+              "text": "affliction"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "heard"
+            },
+            {
+              "text": "me;"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "belly"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hell"
+            },
+            {
+              "text": "cried"
+            },
+            {
+              "text": "I,"
+            },
+            {
+              "text": "{and}"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "heardest"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "voice."
+            },
+            {
+              "text": "{by...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "mine"
+            },
+            {
+              "text": "affliction}"
+            },
+            {
+              "text": "{hell:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "grave}"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me. {midst: Heb. heart}",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "hadst"
+            },
+            {
+              "text": "cast"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "into"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "deep,"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "midst"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "seas;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "floods"
+            },
+            {
+              "text": "compassed"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "about:"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "billows"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "waves"
+            },
+            {
+              "text": "passed"
+            },
+            {
+              "text": "over"
+            },
+            {
+              "text": "me."
+            },
+            {
+              "text": "{midst:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "heart}"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.",
+          "words": [
+            {
+              "text": "Then"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "said,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "am"
+            },
+            {
+              "text": "cast"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "sight;"
+            },
+            {
+              "text": "yet"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "look"
+            },
+            {
+              "text": "again"
+            },
+            {
+              "text": "toward"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "holy"
+            },
+            {
+              "text": "temple."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "The waters compassed me about, {even} to the soul: the depth closed me round about, the weeds were wrapped about my head.",
+          "words": [
+            {
+              "text": "The"
+            },
+            {
+              "text": "waters"
+            },
+            {
+              "text": "compassed"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "about,"
+            },
+            {
+              "text": "{even}"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "soul:"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "depth"
+            },
+            {
+              "text": "closed"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "round"
+            },
+            {
+              "text": "about,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "weeds"
+            },
+            {
+              "text": "were"
+            },
+            {
+              "text": "wrapped"
+            },
+            {
+              "text": "about"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "head."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "I went down to the bottoms of the mountains; the earth with her bars {was} about me for ever: yet hast thou brought up my life from corruption, O LORD my God. {bottoms: Heb. cuttings off} {corruption: or, the pit}",
+          "words": [
+            {
+              "text": "I"
+            },
+            {
+              "text": "went"
+            },
+            {
+              "text": "down"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "bottoms"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "mountains;"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "earth"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "her"
+            },
+            {
+              "text": "bars"
+            },
+            {
+              "text": "{was}"
+            },
+            {
+              "text": "about"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "ever:"
+            },
+            {
+              "text": "yet"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "brought"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "life"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "corruption,"
+            },
+            {
+              "text": "O"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "God."
+            },
+            {
+              "text": "{bottoms:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "cuttings"
+            },
+            {
+              "text": "off}"
+            },
+            {
+              "text": "{corruption:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "pit}"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.",
+          "words": [
+            {
+              "text": "When"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "soul"
+            },
+            {
+              "text": "fainted"
+            },
+            {
+              "text": "within"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "remembered"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD:"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "prayer"
+            },
+            {
+              "text": "came"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "into"
+            },
+            {
+              "text": "thine"
+            },
+            {
+              "text": "holy"
+            },
+            {
+              "text": "temple."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "They that observe lying vanities forsake their own mercy.",
+          "words": [
+            {
+              "text": "They"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "observe"
+            },
+            {
+              "text": "lying"
+            },
+            {
+              "text": "vanities"
+            },
+            {
+              "text": "forsake"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "own"
+            },
+            {
+              "text": "mercy."
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay {that} that I have vowed. Salvation {is} of the LORD.",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "sacrifice"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "thee"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "voice"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "thanksgiving;"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "pay"
+            },
+            {
+              "text": "{that}"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "vowed."
+            },
+            {
+              "text": "Salvation"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "And the LORD spake unto the fish, and it vomited out Jonah upon the dry {land}.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "spake"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fish,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "vomited"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "Jonah"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "dry"
+            },
+            {
+              "text": "{land}."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "And the word of the LORD came unto Jonah the second time, saying,",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "word"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "came"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "Jonah"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "second"
+            },
+            {
+              "text": "time,"
+            },
+            {
+              "text": "saying,"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.",
+          "words": [
+            {
+              "text": "Arise,"
+            },
+            {
+              "text": "go"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "Nineveh,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "city,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "preach"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "preaching"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "bid"
+            },
+            {
+              "text": "thee."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days' journey. {exceeding: Heb. of God}",
+          "words": [
+            {
+              "text": "So"
+            },
+            {
+              "text": "Jonah"
+            },
+            {
+              "text": "arose,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "went"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "Nineveh,"
+            },
+            {
+              "text": "according"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "word"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD."
+            },
+            {
+              "text": "Now"
+            },
+            {
+              "text": "Nineveh"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "an"
+            },
+            {
+              "text": "exceeding"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "city"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "three"
+            },
+            {
+              "text": "days'"
+            },
+            {
+              "text": "journey."
+            },
+            {
+              "text": "{exceeding:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God}"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "Jonah"
+            },
+            {
+              "text": "began"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "enter"
+            },
+            {
+              "text": "into"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "city"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "day's"
+            },
+            {
+              "text": "journey,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "cried,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "said,"
+            },
+            {
+              "text": "Yet"
+            },
+            {
+              "text": "forty"
+            },
+            {
+              "text": "days,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "Nineveh"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "overthrown."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.",
+          "words": [
+            {
+              "text": "So"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "people"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Nineveh"
+            },
+            {
+              "text": "believed"
+            },
+            {
+              "text": "God,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "proclaimed"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "fast,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "put"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "sackcloth,"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "greatest"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "even"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "least"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "them."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered {him} with sackcloth, and sat in ashes.",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "word"
+            },
+            {
+              "text": "came"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "king"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Nineveh,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "arose"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "throne,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "laid"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "robe"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "covered"
+            },
+            {
+              "text": "{him}"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "sackcloth,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "sat"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "ashes."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "And he caused {it} to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water: {published: Heb. said} {nobles: Heb. great men}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "caused"
+            },
+            {
+              "text": "{it}"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "proclaimed"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "published"
+            },
+            {
+              "text": "through"
+            },
+            {
+              "text": "Nineveh"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "decree"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "king"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "nobles,"
+            },
+            {
+              "text": "saying,"
+            },
+            {
+              "text": "Let"
+            },
+            {
+              "text": "neither"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "nor"
+            },
+            {
+              "text": "beast,"
+            },
+            {
+              "text": "herd"
+            },
+            {
+              "text": "nor"
+            },
+            {
+              "text": "flock,"
+            },
+            {
+              "text": "taste"
+            },
+            {
+              "text": "any"
+            },
+            {
+              "text": "thing:"
+            },
+            {
+              "text": "let"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "feed,"
+            },
+            {
+              "text": "nor"
+            },
+            {
+              "text": "drink"
+            },
+            {
+              "text": "water:"
+            },
+            {
+              "text": "{published:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "said}"
+            },
+            {
+              "text": "{nobles:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "men}"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that {is} in their hands.",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "let"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "beast"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "covered"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "sackcloth,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "cry"
+            },
+            {
+              "text": "mightily"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "God:"
+            },
+            {
+              "text": "yea,"
+            },
+            {
+              "text": "let"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "turn"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "one"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "evil"
+            },
+            {
+              "text": "way,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "violence"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "hands."
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "Who can tell {if} God will turn and repent, and turn away from his fierce anger, that we perish not?",
+          "words": [
+            {
+              "text": "Who"
+            },
+            {
+              "text": "can"
+            },
+            {
+              "text": "tell"
+            },
+            {
+              "text": "{if}"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "turn"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "repent,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "turn"
+            },
+            {
+              "text": "away"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "fierce"
+            },
+            {
+              "text": "anger,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "perish"
+            },
+            {
+              "text": "not?"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did {it} not.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "saw"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "works,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "turned"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "evil"
+            },
+            {
+              "text": "way;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "repented"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "evil,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "had"
+            },
+            {
+              "text": "said"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "would"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "them;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "did"
+            },
+            {
+              "text": "{it}"
+            },
+            {
+              "text": "not."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "But it displeased Jonah exceedingly, and he was very angry.",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "displeased"
+            },
+            {
+              "text": "Jonah"
+            },
+            {
+              "text": "exceedingly,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "very"
+            },
+            {
+              "text": "angry."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "And he prayed unto the LORD, and said, I pray thee, O LORD, {was} not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou {art} a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "prayed"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "said,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "pray"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "O"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "{was}"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "saying,"
+            },
+            {
+              "text": "when"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "yet"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "country?"
+            },
+            {
+              "text": "Therefore"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "fled"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "Tarshish:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "knew"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "{art}"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "gracious"
+            },
+            {
+              "text": "God,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "merciful,"
+            },
+            {
+              "text": "slow"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "anger,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "kindness,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "repentest"
+            },
+            {
+              "text": "thee"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "evil."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "Therefore now, O LORD, take, I beseech thee, my life from me; for {it is} better for me to die than to live.",
+          "words": [
+            {
+              "text": "Therefore"
+            },
+            {
+              "text": "now,"
+            },
+            {
+              "text": "O"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "take,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "beseech"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "life"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "me;"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "{it"
+            },
+            {
+              "text": "is}"
+            },
+            {
+              "text": "better"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "die"
+            },
+            {
+              "text": "than"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "live."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "Then said the LORD, Doest thou well to be angry? {Doest...: or, Art thou greatly angry?}",
+          "words": [
+            {
+              "text": "Then"
+            },
+            {
+              "text": "said"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "Doest"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "well"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "angry?"
+            },
+            {
+              "text": "{Doest...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "Art"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "greatly"
+            },
+            {
+              "text": "angry?}"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.",
+          "words": [
+            {
+              "text": "So"
+            },
+            {
+              "text": "Jonah"
+            },
+            {
+              "text": "went"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "city,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "sat"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "east"
+            },
+            {
+              "text": "side"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "city,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "there"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "booth,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "sat"
+            },
+            {
+              "text": "under"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "shadow,"
+            },
+            {
+              "text": "till"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "might"
+            },
+            {
+              "text": "see"
+            },
+            {
+              "text": "what"
+            },
+            {
+              "text": "would"
+            },
+            {
+              "text": "become"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "city."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "And the LORD God prepared a gourd, and made {it} to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd. {gourd: or, palmcrist: Heb. Kikajon} {was...: Heb. rejoiced with great joy}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "prepared"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "gourd,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "{it}"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "come"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "over"
+            },
+            {
+              "text": "Jonah,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "might"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "shadow"
+            },
+            {
+              "text": "over"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "head,"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "deliver"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "grief."
+            },
+            {
+              "text": "So"
+            },
+            {
+              "text": "Jonah"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "exceeding"
+            },
+            {
+              "text": "glad"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "gourd."
+            },
+            {
+              "text": "{gourd:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "palmcrist:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "Kikajon}"
+            },
+            {
+              "text": "{was...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "rejoiced"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "joy}"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "prepared"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "worm"
+            },
+            {
+              "text": "when"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "morning"
+            },
+            {
+              "text": "rose"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "next"
+            },
+            {
+              "text": "day,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "smote"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "gourd"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "withered."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, {It is} better for me to die than to live. {vehement: or, silent}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "came"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "pass,"
+            },
+            {
+              "text": "when"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sun"
+            },
+            {
+              "text": "did"
+            },
+            {
+              "text": "arise,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "prepared"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "vehement"
+            },
+            {
+              "text": "east"
+            },
+            {
+              "text": "wind;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sun"
+            },
+            {
+              "text": "beat"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "head"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Jonah,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "fainted,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "wished"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "himself"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "die,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "said,"
+            },
+            {
+              "text": "{It"
+            },
+            {
+              "text": "is}"
+            },
+            {
+              "text": "better"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "die"
+            },
+            {
+              "text": "than"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "live."
+            },
+            {
+              "text": "{vehement:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "silent}"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, {even} unto death. {Doest...: or, Art thou greatly angry?} {I do well...: or, I am greatly angry}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "said"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "Jonah,"
+            },
+            {
+              "text": "Doest"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "well"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "angry"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "gourd?"
+            },
+            {
+              "text": "And"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "said,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "well"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "angry,"
+            },
+            {
+              "text": "{even}"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "death."
+            },
+            {
+              "text": "{Doest...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "Art"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "greatly"
+            },
+            {
+              "text": "angry?}"
+            },
+            {
+              "text": "{I"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "well...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "am"
+            },
+            {
+              "text": "greatly"
+            },
+            {
+              "text": "angry}"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night: {had pity: or, spared} {came...: Heb. was the son of the night}",
+          "words": [
+            {
+              "text": "Then"
+            },
+            {
+              "text": "said"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "Thou"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "had"
+            },
+            {
+              "text": "pity"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "gourd,"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "laboured,"
+            },
+            {
+              "text": "neither"
+            },
+            {
+              "text": "madest"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "grow;"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "came"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "night,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "perished"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "night:"
+            },
+            {
+              "text": "{had"
+            },
+            {
+              "text": "pity:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "spared}"
+            },
+            {
+              "text": "{came...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "son"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "night}"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and {also} much cattle?",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "should"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "spare"
+            },
+            {
+              "text": "Nineveh,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "city,"
+            },
+            {
+              "text": "wherein"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "more"
+            },
+            {
+              "text": "than"
+            },
+            {
+              "text": "sixscore"
+            },
+            {
+              "text": "thousand"
+            },
+            {
+              "text": "persons"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "cannot"
+            },
+            {
+              "text": "discern"
+            },
+            {
+              "text": "between"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "right"
+            },
+            {
+              "text": "hand"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "left"
+            },
+            {
+              "text": "hand;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "{also}"
+            },
+            {
+              "text": "much"
+            },
+            {
+              "text": "cattle?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
