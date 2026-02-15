@@ -7969,9 +7969,8 @@
           "text": "Und ein jeder ging in sein Haus.",
           "words": [
             {"text": "Und", "strongID": "G2532"}, {"text": "ein", "strongID": "G1538"}, {"text": "jeder", "strongID": "G1538"}, {"text": "ging", "strongID": "G4198"}, {"text": "in", "strongID": "G1519"}, {"text": "sein", "strongID": "G846"}, {"text": "Haus.", "strongID": "G3624"}
-          ]
+            }
+            ]
         }
-      ]
-    }
-      ]
-    }
+    ]
+}
