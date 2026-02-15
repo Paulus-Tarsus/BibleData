@@ -1,0 +1,108 @@
+{
+  "id": 43,
+  "name": "Johannes",
+  "chapters": [
+    {
+      "id": 1,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott.",
+          "words": [
+            {"text": "Im"},
+            {"text": "Anfang", "strongID": "G746"},
+            {"text": "war", "strongID": "G2258"},
+            {"text": "das"},
+            {"text": "Wort", "strongID": "G3056"},
+            {"text": "und", "strongID": "G2532"},
+            {"text": "das"},
+            {"text": "Wort", "strongID": "G3056"},
+            {"text": "war", "strongID": "G2258"},
+            {"text": "bei", "strongID": "G4314"},
+            {"text": "Gott", "strongID": "G2316"},
+            {"text": "und", "strongID": "G2532"},
+            {"text": "das"},
+            {"text": "Wort", "strongID": "G3056"},
+            {"text": "war", "strongID": "G2258"},
+            {"text": "Gott", "strongID": "G2316"}
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "Dieses war im Anfang bei Gott.",
+          "words": [
+            {"text": "Dieses", "strongID": "G3778"},
+            {"text": "war", "strongID": "G2258"},
+            {"text": "im"},
+            {"text": "Anfang", "strongID": "G746"},
+            {"text": "bei", "strongID": "G4314"},
+            {"text": "Gott", "strongID": "G2316"}
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "Alles wurde durch dasselbe, und ohne dasselbe wurde auch nicht eines, was geworden ist.",
+          "words": [
+            {"text": "Alles", "strongID": "G3956"},
+            {"text": "wurde", "strongID": "G1096"},
+            {"text": "durch", "strongID": "G1223"},
+            {"text": "dasselbe", "strongID": "G846"},
+            {"text": "und"},
+            {"text": "ohne", "strongID": "G5565"},
+            {"text": "dasselbe", "strongID": "G846"},
+            {"text": "wurde", "strongID": "G1096"},
+            {"text": "auch"},
+            {"text": "nicht", "strongID": "G3761"},
+            {"text": "eines", "strongID": "G1520"},
+            {"text": "was"},
+            {"text": "geworden", "strongID": "G1096"},
+            {"text": "ist", "strongID": "G1096"}
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "In ihm war Leben, und das Leben war das Licht der Menschen.",
+          "words": [
+            {"text": "In", "strongID": "G1722"},
+            {"text": "ihm", "strongID": "G846"},
+            {"text": "war", "strongID": "G2258"},
+            {"text": "Leben", "strongID": "G2222"},
+            {"text": "und", "strongID": "G2532"},
+            {"text": "das"},
+            {"text": "Leben", "strongID": "G2222"},
+            {"text": "war", "strongID": "G2258"},
+            {"text": "das"},
+            {"text": "Licht", "strongID": "G5457"},
+            {"text": "der"},
+            {"text": "Menschen", "strongID": "G444"}
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "Und das Licht scheint in der Finsternis, und die Finsternis hat es nicht begriffen.",
+          "words": [
+            {"text": "Und", "strongID": "G2532"},
+            {"text": "das"},
+            {"text": "Licht", "strongID": "G5457"},
+            {"text": "scheint", "strongID": "G5316"},
+            {"text": "in", "strongID": "G1722"},
+            {"text": "der"},
+            {"text": "Finsternis", "strongID": "G4653"},
+            {"text": "und", "strongID": "G2532"},
+            {"text": "die"},
+            {"text": "Finsternis", "strongID": "G4653"},
+            {"text": "hat"},
+            {"text": "es", "strongID": "G846"},
+            {"text": "nicht", "strongID": "G3756"},
+            {"text": "begriffen", "strongID": "G2638"}
+          ]
+        }
+      ]
+    }
+  ]
+}
