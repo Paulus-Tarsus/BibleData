@@ -1,0 +1,5600 @@
+{
+  "id": 35,
+  "name": "Habakkuk",
+  "chapters": [
+    {
+      "id": 1,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "The burden which Habakkuk the prophet did see.",
+          "words": [
+            {
+              "text": "The"
+            },
+            {
+              "text": "burden"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "Habakkuk"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "prophet"
+            },
+            {
+              "text": "did"
+            },
+            {
+              "text": "see."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "O LORD, how long shall I cry, and thou wilt not hear! {even} cry out unto thee {of} violence, and thou wilt not save!",
+          "words": [
+            {
+              "text": "O"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "how"
+            },
+            {
+              "text": "long"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "cry,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "wilt"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "hear!"
+            },
+            {
+              "text": "{even}"
+            },
+            {
+              "text": "cry"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "thee"
+            },
+            {
+              "text": "{of}"
+            },
+            {
+              "text": "violence,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "wilt"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "save!"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "Why dost thou shew me iniquity, and cause {me} to behold grievance? for spoiling and violence {are} before me: and there are {that} raise up strife and contention.",
+          "words": [
+            {
+              "text": "Why"
+            },
+            {
+              "text": "dost"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "shew"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "iniquity,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "cause"
+            },
+            {
+              "text": "{me}"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "behold"
+            },
+            {
+              "text": "grievance?"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "spoiling"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "violence"
+            },
+            {
+              "text": "{are}"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "me:"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "there"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "{that}"
+            },
+            {
+              "text": "raise"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "strife"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "contention."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth. {wrong: or, wrested}",
+          "words": [
+            {
+              "text": "Therefore"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "law"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "slacked,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "judgment"
+            },
+            {
+              "text": "doth"
+            },
+            {
+              "text": "never"
+            },
+            {
+              "text": "go"
+            },
+            {
+              "text": "forth:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wicked"
+            },
+            {
+              "text": "doth"
+            },
+            {
+              "text": "compass"
+            },
+            {
+              "text": "about"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "righteous;"
+            },
+            {
+              "text": "therefore"
+            },
+            {
+              "text": "wrong"
+            },
+            {
+              "text": "judgment"
+            },
+            {
+              "text": "proceedeth."
+            },
+            {
+              "text": "{wrong:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "wrested}"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "Behold ye among the heathen, and regard, and wonder marvellously: for {I} will work a work in your days, {which} ye will not believe, though it be told {you}.",
+          "words": [
+            {
+              "text": "Behold"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "among"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "heathen,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "regard,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "wonder"
+            },
+            {
+              "text": "marvellously:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "{I}"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "work"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "work"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "days,"
+            },
+            {
+              "text": "{which}"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "believe,"
+            },
+            {
+              "text": "though"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "told"
+            },
+            {
+              "text": "{you}."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "For, lo, I raise up the Chaldeans, {that} bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces {that are} not theirs. {breadth: Heb. breadths}",
+          "words": [
+            {
+              "text": "For,"
+            },
+            {
+              "text": "lo,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "raise"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Chaldeans,"
+            },
+            {
+              "text": "{that}"
+            },
+            {
+              "text": "bitter"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "hasty"
+            },
+            {
+              "text": "nation,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "march"
+            },
+            {
+              "text": "through"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "breadth"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "land,"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "possess"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "dwellingplaces"
+            },
+            {
+              "text": "{that"
+            },
+            {
+              "text": "are}"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "theirs."
+            },
+            {
+              "text": "{breadth:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "breadths}"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "They {are} terrible and dreadful: their judgment and their dignity shall proceed of themselves. {their judgment...: or, from them shall proceed the judgment of these, and the captivity of these}",
+          "words": [
+            {
+              "text": "They"
+            },
+            {
+              "text": "{are}"
+            },
+            {
+              "text": "terrible"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "dreadful:"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "judgment"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "dignity"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "proceed"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "themselves."
+            },
+            {
+              "text": "{their"
+            },
+            {
+              "text": "judgment...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "proceed"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "judgment"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "these,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "captivity"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "these}"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle {that} hasteth to eat. {fierce: Heb. sharp}",
+          "words": [
+            {
+              "text": "Their"
+            },
+            {
+              "text": "horses"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "swifter"
+            },
+            {
+              "text": "than"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "leopards,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "more"
+            },
+            {
+              "text": "fierce"
+            },
+            {
+              "text": "than"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "evening"
+            },
+            {
+              "text": "wolves:"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "horsemen"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "spread"
+            },
+            {
+              "text": "themselves,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "horsemen"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "come"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "far;"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "fly"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "eagle"
+            },
+            {
+              "text": "{that}"
+            },
+            {
+              "text": "hasteth"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "eat."
+            },
+            {
+              "text": "{fierce:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "sharp}"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "They shall come all for violence: their faces shall sup up {as} the east wind, and they shall gather the captivity as the sand. {their...: or, the supping up of their faces, etc: or, their faces shall look (Heb. the opposition of their faces) toward the east}",
+          "words": [
+            {
+              "text": "They"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "come"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "violence:"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "faces"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "sup"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "{as}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "east"
+            },
+            {
+              "text": "wind,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "gather"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "captivity"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sand."
+            },
+            {
+              "text": "{their...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "supping"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "faces,"
+            },
+            {
+              "text": "etc:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "faces"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "look"
+            },
+            {
+              "text": "(Heb."
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "opposition"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "faces)"
+            },
+            {
+              "text": "toward"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "east}"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "scoff"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "kings,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "princes"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "scorn"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "them:"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "deride"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "strong"
+            },
+            {
+              "text": "hold;"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "heap"
+            },
+            {
+              "text": "dust,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "take"
+            },
+            {
+              "text": "it."
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "Then shall {his} mind change, and he shall pass over, and offend, {imputing} this his power unto his god.",
+          "words": [
+            {
+              "text": "Then"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "{his}"
+            },
+            {
+              "text": "mind"
+            },
+            {
+              "text": "change,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "pass"
+            },
+            {
+              "text": "over,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "offend,"
+            },
+            {
+              "text": "{imputing}"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "power"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "god."
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "{Art} thou not from everlasting, O LORD my God, mine Holy One? we shall not die. O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction. {mighty...: Heb. rock} {established: Heb. founded}",
+          "words": [
+            {
+              "text": "{Art}"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "everlasting,"
+            },
+            {
+              "text": "O"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "God,"
+            },
+            {
+              "text": "mine"
+            },
+            {
+              "text": "Holy"
+            },
+            {
+              "text": "One?"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "die."
+            },
+            {
+              "text": "O"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "ordained"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "judgment;"
+            },
+            {
+              "text": "and,"
+            },
+            {
+              "text": "O"
+            },
+            {
+              "text": "mighty"
+            },
+            {
+              "text": "God,"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "established"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "correction."
+            },
+            {
+              "text": "{mighty...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "rock}"
+            },
+            {
+              "text": "{established:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "founded}"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "{Thou art} of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, {and} holdest thy tongue when the wicked devoureth {the man that is} more righteous than he? {iniquity: or, grievance}",
+          "words": [
+            {
+              "text": "{Thou"
+            },
+            {
+              "text": "art}"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "purer"
+            },
+            {
+              "text": "eyes"
+            },
+            {
+              "text": "than"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "behold"
+            },
+            {
+              "text": "evil,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "canst"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "look"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "iniquity:"
+            },
+            {
+              "text": "wherefore"
+            },
+            {
+              "text": "lookest"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "deal"
+            },
+            {
+              "text": "treacherously,"
+            },
+            {
+              "text": "{and}"
+            },
+            {
+              "text": "holdest"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "tongue"
+            },
+            {
+              "text": "when"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wicked"
+            },
+            {
+              "text": "devoureth"
+            },
+            {
+              "text": "{the"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "is}"
+            },
+            {
+              "text": "more"
+            },
+            {
+              "text": "righteous"
+            },
+            {
+              "text": "than"
+            },
+            {
+              "text": "he?"
+            },
+            {
+              "text": "{iniquity:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "grievance}"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "And makest men as the fishes of the sea, as the creeping things, {that have} no ruler over them? {creeping: or, moving}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "makest"
+            },
+            {
+              "text": "men"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fishes"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea,"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "creeping"
+            },
+            {
+              "text": "things,"
+            },
+            {
+              "text": "{that"
+            },
+            {
+              "text": "have}"
+            },
+            {
+              "text": "no"
+            },
+            {
+              "text": "ruler"
+            },
+            {
+              "text": "over"
+            },
+            {
+              "text": "them?"
+            },
+            {
+              "text": "{creeping:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "moving}"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad. {drag: or, flue net}",
+          "words": [
+            {
+              "text": "They"
+            },
+            {
+              "text": "take"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "angle,"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "catch"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "net,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "gather"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "drag:"
+            },
+            {
+              "text": "therefore"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "rejoice"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "glad."
+            },
+            {
+              "text": "{drag:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "flue"
+            },
+            {
+              "text": "net}"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion {is} fat, and their meat plenteous. {plenteous: or, dainty: Heb. fat}",
+          "words": [
+            {
+              "text": "Therefore"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "sacrifice"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "net,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "burn"
+            },
+            {
+              "text": "incense"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "drag;"
+            },
+            {
+              "text": "because"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "portion"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "fat,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "meat"
+            },
+            {
+              "text": "plenteous."
+            },
+            {
+              "text": "{plenteous:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "dainty:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "fat}"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "Shall they therefore empty their net, and not spare continually to slay the nations?",
+          "words": [
+            {
+              "text": "Shall"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "therefore"
+            },
+            {
+              "text": "empty"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "net,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "spare"
+            },
+            {
+              "text": "continually"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "slay"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "nations?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved. {tower: Heb. fenced place} {unto me: or, in me} {when...: or, when I am argued with: Heb. upon my reproof, or, arguing}",
+          "words": [
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "stand"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "watch,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "set"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "tower,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "watch"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "see"
+            },
+            {
+              "text": "what"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "say"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "me,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "what"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "answer"
+            },
+            {
+              "text": "when"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "am"
+            },
+            {
+              "text": "reproved."
+            },
+            {
+              "text": "{tower:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "fenced"
+            },
+            {
+              "text": "place}"
+            },
+            {
+              "text": "{unto"
+            },
+            {
+              "text": "me:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "me}"
+            },
+            {
+              "text": "{when...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "when"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "am"
+            },
+            {
+              "text": "argued"
+            },
+            {
+              "text": "with:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "reproof,"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "arguing}"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "And the LORD answered me, and said, Write the vision, and make {it} plain upon tables, that he may run that readeth it.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "answered"
+            },
+            {
+              "text": "me,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "said,"
+            },
+            {
+              "text": "Write"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "vision,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "make"
+            },
+            {
+              "text": "{it}"
+            },
+            {
+              "text": "plain"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "tables,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "run"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "readeth"
+            },
+            {
+              "text": "it."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "For the vision {is} yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "vision"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "yet"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "an"
+            },
+            {
+              "text": "appointed"
+            },
+            {
+              "text": "time,"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "end"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "speak,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "lie:"
+            },
+            {
+              "text": "though"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "tarry,"
+            },
+            {
+              "text": "wait"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "it;"
+            },
+            {
+              "text": "because"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "surely"
+            },
+            {
+              "text": "come,"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "tarry."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "Behold, his soul {which} is lifted up is not upright in him: but the just shall live by his faith.",
+          "words": [
+            {
+              "text": "Behold,"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "soul"
+            },
+            {
+              "text": "{which}"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "lifted"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "upright"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "him:"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "just"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "live"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "faith."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "Yea also, because he transgresseth by wine, {he is} a proud man, neither keepeth at home, who enlargeth his desire as hell, and {is} as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people: {Yea...: or, How much more}",
+          "words": [
+            {
+              "text": "Yea"
+            },
+            {
+              "text": "also,"
+            },
+            {
+              "text": "because"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "transgresseth"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "wine,"
+            },
+            {
+              "text": "{he"
+            },
+            {
+              "text": "is}"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "proud"
+            },
+            {
+              "text": "man,"
+            },
+            {
+              "text": "neither"
+            },
+            {
+              "text": "keepeth"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "home,"
+            },
+            {
+              "text": "who"
+            },
+            {
+              "text": "enlargeth"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "desire"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "hell,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "death,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "cannot"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "satisfied,"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "gathereth"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "nations,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "heapeth"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "people:"
+            },
+            {
+              "text": "{Yea...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "How"
+            },
+            {
+              "text": "much"
+            },
+            {
+              "text": "more}"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth {that which is} not his! how long? and to him that ladeth himself with thick clay! {Woe...: or, Ho, he}",
+          "words": [
+            {
+              "text": "Shall"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "these"
+            },
+            {
+              "text": "take"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "parable"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "taunting"
+            },
+            {
+              "text": "proverb"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "say,"
+            },
+            {
+              "text": "Woe"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "increaseth"
+            },
+            {
+              "text": "{that"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is}"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "his!"
+            },
+            {
+              "text": "how"
+            },
+            {
+              "text": "long?"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "ladeth"
+            },
+            {
+              "text": "himself"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "thick"
+            },
+            {
+              "text": "clay!"
+            },
+            {
+              "text": "{Woe...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "Ho,"
+            },
+            {
+              "text": "he}"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?",
+          "words": [
+            {
+              "text": "Shall"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "rise"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "suddenly"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "bite"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "awake"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "vex"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "shalt"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "booties"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "them?"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men's blood, and {for} the violence of the land, of the city, and of all that dwell therein. {blood: Heb. bloods}",
+          "words": [
+            {
+              "text": "Because"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "spoiled"
+            },
+            {
+              "text": "many"
+            },
+            {
+              "text": "nations,"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "remnant"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "people"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "spoil"
+            },
+            {
+              "text": "thee;"
+            },
+            {
+              "text": "because"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "men's"
+            },
+            {
+              "text": "blood,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "{for}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "violence"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "land,"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "city,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "dwell"
+            },
+            {
+              "text": "therein."
+            },
+            {
+              "text": "{blood:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "bloods}"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil! {coveteth...: or, gaineth and evil gain} {power...: Heb. palm of the hand}",
+          "words": [
+            {
+              "text": "Woe"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "coveteth"
+            },
+            {
+              "text": "an"
+            },
+            {
+              "text": "evil"
+            },
+            {
+              "text": "covetousness"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "house,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "set"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "nest"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "high,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "delivered"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "power"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "evil!"
+            },
+            {
+              "text": "{coveteth...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "gaineth"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "evil"
+            },
+            {
+              "text": "gain}"
+            },
+            {
+              "text": "{power...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "palm"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "hand}"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "Thou hast consulted shame to thy house by cutting off many people, and hast sinned {against} thy soul.",
+          "words": [
+            {
+              "text": "Thou"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "consulted"
+            },
+            {
+              "text": "shame"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "house"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "cutting"
+            },
+            {
+              "text": "off"
+            },
+            {
+              "text": "many"
+            },
+            {
+              "text": "people,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "sinned"
+            },
+            {
+              "text": "{against}"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "soul."
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "For the stone shall cry out of the wall, and the beam out of the timber shall answer it. {beam: or, piece, or, fastening} {answer it: or, witness against it}",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "stone"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "cry"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wall,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "beam"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "timber"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "answer"
+            },
+            {
+              "text": "it."
+            },
+            {
+              "text": "{beam:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "piece,"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "fastening}"
+            },
+            {
+              "text": "{answer"
+            },
+            {
+              "text": "it:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "witness"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "it}"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "Woe to him that buildeth a town with blood, and stablisheth a city by iniquity! {blood: Heb. bloods}",
+          "words": [
+            {
+              "text": "Woe"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "buildeth"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "town"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "blood,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "stablisheth"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "city"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "iniquity!"
+            },
+            {
+              "text": "{blood:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "bloods}"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "Behold, {is it} not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity? {for...: or, in vain?}",
+          "words": [
+            {
+              "text": "Behold,"
+            },
+            {
+              "text": "{is"
+            },
+            {
+              "text": "it}"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "people"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "labour"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "very"
+            },
+            {
+              "text": "fire,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "people"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "weary"
+            },
+            {
+              "text": "themselves"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "very"
+            },
+            {
+              "text": "vanity?"
+            },
+            {
+              "text": "{for...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "vain?}"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea. {with...: or, by knowing the glory}",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "earth"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "filled"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "knowledge"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "glory"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "waters"
+            },
+            {
+              "text": "cover"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea."
+            },
+            {
+              "text": "{with...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "knowing"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "glory}"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "Woe unto him that giveth his neighbour drink, that puttest thy bottle to {him}, and makest {him} drunken also, that thou mayest look on their nakedness!",
+          "words": [
+            {
+              "text": "Woe"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "giveth"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "neighbour"
+            },
+            {
+              "text": "drink,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "puttest"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "bottle"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "{him},"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "makest"
+            },
+            {
+              "text": "{him}"
+            },
+            {
+              "text": "drunken"
+            },
+            {
+              "text": "also,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "mayest"
+            },
+            {
+              "text": "look"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "nakedness!"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the LORD'S right hand shall be turned unto thee, and shameful spewing {shall be} on thy glory. {with...: or, more with shame than with glory}",
+          "words": [
+            {
+              "text": "Thou"
+            },
+            {
+              "text": "art"
+            },
+            {
+              "text": "filled"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "shame"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "glory:"
+            },
+            {
+              "text": "drink"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "also,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "let"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "foreskin"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "uncovered:"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "cup"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD'S"
+            },
+            {
+              "text": "right"
+            },
+            {
+              "text": "hand"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "turned"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "shameful"
+            },
+            {
+              "text": "spewing"
+            },
+            {
+              "text": "{shall"
+            },
+            {
+              "text": "be}"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "glory."
+            },
+            {
+              "text": "{with...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "more"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "shame"
+            },
+            {
+              "text": "than"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "glory}"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "For the violence of Lebanon shall cover thee, and the spoil of beasts, {which} made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell therein.",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "violence"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Lebanon"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "cover"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "spoil"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "beasts,"
+            },
+            {
+              "text": "{which}"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "afraid,"
+            },
+            {
+              "text": "because"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "men's"
+            },
+            {
+              "text": "blood,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "violence"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "land,"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "city,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "dwell"
+            },
+            {
+              "text": "therein."
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "number": 18,
+          "text": "What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols? {maker of...: Heb. fashioner of his fashion}",
+          "words": [
+            {
+              "text": "What"
+            },
+            {
+              "text": "profiteth"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "graven"
+            },
+            {
+              "text": "image"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "maker"
+            },
+            {
+              "text": "thereof"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "graven"
+            },
+            {
+              "text": "it;"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "molten"
+            },
+            {
+              "text": "image,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "teacher"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "lies,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "maker"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "work"
+            },
+            {
+              "text": "trusteth"
+            },
+            {
+              "text": "therein,"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "make"
+            },
+            {
+              "text": "dumb"
+            },
+            {
+              "text": "idols?"
+            },
+            {
+              "text": "{maker"
+            },
+            {
+              "text": "of...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "fashioner"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "fashion}"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "number": 19,
+          "text": "Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it {is} laid over with gold and silver, and {there is} no breath at all in the midst of it.",
+          "words": [
+            {
+              "text": "Woe"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wood,"
+            },
+            {
+              "text": "Awake;"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "dumb"
+            },
+            {
+              "text": "stone,"
+            },
+            {
+              "text": "Arise,"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "teach!"
+            },
+            {
+              "text": "Behold,"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "laid"
+            },
+            {
+              "text": "over"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "gold"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "silver,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "{there"
+            },
+            {
+              "text": "is}"
+            },
+            {
+              "text": "no"
+            },
+            {
+              "text": "breath"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "midst"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "it."
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "number": 20,
+          "text": "But the LORD {is} in his holy temple: let all the earth keep silence before him. {let...: Heb. be silent all the earth before him}",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "holy"
+            },
+            {
+              "text": "temple:"
+            },
+            {
+              "text": "let"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "earth"
+            },
+            {
+              "text": "keep"
+            },
+            {
+              "text": "silence"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "him."
+            },
+            {
+              "text": "{let...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "silent"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "earth"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "him}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "A prayer of Habakkuk the prophet upon Shigionoth. {upon...: or, according to variable songs, or, tunes, called in Hebrew, Shigionoth}",
+          "words": [
+            {
+              "text": "A"
+            },
+            {
+              "text": "prayer"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Habakkuk"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "prophet"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "Shigionoth."
+            },
+            {
+              "text": "{upon...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "according"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "variable"
+            },
+            {
+              "text": "songs,"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "tunes,"
+            },
+            {
+              "text": "called"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Hebrew,"
+            },
+            {
+              "text": "Shigionoth}"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "O LORD, I have heard thy speech, {and} was afraid: O LORD, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy. {speech: Heb. report, or, hearing} {revive: or, preserve alive}",
+          "words": [
+            {
+              "text": "O"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "heard"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "speech,"
+            },
+            {
+              "text": "{and}"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "afraid:"
+            },
+            {
+              "text": "O"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "revive"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "work"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "midst"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "years,"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "midst"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "years"
+            },
+            {
+              "text": "make"
+            },
+            {
+              "text": "known;"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "wrath"
+            },
+            {
+              "text": "remember"
+            },
+            {
+              "text": "mercy."
+            },
+            {
+              "text": "{speech:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "report,"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "hearing}"
+            },
+            {
+              "text": "{revive:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "preserve"
+            },
+            {
+              "text": "alive}"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise. {Teman: or, the south}",
+          "words": [
+            {
+              "text": "God"
+            },
+            {
+              "text": "came"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "Teman,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Holy"
+            },
+            {
+              "text": "One"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "mount"
+            },
+            {
+              "text": "Paran."
+            },
+            {
+              "text": "Selah."
+            },
+            {
+              "text": "His"
+            },
+            {
+              "text": "glory"
+            },
+            {
+              "text": "covered"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "heavens,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "earth"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "full"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "praise."
+            },
+            {
+              "text": "{Teman:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "south}"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "And {his} brightness was as the light; he had horns {coming} out of his hand: and there {was} the hiding of his power. {horns...: or, bright beams out of his side}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "{his}"
+            },
+            {
+              "text": "brightness"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "light;"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "had"
+            },
+            {
+              "text": "horns"
+            },
+            {
+              "text": "{coming}"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "hand:"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "there"
+            },
+            {
+              "text": "{was}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "hiding"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "power."
+            },
+            {
+              "text": "{horns...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "bright"
+            },
+            {
+              "text": "beams"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "side}"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "Before him went the pestilence, and burning coals went forth at his feet. {coals: or, diseases}",
+          "words": [
+            {
+              "text": "Before"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "went"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "pestilence,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "burning"
+            },
+            {
+              "text": "coals"
+            },
+            {
+              "text": "went"
+            },
+            {
+              "text": "forth"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "feet."
+            },
+            {
+              "text": "{coals:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "diseases}"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways {are} everlasting.",
+          "words": [
+            {
+              "text": "He"
+            },
+            {
+              "text": "stood,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "measured"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "earth:"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "beheld,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "drove"
+            },
+            {
+              "text": "asunder"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "nations;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "everlasting"
+            },
+            {
+              "text": "mountains"
+            },
+            {
+              "text": "were"
+            },
+            {
+              "text": "scattered,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "perpetual"
+            },
+            {
+              "text": "hills"
+            },
+            {
+              "text": "did"
+            },
+            {
+              "text": "bow:"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "ways"
+            },
+            {
+              "text": "{are}"
+            },
+            {
+              "text": "everlasting."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "I saw the tents of Cushan in affliction: {and} the curtains of the land of Midian did tremble. {Cushan: or, Ethiopia} {in...: or, under affliction, or, vanity}",
+          "words": [
+            {
+              "text": "I"
+            },
+            {
+              "text": "saw"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "tents"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Cushan"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "affliction:"
+            },
+            {
+              "text": "{and}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "curtains"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "land"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Midian"
+            },
+            {
+              "text": "did"
+            },
+            {
+              "text": "tremble."
+            },
+            {
+              "text": "{Cushan:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "Ethiopia}"
+            },
+            {
+              "text": "{in...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "under"
+            },
+            {
+              "text": "affliction,"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "vanity}"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "Was the LORD displeased against the rivers? {was} thine anger against the rivers? {was} thy wrath against the sea, that thou didst ride upon thine horses {and} thy chariots of salvation? {of...: or, were salvation?}",
+          "words": [
+            {
+              "text": "Was"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "displeased"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "rivers?"
+            },
+            {
+              "text": "{was}"
+            },
+            {
+              "text": "thine"
+            },
+            {
+              "text": "anger"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "rivers?"
+            },
+            {
+              "text": "{was}"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "wrath"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "didst"
+            },
+            {
+              "text": "ride"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "thine"
+            },
+            {
+              "text": "horses"
+            },
+            {
+              "text": "{and}"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "chariots"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "salvation?"
+            },
+            {
+              "text": "{of...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "were"
+            },
+            {
+              "text": "salvation?}"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "Thy bow was made quite naked, {according} to the oaths of the tribes, {even thy} word. Selah. Thou didst cleave the earth with rivers. {earth...: or, rivers of the earth}",
+          "words": [
+            {
+              "text": "Thy"
+            },
+            {
+              "text": "bow"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "quite"
+            },
+            {
+              "text": "naked,"
+            },
+            {
+              "text": "{according}"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "oaths"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "tribes,"
+            },
+            {
+              "text": "{even"
+            },
+            {
+              "text": "thy}"
+            },
+            {
+              "text": "word."
+            },
+            {
+              "text": "Selah."
+            },
+            {
+              "text": "Thou"
+            },
+            {
+              "text": "didst"
+            },
+            {
+              "text": "cleave"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "earth"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "rivers."
+            },
+            {
+              "text": "{earth...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "rivers"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "earth}"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "The mountains saw thee, {and} they trembled: the overflowing of the water passed by: the deep uttered his voice, {and} lifted up his hands on high.",
+          "words": [
+            {
+              "text": "The"
+            },
+            {
+              "text": "mountains"
+            },
+            {
+              "text": "saw"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "{and}"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "trembled:"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "overflowing"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "water"
+            },
+            {
+              "text": "passed"
+            },
+            {
+              "text": "by:"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "deep"
+            },
+            {
+              "text": "uttered"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "voice,"
+            },
+            {
+              "text": "{and}"
+            },
+            {
+              "text": "lifted"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "hands"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "high."
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "The sun {and} moon stood still in their habitation: at the light of thine arrows they went, {and} at the shining of thy glittering spear. {at the light...: or, thine arrows walked in the light}",
+          "words": [
+            {
+              "text": "The"
+            },
+            {
+              "text": "sun"
+            },
+            {
+              "text": "{and}"
+            },
+            {
+              "text": "moon"
+            },
+            {
+              "text": "stood"
+            },
+            {
+              "text": "still"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "habitation:"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "light"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "thine"
+            },
+            {
+              "text": "arrows"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "went,"
+            },
+            {
+              "text": "{and}"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "shining"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "glittering"
+            },
+            {
+              "text": "spear."
+            },
+            {
+              "text": "{at"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "light...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "thine"
+            },
+            {
+              "text": "arrows"
+            },
+            {
+              "text": "walked"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "light}"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "Thou didst march through the land in indignation, thou didst thresh the heathen in anger.",
+          "words": [
+            {
+              "text": "Thou"
+            },
+            {
+              "text": "didst"
+            },
+            {
+              "text": "march"
+            },
+            {
+              "text": "through"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "land"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "indignation,"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "didst"
+            },
+            {
+              "text": "thresh"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "heathen"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "anger."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "Thou wentest forth for the salvation of thy people, {even} for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah. {by...: Heb. making naked}",
+          "words": [
+            {
+              "text": "Thou"
+            },
+            {
+              "text": "wentest"
+            },
+            {
+              "text": "forth"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "salvation"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "people,"
+            },
+            {
+              "text": "{even}"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "salvation"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "thine"
+            },
+            {
+              "text": "anointed;"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "woundedst"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "head"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "house"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wicked,"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "discovering"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "foundation"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "neck."
+            },
+            {
+              "text": "Selah."
+            },
+            {
+              "text": "{by...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "making"
+            },
+            {
+              "text": "naked}"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing {was} as to devour the poor secretly. {came...: Heb. were tempestuous}",
+          "words": [
+            {
+              "text": "Thou"
+            },
+            {
+              "text": "didst"
+            },
+            {
+              "text": "strike"
+            },
+            {
+              "text": "through"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "staves"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "head"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "villages:"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "came"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "whirlwind"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "scatter"
+            },
+            {
+              "text": "me:"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "rejoicing"
+            },
+            {
+              "text": "{was}"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "devour"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "poor"
+            },
+            {
+              "text": "secretly."
+            },
+            {
+              "text": "{came...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "were"
+            },
+            {
+              "text": "tempestuous}"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "Thou didst walk through the sea with thine horses, {through} the heap of great waters. {heap: or, mud}",
+          "words": [
+            {
+              "text": "Thou"
+            },
+            {
+              "text": "didst"
+            },
+            {
+              "text": "walk"
+            },
+            {
+              "text": "through"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sea"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "thine"
+            },
+            {
+              "text": "horses,"
+            },
+            {
+              "text": "{through}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "heap"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "waters."
+            },
+            {
+              "text": "{heap:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "mud}"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops. {invade...: or, cut them in pieces}",
+          "words": [
+            {
+              "text": "When"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "heard,"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "belly"
+            },
+            {
+              "text": "trembled;"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "lips"
+            },
+            {
+              "text": "quivered"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "voice:"
+            },
+            {
+              "text": "rottenness"
+            },
+            {
+              "text": "entered"
+            },
+            {
+              "text": "into"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "bones,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "trembled"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "myself,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "might"
+            },
+            {
+              "text": "rest"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "day"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "trouble:"
+            },
+            {
+              "text": "when"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "cometh"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "people,"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "invade"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "troops."
+            },
+            {
+              "text": "{invade...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "cut"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "pieces}"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "Although the fig tree shall not blossom, neither {shall} fruit {be} in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and {there shall be} no herd in the stalls: {fail: Heb. lie}",
+          "words": [
+            {
+              "text": "Although"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fig"
+            },
+            {
+              "text": "tree"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "blossom,"
+            },
+            {
+              "text": "neither"
+            },
+            {
+              "text": "{shall}"
+            },
+            {
+              "text": "fruit"
+            },
+            {
+              "text": "{be}"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "vines;"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "labour"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "olive"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "fail,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fields"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "yield"
+            },
+            {
+              "text": "no"
+            },
+            {
+              "text": "meat;"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "flock"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "cut"
+            },
+            {
+              "text": "off"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fold,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "{there"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "be}"
+            },
+            {
+              "text": "no"
+            },
+            {
+              "text": "herd"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "stalls:"
+            },
+            {
+              "text": "{fail:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "lie}"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "number": 18,
+          "text": "Yet I will rejoice in the LORD, I will joy in the God of my salvation.",
+          "words": [
+            {
+              "text": "Yet"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "rejoice"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "joy"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "salvation."
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "number": 19,
+          "text": "The LORD God {is} my strength, and he will make my feet like hinds' {feet}, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments. {chief...: or, overseer} {stringed...: Heb. Neginoth}",
+          "words": [
+            {
+              "text": "The"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "strength,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "make"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "feet"
+            },
+            {
+              "text": "like"
+            },
+            {
+              "text": "hinds'"
+            },
+            {
+              "text": "{feet},"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "make"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "walk"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "mine"
+            },
+            {
+              "text": "high"
+            },
+            {
+              "text": "places."
+            },
+            {
+              "text": "To"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "chief"
+            },
+            {
+              "text": "singer"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "stringed"
+            },
+            {
+              "text": "instruments."
+            },
+            {
+              "text": "{chief...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "overseer}"
+            },
+            {
+              "text": "{stringed...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "Neginoth}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
