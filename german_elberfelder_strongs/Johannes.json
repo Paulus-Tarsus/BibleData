@@ -1,0 +1,20 @@
+{
+  "id": 43,
+  "name": "Johannes",
+  "chapters": [
+    {
+      "id": 1,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "Im Anfang war das Wort.",
+          "words": [
+            { "text": "Im", "strongID": "G1722" },
+            { "text": "Anfang", "strongID": "G746" }
+          ]
+        }
+      ]
+    }
+  ]
+}
