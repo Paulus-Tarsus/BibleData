@@ -7738,7 +7738,241 @@
             {"text": "gerechtes", "strongID": "G1342"},
             {"text": "Gericht.", "strongID": "G2920"}
           ]
+        },
+        {
+          "id": 25,
+          "number": 25,
+          "text": "Es sprachen nun etliche von den Jerusalemern: Ist dieser nicht der, den sie zu töten suchen?",
+          "words": [
+            {"text": "Es", "strongID": "G3004"}, {"text": "sprachen", "strongID": "G3004"}, {"text": "nun", "strongID": "G3767"}, {"text": "etliche", "strongID": "G5100"}, {"text": "von", "strongID": "G1537"}, {"text": "den", "strongID": "G3588"}, {"text": "Jerusalemern:", "strongID": "G2415"}, {"text": "Ist", "strongID": "G1510"}, {"text": "dieser", "strongID": "G3778"}, {"text": "nicht", "strongID": "G3756"}, {"text": "der,", "strongID": "G3739"}, {"text": "den", "strongID": "G3739"}, {"text": "sie", "strongID": "G2212"}, {"text": "zu", "strongID": "G615"}, {"text": "töten", "strongID": "G615"}, {"text": "suchen?", "strongID": "G2212"}
+          ]
+        },
+        {
+          "id": 26,
+          "number": 26,
+          "text": "Und siehe, er redet öffentlich, und sie sagen ihm nichts. Haben etwa die Obersten in Wahrheit erkannt, daß dieser der Christus ist?",
+          "words": [
+            {"text": "Und", "strongID": "G2532"}, {"text": "siehe,", "strongID": "G1492"}, {"text": "er", "strongID": "G846"}, {"text": "redet", "strongID": "G2980"}, {"text": "öffentlich,", "strongID": "G3954"}, {"text": "und", "strongID": "G2532"}, {"text": "sie", "strongID": "G3004"}, {"text": "sagen", "strongID": "G3004"}, {"text": "ihm", "strongID": "G846"}, {"text": "nichts.", "strongID": "G3762"}, {"text": "Haben", "strongID": "G3379"}, {"text": "etwa", "strongID": "G3379"}, {"text": "die", "strongID": "G3588"}, {"text": "Obersten", "strongID": "G758"}, {"text": "in", "strongID": "G1909"}, {"text": "Wahrheit", "strongID": "G227"}, {"text": "erkannt,", "strongID": "G1097"}, {"text": "daß", "strongID": "G3754"}, {"text": "dieser", "strongID": "G3778"}, {"text": "der", "strongID": "G3588"}, {"text": "Christus", "strongID": "G5547"}, {"text": "ist?", "strongID": "G1510"}
+          ]
+        },
+        {
+          "id": 27,
+          "number": 27,
+          "text": "Doch diesen kennen wir, woher er ist; wenn aber der Christus kommt, so weiß niemand, woher er ist.",
+          "words": [
+            {"text": "Doch", "strongID": "G235"}, {"text": "diesen", "strongID": "G5126"}, {"text": "kennen", "strongID": "G1492"}, {"text": "wir,", "strongID": "G1492"}, {"text": "woher", "strongID": "G4159"}, {"text": "er", "strongID": "G1510"}, {"text": "ist;", "strongID": "G1510"}, {"text": "wenn", "strongID": "G3752"}, {"text": "aber", "strongID": "G1161"}, {"text": "der", "strongID": "G3588"}, {"text": "Christus", "strongID": "G5547"}, {"text": "kommt,", "strongID": "G2064"}, {"text": "so", "strongID": "G2532"}, {"text": "weiß", "strongID": "G1097"}, {"text": "niemand,", "strongID": "G3762"}, {"text": "woher", "strongID": "G4159"}, {"text": "er", "strongID": "G1510"}, {"text": "ist.", "strongID": "G1510"}
+          ]
+        },
+        {
+          "id": 28,
+          "number": 28,
+          "text": "Da rief Jesus im Tempel lehrend und sprach: Ihr kennt mich und wißt auch, woher ich bin; und ich bin nicht von mir selbst gekommen, aber der mich gesandt hat, ist wahrhaftig, den ihr nicht kennet.",
+          "words": [
+            {"text": "Da", "strongID": "G3767"}, {"text": "rief", "strongID": "G2896"}, {"text": "Jesus", "strongID": "G2424"}, {"text": "im", "strongID": "G1722"}, {"text": "Tempel", "strongID": "G2411"}, {"text": "lehrend", "strongID": "G1321"}, {"text": "und", "strongID": "G2532"}, {"text": "sprach:", "strongID": "G3004"}, {"text": "Ihr", "strongID": "G2504"}, {"text": "kennt", "strongID": "G1492"}, {"text": "mich", "strongID": "G1691"}, {"text": "und", "strongID": "G2532"}, {"text": "wißt", "strongID": "G1492"}, {"text": "auch,", "strongID": "G2532"}, {"text": "woher", "strongID": "G4159"}, {"text": "ich", "strongID": "G1510"}, {"text": "bin;", "strongID": "G1510"}, {"text": "und", "strongID": "G2532"}, {"text": "ich", "strongID": "G1473"}, {"text": "bin", "strongID": "G2064"}, {"text": "nicht", "strongID": "G3756"}, {"text": "von", "strongID": "G575"}, {"text": "mir", "strongID": "G1683"}, {"text": "selbst", "strongID": "G1683"}, {"text": "gekommen,", "strongID": "G2064"}, {"text": "aber", "strongID": "G235"}, {"text": "der", "strongID": "G3992"}, {"text": "mich", "strongID": "G3165"}, {"text": "gesandt", "strongID": "G3992"}, {"text": "hat,", "strongID": "G3992"}, {"text": "ist", "strongID": "G1510"}, {"text": "wahrhaftig,", "strongID": "G228"}, {"text": "den", "strongID": "G3739"}, {"text": "ihr", "strongID": "G5210"}, {"text": "nicht", "strongID": "G3756"}, {"text": "kennet.", "strongID": "G1492"}
+          ]
+        },
+        {
+          "id": 29,
+          "number": 29,
+          "text": "Ich kenne ihn, weil ich von ihm bin, und jener hat mich gesandt.",
+          "words": [
+            {"text": "Ich", "strongID": "G1473"}, {"text": "kenne", "strongID": "G1492"}, {"text": "ihn,", "strongID": "G846"}, {"text": "weil", "strongID": "G3754"}, {"text": "ich", "strongID": "G1510"}, {"text": "von", "strongID": "G3844"}, {"text": "ihm", "strongID": "G846"}, {"text": "bin,", "strongID": "G1510"}, {"text": "und", "strongID": "G2532"}, {"text": "jener", "strongID": "G1565"}, {"text": "hat", "strongID": "G649"}, {"text": "mich", "strongID": "G3165"}, {"text": "gesandt.", "strongID": "G649"}
+          ]
+        },
+        {
+          "id": 30,
+          "number": 30,
+          "text": "Da suchten sie ihn zu greifen; und niemand legte die Hand an ihn, weil seine Stunde noch nicht gekommen war.",
+          "words": [
+            {"text": "Da", "strongID": "G3767"}, {"text": "suchten", "strongID": "G2212"}, {"text": "sie", "strongID": "G2212"}, {"text": "ihn", "strongID": "G846"}, {"text": "zu", "strongID": "G4084"}, {"text": "greifen;", "strongID": "G4084"}, {"text": "und", "strongID": "G2532"}, {"text": "niemand", "strongID": "G3762"}, {"text": "legte", "strongID": "G1911"}, {"text": "die", "strongID": "G3588"}, {"text": "Hand", "strongID": "G5495"}, {"text": "an", "strongID": "G1909"}, {"text": "ihn,", "strongID": "G846"}, {"text": "weil", "strongID": "G3754"}, {"text": "seine", "strongID": "G846"}, {"text": "Stunde", "strongID": "G5610"}, {"text": "noch", "strongID": "G3768"}, {"text": "nicht", "strongID": "G3768"}, {"text": "gekommen", "strongID": "G2064"}, {"text": "war.", "strongID": "G2064"}
+          ]
+        },
+        {
+          "id": 31,
+          "number": 31,
+          "text": "Viele aber aus der Volksmenge glaubten an ihn und sprachen: Wenn der Christus kommt, wird er wohl mehr Zeichen tun als diese, die dieser getan hat?",
+          "words": [
+            {"text": "Viele", "strongID": "G4183"}, {"text": "aber", "strongID": "G1161"}, {"text": "aus", "strongID": "G1537"}, {"text": "der", "strongID": "G3588"}, {"text": "Volksmenge", "strongID": "G3793"}, {"text": "glaubten", "strongID": "G4100"}, {"text": "an", "strongID": "G1519"}, {"text": "ihn", "strongID": "G846"}, {"text": "und", "strongID": "G2532"}, {"text": "sprachen:", "strongID": "G3004"}, {"text": "Wenn", "strongID": "G3752"}, {"text": "der", "strongID": "G3588"}, {"text": "Christus", "strongID": "G5547"}, {"text": "kommt,", "strongID": "G2064"}, {"text": "wird", "strongID": "G2064"}, {"text": "er", "strongID": "G3381"}, {"text": "wohl", "strongID": "G3381"}, {"text": "mehr", "strongID": "G4119"}, {"text": "Zeichen", "strongID": "G4592"}, {"text": "tun", "strongID": "G4160"}, {"text": "als", "strongID": "G3739"}, {"text": "diese,", "strongID": "G5126"}, {"text": "die", "strongID": "G3739"}, {"text": "dieser", "strongID": "G3778"}, {"text": "getan", "strongID": "G4160"}, {"text": "hat?", "strongID": "G4160"}
+          ]
+        },
+        {
+          "id": 32,
+          "number": 32,
+          "text": "Die Pharisäer hörten die Volksmenge dies über ihn murmeln; und die Pharisäer und die Hohenpriester sandten Diener ab, um ihn zu greifen.",
+          "words": [
+            {"text": "Die", "strongID": "G3588"}, {"text": "Pharisäer", "strongID": "G5330"}, {"text": "hörten", "strongID": "G191"}, {"text": "die", "strongID": "G3588"}, {"text": "Volksmenge", "strongID": "G3793"}, {"text": "dies", "strongID": "G5023"}, {"text": "über", "strongID": "G4012"}, {"text": "ihn", "strongID": "G846"}, {"text": "murmeln;", "strongID": "G1111"}, {"text": "und", "strongID": "G2532"}, {"text": "die", "strongID": "G3588"}, {"text": "Pharisäer", "strongID": "G5330"}, {"text": "und", "strongID": "G2532"}, {"text": "die", "strongID": "G3588"}, {"text": "Hohenpriester", "strongID": "G749"}, {"text": "sandten", "strongID": "G649"}, {"text": "Diener", "strongID": "G5257"}, {"text": "ab,", "strongID": "G649"}, {"text": "um", "strongID": "G2443"}, {"text": "ihn", "strongID": "G846"}, {"text": "zu", "strongID": "G4084"}, {"text": "greifen.", "strongID": "G4084"}
+          ]
+        },
+        {
+          "id": 33,
+          "number": 33,
+          "text": "Da sprach Jesus zu ihnen: Noch eine kleine Zeit bin ich bei euch, und ich gehe hin zu dem, der mich gesandt hat.",
+          "words": [
+            {"text": "Da", "strongID": "G3767"}, {"text": "sprach", "strongID": "G2036"}, {"text": "Jesus", "strongID": "G2424"}, {"text": "zu", "strongID": "G2036"}, {"text": "ihnen:", "strongID": "G846"}, {"text": "Noch", "strongID": "G2089"}, {"text": "eine", "strongID": "G3398"}, {"text": "kleine", "strongID": "G3398"}, {"text": "Zeit", "strongID": "G5550"}, {"text": "bin", "strongID": "G1510"}, {"text": "ich", "strongID": "G1510"}, {"text": "bei", "strongID": "G3326"}, {"text": "euch,", "strongID": "G5216"}, {"text": "und", "strongID": "G2532"}, {"text": "ich", "strongID": "G5217"}, {"text": "gehe", "strongID": "G5217"}, {"text": "hin", "strongID": "G5217"}, {"text": "zu", "strongID": "G4314"}, {"text": "dem,", "strongID": "G3588"}, {"text": "der", "strongID": "G3992"}, {"text": "mich", "strongID": "G3165"}, {"text": "gesandt", "strongID": "G3992"}, {"text": "hat.", "strongID": "G3992"}
+          ]
+        },
+        {
+          "id": 34,
+          "number": 34,
+          "text": "Ihr werdet mich suchen und nicht finden, und wo ich bin, könnt ihr nicht hinkommen.",
+          "words": [
+            {"text": "Ihr", "strongID": "G2212"}, {"text": "werdet", "strongID": "G2212"}, {"text": "mich", "strongID": "G3165"}, {"text": "suchen", "strongID": "G2212"}, {"text": "und", "strongID": "G2532"}, {"text": "nicht", "strongID": "G3756"}, {"text": "finden,", "strongID": "G2147"}, {"text": "und", "strongID": "G2532"}, {"text": "wo", "strongID": "G3699"}, {"text": "ich", "strongID": "G1473"}, {"text": "bin,", "strongID": "G1510"}, {"text": "könnt", "strongID": "G1410"}, {"text": "ihr", "strongID": "G5210"}, {"text": "nicht", "strongID": "G3756"}, {"text": "hinkommen.", "strongID": "G2064"}
+          ]
+        },
+        {
+          "id": 35,
+          "number": 35,
+          "text": "Da sprachen die Juden untereinander: Wohin will dieser gehen, daß wir ihn nicht finden sollen? Will er etwa in die Zerstreuung der Griechen gehen und die Griechen lehren?",
+          "words": [
+            {"text": "Da", "strongID": "G3767"}, {"text": "sprachen", "strongID": "G2036"}, {"text": "die", "strongID": "G3588"}, {"text": "Juden", "strongID": "G2453"}, {"text": "untereinander:", "strongID": "G4314"}, {"text": "Wohin", "strongID": "G4226"}, {"text": "will", "strongID": "G3195"}, {"text": "dieser", "strongID": "G3778"}, {"text": "gehen,", "strongID": "G4198"}, {"text": "daß", "strongID": "G3754"}, {"text": "wir", "strongID": "G2249"}, {"text": "ihn", "strongID": "G846"}, {"text": "nicht", "strongID": "G3756"}, {"text": "finden", "strongID": "G2147"}, {"text": "sollen?", "strongID": "G2147"}, {"text": "Will", "strongID": "G3361"}, {"text": "er", "strongID": "G3195"}, {"text": "etwa", "strongID": "G3361"}, {"text": "in", "strongID": "G1519"}, {"text": "die", "strongID": "G3588"}, {"text": "Zerstreuung", "strongID": "G1290"}, {"text": "der", "strongID": "G3588"}, {"text": "Griechen", "strongID": "G1672"}, {"text": "gehen", "strongID": "G4198"}, {"text": "und", "strongID": "G2532"}, {"text": "die", "strongID": "G3588"}, {"text": "Griechen", "strongID": "G1672"}, {"text": "lehren?", "strongID": "G1321"}
+          ]
+        },
+        {
+          "id": 36,
+          "number": 36,
+          "text": "Was ist das für ein Wort, das er sprach: Ihr werdet mich suchen und nicht finden, und wo ich bin, könnt ihr nicht hinkommen?",
+          "words": [
+            {"text": "Was", "strongID": "G5101"}, {"text": "ist", "strongID": "G1510"}, {"text": "das", "strongID": "G3778"}, {"text": "für", "strongID": "G3778"}, {"text": "ein", "strongID": "G3778"}, {"text": "Wort,", "strongID": "G3056"}, {"text": "das", "strongID": "G3739"}, {"text": "er", "strongID": "G846"}, {"text": "sprach:", "strongID": "G2036"}, {"text": "Ihr", "strongID": "G2212"}, {"text": "werdet", "strongID": "G2212"}, {"text": "mich", "strongID": "G3165"}, {"text": "suchen", "strongID": "G2212"}, {"text": "und", "strongID": "G2532"}, {"text": "nicht", "strongID": "G3756"}, {"text": "finden,", "strongID": "G2147"}, {"text": "und", "strongID": "G2532"}, {"text": "wo", "strongID": "G3699"}, {"text": "ich", "strongID": "G1473"}, {"text": "bin,", "strongID": "G1510"}, {"text": "könnt", "strongID": "G1410"}, {"text": "ihr", "strongID": "G5210"}, {"text": "nicht", "strongID": "G3756"}, {"text": "hinkommen?", "strongID": "G2064"}
+          ]
+        },
+        {
+          "id": 37,
+          "number": 37,
+          "text": "An dem letzten, dem großen Tage des Festes stand Jesus und rief und sprach: Wenn jemand dürstet, so komme er zu mir und trinke!",
+          "words": [
+            {"text": "An", "strongID": "G1722"}, {"text": "dem", "strongID": "G3588"}, {"text": "letzten,", "strongID": "G2078"}, {"text": "dem", "strongID": "G3588"}, {"text": "großen", "strongID": "G3173"}, {"text": "Tage", "strongID": "G2250"}, {"text": "des", "strongID": "G3588"}, {"text": "Festes", "strongID": "G1859"}, {"text": "stand", "strongID": "G2476"}, {"text": "Jesus", "strongID": "G2424"}, {"text": "und", "strongID": "G2532"}, {"text": "rief", "strongID": "G2896"}, {"text": "und", "strongID": "G2532"}, {"text": "sprach:", "strongID": "G3004"}, {"text": "Wenn", "strongID": "G1437"}, {"text": "jemand", "strongID": "G5100"}, {"text": "dürstet,", "strongID": "G1372"}, {"text": "so", "strongID": "G2532"}, {"text": "komme", "strongID": "G2064"}, {"text": "er", "strongID": "G2064"}, {"text": "zu", "strongID": "G4314"}, {"text": "mir", "strongID": "G3165"}, {"text": "und", "strongID": "G2532"}, {"text": "trinke!", "strongID": "G4095"}
+          ]
+        },
+        {
+          "id": 38,
+          "number": 38,
+          "text": "Wer an mich glaubt, gleichwie die Schrift gesagt hat, aus dessen Leibe werden Ströme lebendigen Wassers fließen.",
+          "words": [
+            {"text": "Wer", "strongID": "G4100"}, {"text": "an", "strongID": "G1519"}, {"text": "mich", "strongID": "G1691"}, {"text": "glaubt,", "strongID": "G4100"}, {"text": "gleichwie", "strongID": "G2531"}, {"text": "die", "strongID": "G3588"}, {"text": "Schrift", "strongID": "G1124"}, {"text": "gesagt", "strongID": "G2036"}, {"text": "hat,", "strongID": "G2036"}, {"text": "aus", "strongID": "G1537"}, {"text": "dessen", "strongID": "G846"}, {"text": "Leibe", "strongID": "G2836"}, {"text": "werden", "strongID": "G4482"}, {"text": "Ströme", "strongID": "G4216"}, {"text": "lebendigen", "strongID": "G2198"}, {"text": "Wassers", "strongID": "G5204"}, {"text": "fließen.", "strongID": "G4482"}
+          ]
+        },
+        {
+          "id": 39,
+          "number": 39,
+          "text": "Dies aber sagte er von dem Geiste, welchen die an ihn Glaubenden empfangen sollten; denn noch war der Geist nicht da, weil Jesus noch nicht verherrlicht worden war.",
+          "words": [
+            {"text": "Dies", "strongID": "G5124"}, {"text": "aber", "strongID": "G1161"}, {"text": "sagte", "strongID": "G2036"}, {"text": "er", "strongID": "G2036"}, {"text": "von", "strongID": "G4012"}, {"text": "dem", "strongID": "G3588"}, {"text": "Geiste,", "strongID": "G4151"}, {"text": "welchen", "strongID": "G3739"}, {"text": "die", "strongID": "G4100"}, {"text": "an", "strongID": "G1519"}, {"text": "ihn", "strongID": "G846"}, {"text": "Glaubenden", "strongID": "G4100"}, {"text": "empfangen", "strongID": "G2983"}, {"text": "sollten;", "strongID": "G3195"}, {"text": "denn", "strongID": "G1063"}, {"text": "noch", "strongID": "G3768"}, {"text": "war", "strongID": "G1510"}, {"text": "der", "strongID": "G3588"}, {"text": "Geist", "strongID": "G4151"}, {"text": "nicht", "strongID": "G3768"}, {"text": "da,", "strongID": "G3768"}, {"text": "weil", "strongID": "G3754"}, {"text": "Jesus", "strongID": "G2424"}, {"text": "noch", "strongID": "G3768"}, {"text": "nicht", "strongID": "G3768"}, {"text": "verherrlicht", "strongID": "G1392"}, {"text": "worden", "strongID": "G1392"}, {"text": "war.", "strongID": "G1392"}
+          ]
+        },
+        {
+          "id": 40,
+          "number": 40,
+          "text": "Viele nun aus der Volksmenge, die dieses Wort hörten, sagten: Dieser ist wahrhaftig der Prophet.",
+          "words": [
+            {"text": "Viele", "strongID": "G4183"}, {"text": "nun", "strongID": "G3767"}, {"text": "aus", "strongID": "G1537"}, {"text": "der", "strongID": "G3588"}, {"text": "Volksmenge,", "strongID": "G3793"}, {"text": "die", "strongID": "G191"}, {"text": "dieses", "strongID": "G3056"}, {"text": "Wort", "strongID": "G3056"}, {"text": "hörten,", "strongID": "G191"}, {"text": "sagten:", "strongID": "G3004"}, {"text": "Dieser", "strongID": "G3778"}, {"text": "ist", "strongID": "G1510"}, {"text": "wahrhaftig", "strongID": "G230"}, {"text": "der", "strongID": "G3588"}, {"text": "Prophet.", "strongID": "G4396"}
+          ]
+        },
+        {
+          "id": 41,
+          "number": 41,
+          "text": "Andere sagten: Dieser ist der Christus. Andere aber sagten: Der Christus kommt doch nicht aus Galiläa?",
+          "words": [
+            {"text": "Andere", "strongID": "G243"}, {"text": "sagten:", "strongID": "G3004"}, {"text": "Dieser", "strongID": "G3778"}, {"text": "ist", "strongID": "G1510"}, {"text": "der", "strongID": "G3588"}, {"text": "Christus.", "strongID": "G5547"}, {"text": "Andere", "strongID": "G243"}, {"text": "aber", "strongID": "G1161"}, {"text": "sagten:", "strongID": "G3004"}, {"text": "Der", "strongID": "G3588"}, {"text": "Christus", "strongID": "G5547"}, {"text": "kommt", "strongID": "G2064"}, {"text": "doch", "strongID": "G1063"}, {"text": "nicht", "strongID": "G3361"}, {"text": "aus", "strongID": "G1537"}, {"text": "Galiläa?", "strongID": "G1056"}
+          ]
+        },
+        {
+          "id": 42,
+          "number": 42,
+          "text": "Hat nicht die Schrift gesagt: Aus dem Samen Davids und von Bethlehem, dem Dorfe, wo David war, kommt der Christus?",
+          "words": [
+            {"text": "Hat", "strongID": "G2036"}, {"text": "nicht", "strongID": "G3780"}, {"text": "die", "strongID": "G3588"}, {"text": "Schrift", "strongID": "G1124"}, {"text": "gesagt:", "strongID": "G2036"}, {"text": "Aus", "strongID": "G1537"}, {"text": "dem", "strongID": "G3588"}, {"text": "Samen", "strongID": "G4690"}, {"text": "Davids", "strongID": "G1138"}, {"text": "und", "strongID": "G2532"}, {"text": "von", "strongID": "G575"}, {"text": "Bethlehem,", "strongID": "G965"}, {"text": "dem", "strongID": "G3588"}, {"text": "Dorfe,", "strongID": "G2968"}, {"text": "wo", "strongID": "G3699"}, {"text": "David", "strongID": "G1138"}, {"text": "war,", "strongID": "G1510"}, {"text": "kommt", "strongID": "G2064"}, {"text": "der", "strongID": "G3588"}, {"text": "Christus?", "strongID": "G5547"}
+          ]
+        },
+        {
+          "id": 43,
+          "number": 43,
+          "text": "Es entstand nun eine Spaltung in der Volksmenge seinetwegen.",
+          "words": [
+            {"text": "Es", "strongID": "G1096"}, {"text": "entstand", "strongID": "G1096"}, {"text": "nun", "strongID": "G3767"}, {"text": "eine", "strongID": "G1096"}, {"text": "Spaltung", "strongID": "G4978"}, {"text": "in", "strongID": "G1722"}, {"text": "der", "strongID": "G3588"}, {"text": "Volksmenge", "strongID": "G3793"}, {"text": "seinetwegen.", "strongID": "G1223"}
+          ]
+        },
+        {
+          "id": 44,
+          "number": 44,
+          "text": "Etliche aber von ihnen wollten ihn greifen, aber niemand legte die Hände an ihn.",
+          "words": [
+            {"text": "Etliche", "strongID": "G5100"}, {"text": "aber", "strongID": "G1161"}, {"text": "von", "strongID": "G1537"}, {"text": "ihnen", "strongID": "G846"}, {"text": "wollten", "strongID": "G2309"}, {"text": "ihn", "strongID": "G846"}, {"text": "greifen,", "strongID": "G4084"}, {"text": "aber", "strongID": "G235"}, {"text": "niemand", "strongID": "G3762"}, {"text": "legte", "strongID": "G1911"}, {"text": "die", "strongID": "G3588"}, {"text": "Hände", "strongID": "G5495"}, {"text": "an", "strongID": "G1909"}, {"text": "ihn.", "strongID": "G846"}
+          ]
+        },
+        {
+          "id": 45,
+          "number": 45,
+          "text": "Die Diener kamen nun zu den Hohenpriestern und Pharisäern, und diese sprachen zu ihnen: Warum habt ihr ihn nicht hergebracht?",
+          "words": [
+            {"text": "Die", "strongID": "G3588"}, {"text": "Diener", "strongID": "G5257"}, {"text": "kamen", "strongID": "G2064"}, {"text": "nun", "strongID": "G3767"}, {"text": "zu", "strongID": "G4314"}, {"text": "den", "strongID": "G3588"}, {"text": "Hohenpriestern", "strongID": "G749"}, {"text": "und", "strongID": "G2532"}, {"text": "Pharisäern,", "strongID": "G5330"}, {"text": "und", "strongID": "G2532"}, {"text": "diese", "strongID": "G1565"}, {"text": "sprachen", "strongID": "G2036"}, {"text": "zu", "strongID": "G2036"}, {"text": "ihnen:", "strongID": "G846"}, {"text": "Warum", "strongID": "G1223"}, {"text": "habt", "strongID": "G71"}, {"text": "ihr", "strongID": "G5101"}, {"text": "ihn", "strongID": "G846"}, {"text": "nicht", "strongID": "G3756"}, {"text": "hergebracht?", "strongID": "G71"}
+          ]
+        },
+        {
+          "id": 46,
+          "number": 46,
+          "text": "Die Diener antworteten: Niemals hat ein Mensch so geredet wie dieser Mensch.",
+          "words": [
+            {"text": "Die", "strongID": "G3588"}, {"text": "Diener", "strongID": "G5257"}, {"text": "antworteten:", "strongID": "G611"}, {"text": "Niemals", "strongID": "G3763"}, {"text": "hat", "strongID": "G2980"}, {"text": "ein", "strongID": "G3779"}, {"text": "Mensch", "strongID": "G444"}, {"text": "so", "strongID": "G3779"}, {"text": "geredet", "strongID": "G2980"}, {"text": "wie", "strongID": "G5613"}, {"text": "dieser", "strongID": "G3778"}, {"text": "Mensch.", "strongID": "G444"}
+          ]
+        },
+        {
+          "id": 47,
+          "number": 47,
+          "text": "Da antworteten ihnen die Pharisäer: Seid auch ihr verführt?",
+          "words": [
+            {"text": "Da", "strongID": "G3767"}, {"text": "antworteten", "strongID": "G611"}, {"text": "ihnen", "strongID": "G846"}, {"text": "die", "strongID": "G3588"}, {"text": "Pharisäer:", "strongID": "G5330"}, {"text": "Seid", "strongID": "G4105"}, {"text": "auch", "strongID": "G3361"}, {"text": "ihr", "strongID": "G5210"}, {"text": "verführt?", "strongID": "G4105"}
+          ]
+        },
+        {
+          "id": 48,
+          "number": 48,
+          "text": "Hat etwa jemand von den Obersten an ihn geglaubt oder von den Pharisäern?",
+          "words": [
+            {"text": "Hat", "strongID": "G3361"}, {"text": "etwa", "strongID": "G3361"}, {"text": "jemand", "strongID": "G5100"}, {"text": "von", "strongID": "G1537"}, {"text": "den", "strongID": "G3588"}, {"text": "Obersten", "strongID": "G758"}, {"text": "an", "strongID": "G1519"}, {"text": "ihn", "strongID": "G846"}, {"text": "geglaubt", "strongID": "G4100"}, {"text": "oder", "strongID": "G2228"}, {"text": "von", "strongID": "G1537"}, {"text": "den", "strongID": "G3588"}, {"text": "Pharisäern?", "strongID": "G5330"}
+          ]
+        },
+        {
+          "id": 49,
+          "number": 49,
+          "text": "Aber diese Volksmenge, die das Gesetz nicht kennt, ist verflucht.",
+          "words": [
+            {"text": "Aber", "strongID": "G235"}, {"text": "diese", "strongID": "G3778"}, {"text": "Volksmenge,", "strongID": "G3793"}, {"text": "die", "strongID": "G3588"}, {"text": "das", "strongID": "G3588"}, {"text": "Gesetz", "strongID": "G3551"}, {"text": "nicht", "strongID": "G3361"}, {"text": "kennt,", "strongID": "G1097"}, {"text": "ist", "strongID": "G1510"}, {"text": "verflucht.", "strongID": "G1944"}
+          ]
+        },
+        {
+          "id": 50,
+          "number": 50,
+          "text": "Nikodemus (der zu ihm gekommen war bei Nacht, der einer von ihnen war) spricht zu ihnen:",
+          "words": [
+            {"text": "Nikodemus", "strongID": "G3530"}, {"text": "(der", "strongID": "G2064"}, {"text": "zu", "strongID": "G4314"}, {"text": "ihm", "strongID": "G846"}, {"text": "gekommen", "strongID": "G2064"}, {"text": "war", "strongID": "G2064"}, {"text": "bei", "strongID": "G3571"}, {"text": "Nacht,", "strongID": "G3571"}, {"text": "der", "strongID": "G1520"}, {"text": "einer", "strongID": "G1520"}, {"text": "von", "strongID": "G1537"}, {"text": "ihnen", "strongID": "G846"}, {"text": "war)", "strongID": "G5607"}, {"text": "spricht", "strongID": "G3004"}, {"text": "zu", "strongID": "G4314"}, {"text": "ihnen:", "strongID": "G846"}
+          ]
+        },
+        {
+          "id": 51,
+          "number": 51,
+          "text": "Richtet wohl unser Gesetz den Menschen, es habe denn zuvor von ihm gehört und erkannt, was er tut?",
+          "words": [
+            {"text": "Richtet", "strongID": "G2919"}, {"text": "wohl", "strongID": "G3361"}, {"text": "unser", "strongID": "G2257"}, {"text": "Gesetz", "strongID": "G3551"}, {"text": "den", "strongID": "G3588"}, {"text": "Menschen,", "strongID": "G444"}, {"text": "es", "strongID": "G1437"}, {"text": "habe", "strongID": "G191"}, {"text": "denn", "strongID": "G3361"}, {"text": "zuvor", "strongID": "G4412"}, {"text": "von", "strongID": "G3844"}, {"text": "ihm", "strongID": "G846"}, {"text": "gehört", "strongID": "G191"}, {"text": "und", "strongID": "G2532"}, {"text": "erkannt,", "strongID": "G1097"}, {"text": "was", "strongID": "G5101"}, {"text": "er", "strongID": "G4160"}, {"text": "tut?", "strongID": "G4160"}
+          ]
+        },
+        {
+          "id": 52,
+          "number": 52,
+          "text": "Sie antworteten und sprachen zu ihm: Bist du etwa auch aus Galiläa? Forsche und sieh, daß aus Galiläa kein Prophet aufsteht.",
+          "words": [
+            {"text": "Sie", "strongID": "G611"}, {"text": "antworteten", "strongID": "G611"}, {"text": "und", "strongID": "G2532"}, {"text": "sprachen", "strongID": "G2036"}, {"text": "zu", "strongID": "G2036"}, {"text": "ihm:", "strongID": "G846"}, {"text": "Bist", "strongID": "G1510"}, {"text": "du", "strongID": "G4771"}, {"text": "etwa", "strongID": "G3361"}, {"text": "auch", "strongID": "G2532"}, {"text": "aus", "strongID": "G1537"}, {"text": "Galiläa?", "strongID": "G1056"}, {"text": "Forsche", "strongID": "G2045"}, {"text": "und", "strongID": "G2532"}, {"text": "sieh,", "strongID": "G1492"}, {"text": "daß", "strongID": "G3754"}, {"text": "aus", "strongID": "G1537"}, {"text": "Galiläa", "strongID": "G1056"}, {"text": "kein", "strongID": "G3756"}, {"text": "Prophet", "strongID": "G4396"}, {"text": "aufsteht.", "strongID": "G1453"}
+          ]
+        },
+        {
+          "id": 53,
+          "number": 53,
+          "text": "Und ein jeder ging in sein Haus.",
+          "words": [
+            {"text": "Und", "strongID": "G2532"}, {"text": "ein", "strongID": "G1538"}, {"text": "jeder", "strongID": "G1538"}, {"text": "ging", "strongID": "G4198"}, {"text": "in", "strongID": "G1519"}, {"text": "sein", "strongID": "G846"}, {"text": "Haus.", "strongID": "G3624"}
+          ]
         }
+      ]
+    }
       ]
     }
       ]
