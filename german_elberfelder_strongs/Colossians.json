@@ -1,0 +1,6961 @@
+{
+  "id": 51,
+  "name": "Colossians",
+  "chapters": [
+    {
+      "id": 1,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "Paul, an apostle of Jesus Christ by the will of God, and Timotheus {our} brother,",
+          "words": [
+            {
+              "text": "Paul,"
+            },
+            {
+              "text": "an"
+            },
+            {
+              "text": "apostle"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Jesus"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "Timotheus"
+            },
+            {
+              "text": "{our}"
+            },
+            {
+              "text": "brother,"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "To the saints and faithful brethren in Christ which are at Colosse: Grace {be} unto you, and peace, from God our Father and the Lord Jesus Christ.",
+          "words": [
+            {
+              "text": "To"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "saints"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "faithful"
+            },
+            {
+              "text": "brethren"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "Colosse:"
+            },
+            {
+              "text": "Grace"
+            },
+            {
+              "text": "{be}"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "peace,"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "our"
+            },
+            {
+              "text": "Father"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord"
+            },
+            {
+              "text": "Jesus"
+            },
+            {
+              "text": "Christ."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,",
+          "words": [
+            {
+              "text": "We"
+            },
+            {
+              "text": "give"
+            },
+            {
+              "text": "thanks"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Father"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "our"
+            },
+            {
+              "text": "Lord"
+            },
+            {
+              "text": "Jesus"
+            },
+            {
+              "text": "Christ,"
+            },
+            {
+              "text": "praying"
+            },
+            {
+              "text": "always"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "you,"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "Since we heard of your faith in Christ Jesus, and of the love {which ye have} to all the saints,",
+          "words": [
+            {
+              "text": "Since"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "heard"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "faith"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "Jesus,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "love"
+            },
+            {
+              "text": "{which"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "have}"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "saints,"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "For the hope which is laid up for you in heaven, whereof ye heard before in the word of the truth of the gospel;",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "hope"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "laid"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "heaven,"
+            },
+            {
+              "text": "whereof"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "heard"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "word"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "truth"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "gospel;"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "Which is come unto you, as {it is} in all the world; and bringeth forth fruit, as {it doth} also in you, since the day ye heard {of it}, and knew the grace of God in truth:",
+          "words": [
+            {
+              "text": "Which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "come"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "{it"
+            },
+            {
+              "text": "is}"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "world;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "bringeth"
+            },
+            {
+              "text": "forth"
+            },
+            {
+              "text": "fruit,"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "{it"
+            },
+            {
+              "text": "doth}"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "since"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "day"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "heard"
+            },
+            {
+              "text": "{of"
+            },
+            {
+              "text": "it},"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "knew"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "grace"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "truth:"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;",
+          "words": [
+            {
+              "text": "As"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "learned"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Epaphras"
+            },
+            {
+              "text": "our"
+            },
+            {
+              "text": "dear"
+            },
+            {
+              "text": "fellowservant,"
+            },
+            {
+              "text": "who"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "faithful"
+            },
+            {
+              "text": "minister"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Christ;"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "Who also declared unto us your love in the Spirit.",
+          "words": [
+            {
+              "text": "Who"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "declared"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "us"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "love"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Spirit."
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "For this cause we also, since the day we heard {it}, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "cause"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "also,"
+            },
+            {
+              "text": "since"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "day"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "heard"
+            },
+            {
+              "text": "{it},"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "cease"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "pray"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "desire"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "might"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "filled"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "knowledge"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "wisdom"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "spiritual"
+            },
+            {
+              "text": "understanding;"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;",
+          "words": [
+            {
+              "text": "That"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "might"
+            },
+            {
+              "text": "walk"
+            },
+            {
+              "text": "worthy"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "pleasing,"
+            },
+            {
+              "text": "being"
+            },
+            {
+              "text": "fruitful"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "good"
+            },
+            {
+              "text": "work,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "increasing"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "knowledge"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God;"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "Strengthened with all might, according to his glorious power, unto all patience and longsuffering with joyfulness;",
+          "words": [
+            {
+              "text": "Strengthened"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "might,"
+            },
+            {
+              "text": "according"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "glorious"
+            },
+            {
+              "text": "power,"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "patience"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "longsuffering"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "joyfulness;"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "Giving thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light:",
+          "words": [
+            {
+              "text": "Giving"
+            },
+            {
+              "text": "thanks"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Father,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "us"
+            },
+            {
+              "text": "meet"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "partakers"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "inheritance"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "saints"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "light:"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "Who hath delivered us from the power of darkness, and hath translated {us} into the kingdom of his dear Son: {his...: Gr. the Son of his love}",
+          "words": [
+            {
+              "text": "Who"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "delivered"
+            },
+            {
+              "text": "us"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "power"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "darkness,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "translated"
+            },
+            {
+              "text": "{us}"
+            },
+            {
+              "text": "into"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "kingdom"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "dear"
+            },
+            {
+              "text": "Son:"
+            },
+            {
+              "text": "{his...:"
+            },
+            {
+              "text": "Gr."
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Son"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "love}"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "In whom we have redemption through his blood, {even} the forgiveness of sins:",
+          "words": [
+            {
+              "text": "In"
+            },
+            {
+              "text": "whom"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "redemption"
+            },
+            {
+              "text": "through"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "blood,"
+            },
+            {
+              "text": "{even}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "forgiveness"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "sins:"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "Who is the image of the invisible God, the firstborn of every creature:",
+          "words": [
+            {
+              "text": "Who"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "image"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "invisible"
+            },
+            {
+              "text": "God,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "firstborn"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "creature:"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether {they be} thrones, or dominions, or principalities, or powers: all things were created by him, and for him:",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "were"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "created,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "heaven,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "earth,"
+            },
+            {
+              "text": "visible"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "invisible,"
+            },
+            {
+              "text": "whether"
+            },
+            {
+              "text": "{they"
+            },
+            {
+              "text": "be}"
+            },
+            {
+              "text": "thrones,"
+            },
+            {
+              "text": "or"
+            },
+            {
+              "text": "dominions,"
+            },
+            {
+              "text": "or"
+            },
+            {
+              "text": "principalities,"
+            },
+            {
+              "text": "or"
+            },
+            {
+              "text": "powers:"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "were"
+            },
+            {
+              "text": "created"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "him:"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "And he is before all things, and by him all things consist.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "things,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "consist."
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "number": 18,
+          "text": "And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all {things} he might have the preeminence. {in...: or, among all}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "head"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "body,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "church:"
+            },
+            {
+              "text": "who"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "beginning,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "firstborn"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "dead;"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "{things}"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "might"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "preeminence."
+            },
+            {
+              "text": "{in...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "among"
+            },
+            {
+              "text": "all}"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "number": 19,
+          "text": "For it pleased {the Father} that in him should all fulness dwell;",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "pleased"
+            },
+            {
+              "text": "{the"
+            },
+            {
+              "text": "Father}"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "should"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "fulness"
+            },
+            {
+              "text": "dwell;"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "number": 20,
+          "text": "And, having made peace through the blood of his cross, by him to reconcile all things unto himself; by him, {I say}, whether {they be} things in earth, or things in heaven. {having...: or, making}",
+          "words": [
+            {
+              "text": "And,"
+            },
+            {
+              "text": "having"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "peace"
+            },
+            {
+              "text": "through"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "blood"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "cross,"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "reconcile"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "himself;"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "{I"
+            },
+            {
+              "text": "say},"
+            },
+            {
+              "text": "whether"
+            },
+            {
+              "text": "{they"
+            },
+            {
+              "text": "be}"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "earth,"
+            },
+            {
+              "text": "or"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "heaven."
+            },
+            {
+              "text": "{having...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "making}"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "number": 21,
+          "text": "And you, that were sometime alienated and enemies in {your} mind by wicked works, yet now hath he reconciled {in...: or, by your mind in}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "were"
+            },
+            {
+              "text": "sometime"
+            },
+            {
+              "text": "alienated"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "enemies"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "{your}"
+            },
+            {
+              "text": "mind"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "wicked"
+            },
+            {
+              "text": "works,"
+            },
+            {
+              "text": "yet"
+            },
+            {
+              "text": "now"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "reconciled"
+            },
+            {
+              "text": "{in...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "mind"
+            },
+            {
+              "text": "in}"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "number": 22,
+          "text": "In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:",
+          "words": [
+            {
+              "text": "In"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "body"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "flesh"
+            },
+            {
+              "text": "through"
+            },
+            {
+              "text": "death,"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "present"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "holy"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "unblameable"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "unreproveable"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "sight:"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "number": 23,
+          "text": "If ye continue in the faith grounded and settled, and {be} not moved away from the hope of the gospel, which ye have heard, {and} which was preached to every creature which is under heaven; whereof I Paul am made a minister;",
+          "words": [
+            {
+              "text": "If"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "continue"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "faith"
+            },
+            {
+              "text": "grounded"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "settled,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "{be}"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "moved"
+            },
+            {
+              "text": "away"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "hope"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "gospel,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "heard,"
+            },
+            {
+              "text": "{and}"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "preached"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "creature"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "under"
+            },
+            {
+              "text": "heaven;"
+            },
+            {
+              "text": "whereof"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "Paul"
+            },
+            {
+              "text": "am"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "minister;"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "number": 24,
+          "text": "Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body's sake, which is the church:",
+          "words": [
+            {
+              "text": "Who"
+            },
+            {
+              "text": "now"
+            },
+            {
+              "text": "rejoice"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "sufferings"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "fill"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "behind"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "afflictions"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "flesh"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "body's"
+            },
+            {
+              "text": "sake,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "church:"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "number": 25,
+          "text": "Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God; {to fulfil...: or, fully to preach the word}",
+          "words": [
+            {
+              "text": "Whereof"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "am"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "minister,"
+            },
+            {
+              "text": "according"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "dispensation"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "given"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "fulfil"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "word"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God;"
+            },
+            {
+              "text": "{to"
+            },
+            {
+              "text": "fulfil...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "fully"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "preach"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "word}"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "number": 26,
+          "text": "{Even} the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:",
+          "words": [
+            {
+              "text": "{Even}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "mystery"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "been"
+            },
+            {
+              "text": "hid"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "ages"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "generations,"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "now"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "manifest"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "saints:"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "number": 27,
+          "text": "To whom God would make known what {is} the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory: {in: or, among}",
+          "words": [
+            {
+              "text": "To"
+            },
+            {
+              "text": "whom"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "would"
+            },
+            {
+              "text": "make"
+            },
+            {
+              "text": "known"
+            },
+            {
+              "text": "what"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "riches"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "glory"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "mystery"
+            },
+            {
+              "text": "among"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Gentiles;"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "hope"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "glory:"
+            },
+            {
+              "text": "{in:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "among}"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "number": 28,
+          "text": "Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:",
+          "words": [
+            {
+              "text": "Whom"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "preach,"
+            },
+            {
+              "text": "warning"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "man,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "teaching"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "wisdom;"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "present"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "perfect"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "Jesus:"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "number": 29,
+          "text": "Whereunto I also labour, striving according to his working, which worketh in me mightily.",
+          "words": [
+            {
+              "text": "Whereunto"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "labour,"
+            },
+            {
+              "text": "striving"
+            },
+            {
+              "text": "according"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "working,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "worketh"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "mightily."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "For I would that ye knew what great conflict I have for you, and {for} them at Laodicea, and {for} as many as have not seen my face in the flesh; {conflict: or, fear, or, care}",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "would"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "knew"
+            },
+            {
+              "text": "what"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "conflict"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "{for}"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "Laodicea,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "{for}"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "many"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "seen"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "face"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "flesh;"
+            },
+            {
+              "text": "{conflict:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "fear,"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "care}"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;",
+          "words": [
+            {
+              "text": "That"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "hearts"
+            },
+            {
+              "text": "might"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "comforted,"
+            },
+            {
+              "text": "being"
+            },
+            {
+              "text": "knit"
+            },
+            {
+              "text": "together"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "love,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "riches"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "full"
+            },
+            {
+              "text": "assurance"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "understanding,"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "acknowledgement"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "mystery"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Father,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Christ;"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "In whom are hid all the treasures of wisdom and knowledge. {In whom: or, Wherein}",
+          "words": [
+            {
+              "text": "In"
+            },
+            {
+              "text": "whom"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "hid"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "treasures"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "wisdom"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "knowledge."
+            },
+            {
+              "text": "{In"
+            },
+            {
+              "text": "whom:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "Wherein}"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "And this I say, lest any man should beguile you with enticing words.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "say,"
+            },
+            {
+              "text": "lest"
+            },
+            {
+              "text": "any"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "should"
+            },
+            {
+              "text": "beguile"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "enticing"
+            },
+            {
+              "text": "words."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "though"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "absent"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "flesh,"
+            },
+            {
+              "text": "yet"
+            },
+            {
+              "text": "am"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "spirit,"
+            },
+            {
+              "text": "joying"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "beholding"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "order,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "stedfastness"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "faith"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Christ."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "As ye have therefore received Christ Jesus the Lord, {so} walk ye in him:",
+          "words": [
+            {
+              "text": "As"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "therefore"
+            },
+            {
+              "text": "received"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "Jesus"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord,"
+            },
+            {
+              "text": "{so}"
+            },
+            {
+              "text": "walk"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "him:"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.",
+          "words": [
+            {
+              "text": "Rooted"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "built"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "stablished"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "faith,"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "been"
+            },
+            {
+              "text": "taught,"
+            },
+            {
+              "text": "abounding"
+            },
+            {
+              "text": "therein"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "thanksgiving."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ. {rudiments: or, elements} {make a prey: or, seduce you, or, lead you astray}",
+          "words": [
+            {
+              "text": "Beware"
+            },
+            {
+              "text": "lest"
+            },
+            {
+              "text": "any"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "spoil"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "through"
+            },
+            {
+              "text": "philosophy"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "vain"
+            },
+            {
+              "text": "deceit,"
+            },
+            {
+              "text": "after"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "tradition"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "men,"
+            },
+            {
+              "text": "after"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "rudiments"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "world,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "after"
+            },
+            {
+              "text": "Christ."
+            },
+            {
+              "text": "{rudiments:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "elements}"
+            },
+            {
+              "text": "{make"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "prey:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "seduce"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "lead"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "astray}"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "For in him dwelleth all the fulness of the Godhead bodily.",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "dwelleth"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fulness"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Godhead"
+            },
+            {
+              "text": "bodily."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "And ye are complete in him, which is the head of all principality and power:",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "complete"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "head"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "principality"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "power:"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:",
+          "words": [
+            {
+              "text": "In"
+            },
+            {
+              "text": "whom"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "circumcised"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "circumcision"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "without"
+            },
+            {
+              "text": "hands,"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "putting"
+            },
+            {
+              "text": "off"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "body"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sins"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "flesh"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "circumcision"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Christ:"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "Buried with him in baptism, wherein also ye are risen with {him} through the faith of the operation of God, who hath raised him from the dead.",
+          "words": [
+            {
+              "text": "Buried"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "baptism,"
+            },
+            {
+              "text": "wherein"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "risen"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "{him}"
+            },
+            {
+              "text": "through"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "faith"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "operation"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God,"
+            },
+            {
+              "text": "who"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "raised"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "dead."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "being"
+            },
+            {
+              "text": "dead"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "sins"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "uncircumcision"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "flesh,"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "quickened"
+            },
+            {
+              "text": "together"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "having"
+            },
+            {
+              "text": "forgiven"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "trespasses;"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;",
+          "words": [
+            {
+              "text": "Blotting"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "handwriting"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "ordinances"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "us,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "contrary"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "us,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "took"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "way,"
+            },
+            {
+              "text": "nailing"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "cross;"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "{And} having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it. {in it: or, in himself}",
+          "words": [
+            {
+              "text": "{And}"
+            },
+            {
+              "text": "having"
+            },
+            {
+              "text": "spoiled"
+            },
+            {
+              "text": "principalities"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "powers,"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "shew"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "openly,"
+            },
+            {
+              "text": "triumphing"
+            },
+            {
+              "text": "over"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "it."
+            },
+            {
+              "text": "{in"
+            },
+            {
+              "text": "it:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "himself}"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath {days}: {in meat...: or, for eating and drinking} {respect: or, part}",
+          "words": [
+            {
+              "text": "Let"
+            },
+            {
+              "text": "no"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "therefore"
+            },
+            {
+              "text": "judge"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "meat,"
+            },
+            {
+              "text": "or"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "drink,"
+            },
+            {
+              "text": "or"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "respect"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "an"
+            },
+            {
+              "text": "holyday,"
+            },
+            {
+              "text": "or"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "new"
+            },
+            {
+              "text": "moon,"
+            },
+            {
+              "text": "or"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sabbath"
+            },
+            {
+              "text": "{days}:"
+            },
+            {
+              "text": "{in"
+            },
+            {
+              "text": "meat...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "eating"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "drinking}"
+            },
+            {
+              "text": "{respect:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "part}"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "Which are a shadow of things to come; but the body {is} of Christ.",
+          "words": [
+            {
+              "text": "Which"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "shadow"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "come;"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "body"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Christ."
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "number": 18,
+          "text": "Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind, {beguile...: or, judge against you} {in a...: Gr. being a voluntary in humility}",
+          "words": [
+            {
+              "text": "Let"
+            },
+            {
+              "text": "no"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "beguile"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "reward"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "voluntary"
+            },
+            {
+              "text": "humility"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "worshipping"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "angels,"
+            },
+            {
+              "text": "intruding"
+            },
+            {
+              "text": "into"
+            },
+            {
+              "text": "those"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "seen,"
+            },
+            {
+              "text": "vainly"
+            },
+            {
+              "text": "puffed"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "fleshly"
+            },
+            {
+              "text": "mind,"
+            },
+            {
+              "text": "{beguile...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "judge"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "you}"
+            },
+            {
+              "text": "{in"
+            },
+            {
+              "text": "a...:"
+            },
+            {
+              "text": "Gr."
+            },
+            {
+              "text": "being"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "voluntary"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "humility}"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "number": 19,
+          "text": "And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "holding"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Head,"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "body"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "joints"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "bands"
+            },
+            {
+              "text": "having"
+            },
+            {
+              "text": "nourishment"
+            },
+            {
+              "text": "ministered,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "knit"
+            },
+            {
+              "text": "together,"
+            },
+            {
+              "text": "increaseth"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "increase"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God."
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "number": 20,
+          "text": "Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances, {rudiments: or, elements}",
+          "words": [
+            {
+              "text": "Wherefore"
+            },
+            {
+              "text": "if"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "dead"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "rudiments"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "world,"
+            },
+            {
+              "text": "why,"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "though"
+            },
+            {
+              "text": "living"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "world,"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "subject"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "ordinances,"
+            },
+            {
+              "text": "{rudiments:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "elements}"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "number": 21,
+          "text": "(Touch not; taste not; handle not;",
+          "words": [
+            {
+              "text": "(Touch"
+            },
+            {
+              "text": "not;"
+            },
+            {
+              "text": "taste"
+            },
+            {
+              "text": "not;"
+            },
+            {
+              "text": "handle"
+            },
+            {
+              "text": "not;"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "number": 22,
+          "text": "Which all are to perish with the using;) after the commandments and doctrines of men?",
+          "words": [
+            {
+              "text": "Which"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "perish"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "using;)"
+            },
+            {
+              "text": "after"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "commandments"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "doctrines"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "men?"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "number": 23,
+          "text": "Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh. {neglecting: or, punishing, or, not sparing}",
+          "words": [
+            {
+              "text": "Which"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "indeed"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "shew"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "wisdom"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "worship,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "humility,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "neglecting"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "body;"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "any"
+            },
+            {
+              "text": "honour"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "satisfying"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "flesh."
+            },
+            {
+              "text": "{neglecting:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "punishing,"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "sparing}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.",
+          "words": [
+            {
+              "text": "If"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "then"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "risen"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "Christ,"
+            },
+            {
+              "text": "seek"
+            },
+            {
+              "text": "those"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "above,"
+            },
+            {
+              "text": "where"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "sitteth"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "right"
+            },
+            {
+              "text": "hand"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "Set your affection on things above, not on things on the earth. {affection: or, mind}",
+          "words": [
+            {
+              "text": "Set"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "affection"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "above,"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "earth."
+            },
+            {
+              "text": "{affection:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "mind}"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "For ye are dead, and your life is hid with Christ in God.",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "dead,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "life"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "hid"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "God."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "When Christ, {who is} our life, shall appear, then shall ye also appear with him in glory.",
+          "words": [
+            {
+              "text": "When"
+            },
+            {
+              "text": "Christ,"
+            },
+            {
+              "text": "{who"
+            },
+            {
+              "text": "is}"
+            },
+            {
+              "text": "our"
+            },
+            {
+              "text": "life,"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "appear,"
+            },
+            {
+              "text": "then"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "appear"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "glory."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:",
+          "words": [
+            {
+              "text": "Mortify"
+            },
+            {
+              "text": "therefore"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "members"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "earth;"
+            },
+            {
+              "text": "fornication,"
+            },
+            {
+              "text": "uncleanness,"
+            },
+            {
+              "text": "inordinate"
+            },
+            {
+              "text": "affection,"
+            },
+            {
+              "text": "evil"
+            },
+            {
+              "text": "concupiscence,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "covetousness,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "idolatry:"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "For which things' sake the wrath of God cometh on the children of disobedience:",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "things'"
+            },
+            {
+              "text": "sake"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wrath"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "cometh"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "children"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "disobedience:"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "In the which ye also walked some time, when ye lived in them.",
+          "words": [
+            {
+              "text": "In"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "walked"
+            },
+            {
+              "text": "some"
+            },
+            {
+              "text": "time,"
+            },
+            {
+              "text": "when"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "lived"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "them."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "now"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "put"
+            },
+            {
+              "text": "off"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "these;"
+            },
+            {
+              "text": "anger,"
+            },
+            {
+              "text": "wrath,"
+            },
+            {
+              "text": "malice,"
+            },
+            {
+              "text": "blasphemy,"
+            },
+            {
+              "text": "filthy"
+            },
+            {
+              "text": "communication"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "mouth."
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "Lie not one to another, seeing that ye have put off the old man with his deeds;",
+          "words": [
+            {
+              "text": "Lie"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "one"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "another,"
+            },
+            {
+              "text": "seeing"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "put"
+            },
+            {
+              "text": "off"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "old"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "deeds;"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "And have put on the new {man}, which is renewed in knowledge after the image of him that created him:",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "put"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "new"
+            },
+            {
+              "text": "{man},"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "renewed"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "knowledge"
+            },
+            {
+              "text": "after"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "image"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "created"
+            },
+            {
+              "text": "him:"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond {nor} free: but Christ {is} all, and in all.",
+          "words": [
+            {
+              "text": "Where"
+            },
+            {
+              "text": "there"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "neither"
+            },
+            {
+              "text": "Greek"
+            },
+            {
+              "text": "nor"
+            },
+            {
+              "text": "Jew,"
+            },
+            {
+              "text": "circumcision"
+            },
+            {
+              "text": "nor"
+            },
+            {
+              "text": "uncircumcision,"
+            },
+            {
+              "text": "Barbarian,"
+            },
+            {
+              "text": "Scythian,"
+            },
+            {
+              "text": "bond"
+            },
+            {
+              "text": "{nor}"
+            },
+            {
+              "text": "free:"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "all,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "all."
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;",
+          "words": [
+            {
+              "text": "Put"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "therefore,"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "elect"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God,"
+            },
+            {
+              "text": "holy"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "beloved,"
+            },
+            {
+              "text": "bowels"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "mercies,"
+            },
+            {
+              "text": "kindness,"
+            },
+            {
+              "text": "humbleness"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "mind,"
+            },
+            {
+              "text": "meekness,"
+            },
+            {
+              "text": "longsuffering;"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also {do} ye. {quarrel: or, complaint}",
+          "words": [
+            {
+              "text": "Forbearing"
+            },
+            {
+              "text": "one"
+            },
+            {
+              "text": "another,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "forgiving"
+            },
+            {
+              "text": "one"
+            },
+            {
+              "text": "another,"
+            },
+            {
+              "text": "if"
+            },
+            {
+              "text": "any"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "quarrel"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "any:"
+            },
+            {
+              "text": "even"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "forgave"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "so"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "{do}"
+            },
+            {
+              "text": "ye."
+            },
+            {
+              "text": "{quarrel:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "complaint}"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "And above all these things {put on} charity, which is the bond of perfectness.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "above"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "these"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "{put"
+            },
+            {
+              "text": "on}"
+            },
+            {
+              "text": "charity,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "bond"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "perfectness."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "let"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "peace"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "rule"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "hearts,"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "called"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "one"
+            },
+            {
+              "text": "body;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "thankful."
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.",
+          "words": [
+            {
+              "text": "Let"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "word"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "dwell"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "richly"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "wisdom;"
+            },
+            {
+              "text": "teaching"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "admonishing"
+            },
+            {
+              "text": "one"
+            },
+            {
+              "text": "another"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "psalms"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "hymns"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "spiritual"
+            },
+            {
+              "text": "songs,"
+            },
+            {
+              "text": "singing"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "grace"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "hearts"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord."
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "And whatsoever ye do in word or deed, {do} all in the name of the Lord Jesus, giving thanks to God and the Father by him.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "whatsoever"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "word"
+            },
+            {
+              "text": "or"
+            },
+            {
+              "text": "deed,"
+            },
+            {
+              "text": "{do}"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "name"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord"
+            },
+            {
+              "text": "Jesus,"
+            },
+            {
+              "text": "giving"
+            },
+            {
+              "text": "thanks"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Father"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "him."
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "number": 18,
+          "text": "Wives, submit yourselves unto your own husbands, as it is fit in the Lord.",
+          "words": [
+            {
+              "text": "Wives,"
+            },
+            {
+              "text": "submit"
+            },
+            {
+              "text": "yourselves"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "own"
+            },
+            {
+              "text": "husbands,"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "fit"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord."
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "number": 19,
+          "text": "Husbands, love {your} wives, and be not bitter against them.",
+          "words": [
+            {
+              "text": "Husbands,"
+            },
+            {
+              "text": "love"
+            },
+            {
+              "text": "{your}"
+            },
+            {
+              "text": "wives,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "bitter"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "them."
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "number": 20,
+          "text": "Children, obey {your} parents in all things: for this is well pleasing unto the Lord.",
+          "words": [
+            {
+              "text": "Children,"
+            },
+            {
+              "text": "obey"
+            },
+            {
+              "text": "{your}"
+            },
+            {
+              "text": "parents"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "things:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "well"
+            },
+            {
+              "text": "pleasing"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord."
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "number": 21,
+          "text": "Fathers, provoke not your children {to anger}, lest they be discouraged.",
+          "words": [
+            {
+              "text": "Fathers,"
+            },
+            {
+              "text": "provoke"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "children"
+            },
+            {
+              "text": "{to"
+            },
+            {
+              "text": "anger},"
+            },
+            {
+              "text": "lest"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "discouraged."
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "number": 22,
+          "text": "Servants, obey in all things {your} masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:",
+          "words": [
+            {
+              "text": "Servants,"
+            },
+            {
+              "text": "obey"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "{your}"
+            },
+            {
+              "text": "masters"
+            },
+            {
+              "text": "according"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "flesh;"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "eyeservice,"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "menpleasers;"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "singleness"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "heart,"
+            },
+            {
+              "text": "fearing"
+            },
+            {
+              "text": "God:"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "number": 23,
+          "text": "And whatsoever ye do, do {it} heartily, as to the Lord, and not unto men;",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "whatsoever"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "do,"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "{it}"
+            },
+            {
+              "text": "heartily,"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "men;"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "number": 24,
+          "text": "Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.",
+          "words": [
+            {
+              "text": "Knowing"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "receive"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "reward"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "inheritance:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "serve"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord"
+            },
+            {
+              "text": "Christ."
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "number": 25,
+          "text": "But he that doeth wrong shall receive for the wrong which he hath done: and there is no respect of persons.",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "doeth"
+            },
+            {
+              "text": "wrong"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "receive"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wrong"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "done:"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "there"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "no"
+            },
+            {
+              "text": "respect"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "persons."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "Masters, give unto {your} servants that which is just and equal; knowing that ye also have a Master in heaven.",
+          "words": [
+            {
+              "text": "Masters,"
+            },
+            {
+              "text": "give"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "{your}"
+            },
+            {
+              "text": "servants"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "just"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "equal;"
+            },
+            {
+              "text": "knowing"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "Master"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "heaven."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "Continue in prayer, and watch in the same with thanksgiving;",
+          "words": [
+            {
+              "text": "Continue"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "prayer,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "watch"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "same"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "thanksgiving;"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:",
+          "words": [
+            {
+              "text": "Withal"
+            },
+            {
+              "text": "praying"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "us,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "would"
+            },
+            {
+              "text": "open"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "us"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "door"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "utterance,"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "speak"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "mystery"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Christ,"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "am"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "bonds:"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "That I may make it manifest, as I ought to speak.",
+          "words": [
+            {
+              "text": "That"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "make"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "manifest,"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "ought"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "speak."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "Walk in wisdom toward them that are without, redeeming the time.",
+          "words": [
+            {
+              "text": "Walk"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "wisdom"
+            },
+            {
+              "text": "toward"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "without,"
+            },
+            {
+              "text": "redeeming"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "time."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "Let your speech {be} alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.",
+          "words": [
+            {
+              "text": "Let"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "speech"
+            },
+            {
+              "text": "{be}"
+            },
+            {
+              "text": "alway"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "grace,"
+            },
+            {
+              "text": "seasoned"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "salt,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "know"
+            },
+            {
+              "text": "how"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "ought"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "answer"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "man."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "All my state shall Tychicus declare unto you, {who is} a beloved brother, and a faithful minister and fellowservant in the Lord:",
+          "words": [
+            {
+              "text": "All"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "state"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "Tychicus"
+            },
+            {
+              "text": "declare"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "{who"
+            },
+            {
+              "text": "is}"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "beloved"
+            },
+            {
+              "text": "brother,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "faithful"
+            },
+            {
+              "text": "minister"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "fellowservant"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord:"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "Whom I have sent unto you for the same purpose, that he might know your estate, and comfort your hearts;",
+          "words": [
+            {
+              "text": "Whom"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "sent"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "same"
+            },
+            {
+              "text": "purpose,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "might"
+            },
+            {
+              "text": "know"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "estate,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "comfort"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "hearts;"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "With Onesimus, a faithful and beloved brother, who is {one} of you. They shall make known unto you all things which {are done} here.",
+          "words": [
+            {
+              "text": "With"
+            },
+            {
+              "text": "Onesimus,"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "faithful"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "beloved"
+            },
+            {
+              "text": "brother,"
+            },
+            {
+              "text": "who"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "{one}"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "you."
+            },
+            {
+              "text": "They"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "make"
+            },
+            {
+              "text": "known"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "things"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "{are"
+            },
+            {
+              "text": "done}"
+            },
+            {
+              "text": "here."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "Aristarchus my fellowprisoner saluteth you, and Marcus, sister's son to Barnabas, (touching whom ye received commandments: if he come unto you, receive him;)",
+          "words": [
+            {
+              "text": "Aristarchus"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "fellowprisoner"
+            },
+            {
+              "text": "saluteth"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "Marcus,"
+            },
+            {
+              "text": "sister's"
+            },
+            {
+              "text": "son"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "Barnabas,"
+            },
+            {
+              "text": "(touching"
+            },
+            {
+              "text": "whom"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "received"
+            },
+            {
+              "text": "commandments:"
+            },
+            {
+              "text": "if"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "come"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "receive"
+            },
+            {
+              "text": "him;)"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "And Jesus, which is called Justus, who are of the circumcision. These only {are my} fellowworkers unto the kingdom of God, which have been a comfort unto me.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "Jesus,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "called"
+            },
+            {
+              "text": "Justus,"
+            },
+            {
+              "text": "who"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "circumcision."
+            },
+            {
+              "text": "These"
+            },
+            {
+              "text": "only"
+            },
+            {
+              "text": "{are"
+            },
+            {
+              "text": "my}"
+            },
+            {
+              "text": "fellowworkers"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "kingdom"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "been"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "comfort"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "me."
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "Epaphras, who is {one} of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God. {labouring...: or, striving} {complete: or, filled}",
+          "words": [
+            {
+              "text": "Epaphras,"
+            },
+            {
+              "text": "who"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "{one}"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "servant"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Christ,"
+            },
+            {
+              "text": "saluteth"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "always"
+            },
+            {
+              "text": "labouring"
+            },
+            {
+              "text": "fervently"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "prayers,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "stand"
+            },
+            {
+              "text": "perfect"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "complete"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God."
+            },
+            {
+              "text": "{labouring...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "striving}"
+            },
+            {
+              "text": "{complete:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "filled}"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "For I bear him record, that he hath a great zeal for you, and them {that are} in Laodicea, and them in Hierapolis.",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "bear"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "record,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "zeal"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "{that"
+            },
+            {
+              "text": "are}"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Laodicea,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Hierapolis."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "Luke, the beloved physician, and Demas, greet you.",
+          "words": [
+            {
+              "text": "Luke,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "beloved"
+            },
+            {
+              "text": "physician,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "Demas,"
+            },
+            {
+              "text": "greet"
+            },
+            {
+              "text": "you."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "Salute the brethren which are in Laodicea, and Nymphas, and the church which is in his house.",
+          "words": [
+            {
+              "text": "Salute"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "brethren"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Laodicea,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "Nymphas,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "church"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "house."
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the {epistle} from Laodicea.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "when"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "epistle"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "read"
+            },
+            {
+              "text": "among"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "cause"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "read"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "church"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Laodiceans;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "likewise"
+            },
+            {
+              "text": "read"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "{epistle}"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "Laodicea."
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "And say to Archippus, Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "say"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "Archippus,"
+            },
+            {
+              "text": "Take"
+            },
+            {
+              "text": "heed"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "ministry"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "received"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "fulfil"
+            },
+            {
+              "text": "it."
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "number": 18,
+          "text": "The salutation by the hand of me Paul. Remember my bonds. Grace {be} with you. Amen. \u00ab{Written from Rome to Colossians by Tychicus and Onesimus.}\u00bb",
+          "words": [
+            {
+              "text": "The"
+            },
+            {
+              "text": "salutation"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "hand"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "Paul."
+            },
+            {
+              "text": "Remember"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "bonds."
+            },
+            {
+              "text": "Grace"
+            },
+            {
+              "text": "{be}"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "you."
+            },
+            {
+              "text": "Amen."
+            },
+            {
+              "text": "\u00ab{Written"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "Rome"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "Colossians"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "Tychicus"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "Onesimus.}\u00bb"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
