@@ -1,0 +1,1503 @@
+{
+  "id": 57,
+  "name": "Philemon",
+  "chapters": [
+    {
+      "id": 1,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "Paul, a prisoner of Jesus Christ, and Timothy {our} brother, unto Philemon our dearly beloved, and fellowlabourer,",
+          "words": [
+            {
+              "text": "Paul,"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "prisoner"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Jesus"
+            },
+            {
+              "text": "Christ,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "Timothy"
+            },
+            {
+              "text": "{our}"
+            },
+            {
+              "text": "brother,"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "Philemon"
+            },
+            {
+              "text": "our"
+            },
+            {
+              "text": "dearly"
+            },
+            {
+              "text": "beloved,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "fellowlabourer,"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "And to {our} beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "{our}"
+            },
+            {
+              "text": "beloved"
+            },
+            {
+              "text": "Apphia,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "Archippus"
+            },
+            {
+              "text": "our"
+            },
+            {
+              "text": "fellowsoldier,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "church"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "house:"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "Grace to you, and peace, from God our Father and the Lord Jesus Christ.",
+          "words": [
+            {
+              "text": "Grace"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "peace,"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "our"
+            },
+            {
+              "text": "Father"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord"
+            },
+            {
+              "text": "Jesus"
+            },
+            {
+              "text": "Christ."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "I thank my God, making mention of thee always in my prayers,",
+          "words": [
+            {
+              "text": "I"
+            },
+            {
+              "text": "thank"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "God,"
+            },
+            {
+              "text": "making"
+            },
+            {
+              "text": "mention"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "thee"
+            },
+            {
+              "text": "always"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "prayers,"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;",
+          "words": [
+            {
+              "text": "Hearing"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "love"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "faith,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "toward"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord"
+            },
+            {
+              "text": "Jesus,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "toward"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "saints;"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.",
+          "words": [
+            {
+              "text": "That"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "communication"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "faith"
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "become"
+            },
+            {
+              "text": "effectual"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "acknowledging"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "good"
+            },
+            {
+              "text": "thing"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "Jesus."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "joy"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "consolation"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "love,"
+            },
+            {
+              "text": "because"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "bowels"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "saints"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "refreshed"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "brother."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,",
+          "words": [
+            {
+              "text": "Wherefore,"
+            },
+            {
+              "text": "though"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "might"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "much"
+            },
+            {
+              "text": "bold"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "enjoin"
+            },
+            {
+              "text": "thee"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "convenient,"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "Yet for love's sake I rather beseech {thee}, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.",
+          "words": [
+            {
+              "text": "Yet"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "love's"
+            },
+            {
+              "text": "sake"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "rather"
+            },
+            {
+              "text": "beseech"
+            },
+            {
+              "text": "{thee},"
+            },
+            {
+              "text": "being"
+            },
+            {
+              "text": "such"
+            },
+            {
+              "text": "an"
+            },
+            {
+              "text": "one"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "Paul"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "aged,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "now"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "prisoner"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Jesus"
+            },
+            {
+              "text": "Christ."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "I beseech thee for my son Onesimus, whom I have begotten in my bonds:",
+          "words": [
+            {
+              "text": "I"
+            },
+            {
+              "text": "beseech"
+            },
+            {
+              "text": "thee"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "son"
+            },
+            {
+              "text": "Onesimus,"
+            },
+            {
+              "text": "whom"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "begotten"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "bonds:"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "Which in time past was to thee unprofitable, but now profitable to thee and to me:",
+          "words": [
+            {
+              "text": "Which"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "time"
+            },
+            {
+              "text": "past"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "thee"
+            },
+            {
+              "text": "unprofitable,"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "now"
+            },
+            {
+              "text": "profitable"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "thee"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "me:"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "Whom I have sent again: thou therefore receive him, that is, mine own bowels:",
+          "words": [
+            {
+              "text": "Whom"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "sent"
+            },
+            {
+              "text": "again:"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "therefore"
+            },
+            {
+              "text": "receive"
+            },
+            {
+              "text": "him,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "is,"
+            },
+            {
+              "text": "mine"
+            },
+            {
+              "text": "own"
+            },
+            {
+              "text": "bowels:"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:",
+          "words": [
+            {
+              "text": "Whom"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "would"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "retained"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "me,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "stead"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "might"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "ministered"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "bonds"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "gospel:"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "without"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "mind"
+            },
+            {
+              "text": "would"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "nothing;"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "benefit"
+            },
+            {
+              "text": "should"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "were"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "necessity,"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "willingly."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "For perhaps he therefore departed for a season, that thou shouldest receive him for ever;",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "perhaps"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "therefore"
+            },
+            {
+              "text": "departed"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "season,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "shouldest"
+            },
+            {
+              "text": "receive"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "ever;"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?",
+          "words": [
+            {
+              "text": "Not"
+            },
+            {
+              "text": "now"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "servant,"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "above"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "servant,"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "brother"
+            },
+            {
+              "text": "beloved,"
+            },
+            {
+              "text": "specially"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "me,"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "how"
+            },
+            {
+              "text": "much"
+            },
+            {
+              "text": "more"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "both"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "flesh,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord?"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "If thou count me therefore a partner, receive him as myself.",
+          "words": [
+            {
+              "text": "If"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "count"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "therefore"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "partner,"
+            },
+            {
+              "text": "receive"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "myself."
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "number": 18,
+          "text": "If he hath wronged thee, or oweth {thee} ought, put that on mine account;",
+          "words": [
+            {
+              "text": "If"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "wronged"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "or"
+            },
+            {
+              "text": "oweth"
+            },
+            {
+              "text": "{thee}"
+            },
+            {
+              "text": "ought,"
+            },
+            {
+              "text": "put"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "mine"
+            },
+            {
+              "text": "account;"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "number": 19,
+          "text": "I Paul have written {it} with mine own hand, I will repay {it}: albeit I do not say to thee how thou owest unto me even thine own self besides.",
+          "words": [
+            {
+              "text": "I"
+            },
+            {
+              "text": "Paul"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "written"
+            },
+            {
+              "text": "{it}"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "mine"
+            },
+            {
+              "text": "own"
+            },
+            {
+              "text": "hand,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "repay"
+            },
+            {
+              "text": "{it}:"
+            },
+            {
+              "text": "albeit"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "say"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "thee"
+            },
+            {
+              "text": "how"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "owest"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "even"
+            },
+            {
+              "text": "thine"
+            },
+            {
+              "text": "own"
+            },
+            {
+              "text": "self"
+            },
+            {
+              "text": "besides."
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "number": 20,
+          "text": "Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord.",
+          "words": [
+            {
+              "text": "Yea,"
+            },
+            {
+              "text": "brother,"
+            },
+            {
+              "text": "let"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "joy"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "thee"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord:"
+            },
+            {
+              "text": "refresh"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "bowels"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord."
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "number": 21,
+          "text": "Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say.",
+          "words": [
+            {
+              "text": "Having"
+            },
+            {
+              "text": "confidence"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "obedience"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "wrote"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "knowing"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "wilt"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "more"
+            },
+            {
+              "text": "than"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "say."
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "number": 22,
+          "text": "But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you.",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "withal"
+            },
+            {
+              "text": "prepare"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "lodging:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "trust"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "through"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "prayers"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "given"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "you."
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "number": 23,
+          "text": "There salute thee Epaphras, my fellowprisoner in Christ Jesus;",
+          "words": [
+            {
+              "text": "There"
+            },
+            {
+              "text": "salute"
+            },
+            {
+              "text": "thee"
+            },
+            {
+              "text": "Epaphras,"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "fellowprisoner"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "Jesus;"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "number": 24,
+          "text": "Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.",
+          "words": [
+            {
+              "text": "Marcus,"
+            },
+            {
+              "text": "Aristarchus,"
+            },
+            {
+              "text": "Demas,"
+            },
+            {
+              "text": "Lucas,"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "fellowlabourers."
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "number": 25,
+          "text": "The grace of our Lord Jesus Christ {be} with your spirit. Amen. \u00ab{Written from Rome to Philemon, by Onesimus a servant.}\u00bb",
+          "words": [
+            {
+              "text": "The"
+            },
+            {
+              "text": "grace"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "our"
+            },
+            {
+              "text": "Lord"
+            },
+            {
+              "text": "Jesus"
+            },
+            {
+              "text": "Christ"
+            },
+            {
+              "text": "{be}"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "spirit."
+            },
+            {
+              "text": "Amen."
+            },
+            {
+              "text": "\u00ab{Written"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "Rome"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "Philemon,"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "Onesimus"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "servant.}\u00bb"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
