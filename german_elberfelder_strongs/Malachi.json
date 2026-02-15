@@ -1,0 +1,6204 @@
+{
+  "id": 39,
+  "name": "Malachi",
+  "chapters": [
+    {
+      "id": 1,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "The burden of the word of the LORD to Israel by Malachi. {by...: Heb. by the hand of}",
+          "words": [
+            {
+              "text": "The"
+            },
+            {
+              "text": "burden"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "word"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "Israel"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "Malachi."
+            },
+            {
+              "text": "{by...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "hand"
+            },
+            {
+              "text": "of}"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? {Was} not Esau Jacob's brother? saith the LORD: yet I loved Jacob,",
+          "words": [
+            {
+              "text": "I"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "loved"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD."
+            },
+            {
+              "text": "Yet"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "say,"
+            },
+            {
+              "text": "Wherein"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "loved"
+            },
+            {
+              "text": "us?"
+            },
+            {
+              "text": "{Was}"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "Esau"
+            },
+            {
+              "text": "Jacob's"
+            },
+            {
+              "text": "brother?"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD:"
+            },
+            {
+              "text": "yet"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "loved"
+            },
+            {
+              "text": "Jacob,"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "hated"
+            },
+            {
+              "text": "Esau,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "laid"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "mountains"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "heritage"
+            },
+            {
+              "text": "waste"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "dragons"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wilderness."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the LORD of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the LORD hath indignation for ever.",
+          "words": [
+            {
+              "text": "Whereas"
+            },
+            {
+              "text": "Edom"
+            },
+            {
+              "text": "saith,"
+            },
+            {
+              "text": "We"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "impoverished,"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "return"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "build"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "desolate"
+            },
+            {
+              "text": "places;"
+            },
+            {
+              "text": "thus"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts,"
+            },
+            {
+              "text": "They"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "build,"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "throw"
+            },
+            {
+              "text": "down;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "call"
+            },
+            {
+              "text": "them,"
+            },
+            {
+              "text": "The"
+            },
+            {
+              "text": "border"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "wickedness,"
+            },
+            {
+              "text": "and,"
+            },
+            {
+              "text": "The"
+            },
+            {
+              "text": "people"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "whom"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "indignation"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "ever."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "And your eyes shall see, and ye shall say, The LORD will be magnified from the border of Israel. {from: or, upon: Heb. from upon}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "eyes"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "see,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "say,"
+            },
+            {
+              "text": "The"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "magnified"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "border"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Israel."
+            },
+            {
+              "text": "{from:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "upon:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "upon}"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "A son honoureth {his} father, and a servant his master: if then I {be} a father, where {is} mine honour? and if I {be} a master, where {is} my fear? saith the LORD of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?",
+          "words": [
+            {
+              "text": "A"
+            },
+            {
+              "text": "son"
+            },
+            {
+              "text": "honoureth"
+            },
+            {
+              "text": "{his}"
+            },
+            {
+              "text": "father,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "servant"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "master:"
+            },
+            {
+              "text": "if"
+            },
+            {
+              "text": "then"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "{be}"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "father,"
+            },
+            {
+              "text": "where"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "mine"
+            },
+            {
+              "text": "honour?"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "if"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "{be}"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "master,"
+            },
+            {
+              "text": "where"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "fear?"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "O"
+            },
+            {
+              "text": "priests,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "despise"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "name."
+            },
+            {
+              "text": "And"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "say,"
+            },
+            {
+              "text": "Wherein"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "despised"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "name?"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "Ye offer polluted bread upon mine altar; and ye say, Wherein have we polluted thee? In that ye say, The table of the LORD {is} contemptible. {offer...: or, bring unto, etc}",
+          "words": [
+            {
+              "text": "Ye"
+            },
+            {
+              "text": "offer"
+            },
+            {
+              "text": "polluted"
+            },
+            {
+              "text": "bread"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "mine"
+            },
+            {
+              "text": "altar;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "say,"
+            },
+            {
+              "text": "Wherein"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "polluted"
+            },
+            {
+              "text": "thee?"
+            },
+            {
+              "text": "In"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "say,"
+            },
+            {
+              "text": "The"
+            },
+            {
+              "text": "table"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "contemptible."
+            },
+            {
+              "text": "{offer...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "bring"
+            },
+            {
+              "text": "unto,"
+            },
+            {
+              "text": "etc}"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "And if ye offer the blind for sacrifice, {is it} not evil? and if ye offer the lame and sick, {is it} not evil? offer it now unto thy governor; will he be pleased with thee, or accept thy person? saith the LORD of hosts. {for: Heb. to}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "if"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "offer"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "blind"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "sacrifice,"
+            },
+            {
+              "text": "{is"
+            },
+            {
+              "text": "it}"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "evil?"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "if"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "offer"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "lame"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "sick,"
+            },
+            {
+              "text": "{is"
+            },
+            {
+              "text": "it}"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "evil?"
+            },
+            {
+              "text": "offer"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "now"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "governor;"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "pleased"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "thee,"
+            },
+            {
+              "text": "or"
+            },
+            {
+              "text": "accept"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "person?"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts."
+            },
+            {
+              "text": "{for:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "to}"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "And now, I pray you, beseech God that he will be gracious unto us: this hath been by your means: will he regard your persons? saith the LORD of hosts. {God: Heb. the face of God} {by...: Heb. from your hand}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "now,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "pray"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "beseech"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "gracious"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "us:"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "been"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "means:"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "regard"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "persons?"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts."
+            },
+            {
+              "text": "{God:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "face"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God}"
+            },
+            {
+              "text": "{by...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "hand}"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "Who {is there} even among you that would shut the doors {for nought}? neither do ye kindle {fire} on mine altar for nought. I have no pleasure in you, saith the LORD of hosts, neither will I accept an offering at your hand.",
+          "words": [
+            {
+              "text": "Who"
+            },
+            {
+              "text": "{is"
+            },
+            {
+              "text": "there}"
+            },
+            {
+              "text": "even"
+            },
+            {
+              "text": "among"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "would"
+            },
+            {
+              "text": "shut"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "doors"
+            },
+            {
+              "text": "{for"
+            },
+            {
+              "text": "nought}?"
+            },
+            {
+              "text": "neither"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "kindle"
+            },
+            {
+              "text": "{fire}"
+            },
+            {
+              "text": "on"
+            },
+            {
+              "text": "mine"
+            },
+            {
+              "text": "altar"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "nought."
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "no"
+            },
+            {
+              "text": "pleasure"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts,"
+            },
+            {
+              "text": "neither"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "accept"
+            },
+            {
+              "text": "an"
+            },
+            {
+              "text": "offering"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "hand."
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "For from the rising of the sun even unto the going down of the same my name {shall be} great among the Gentiles; and in every place incense {shall be} offered unto my name, and a pure offering: for my name {shall be} great among the heathen, saith the LORD of hosts.",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "rising"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sun"
+            },
+            {
+              "text": "even"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "going"
+            },
+            {
+              "text": "down"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "same"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "name"
+            },
+            {
+              "text": "{shall"
+            },
+            {
+              "text": "be}"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "among"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Gentiles;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "place"
+            },
+            {
+              "text": "incense"
+            },
+            {
+              "text": "{shall"
+            },
+            {
+              "text": "be}"
+            },
+            {
+              "text": "offered"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "name,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "pure"
+            },
+            {
+              "text": "offering:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "name"
+            },
+            {
+              "text": "{shall"
+            },
+            {
+              "text": "be}"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "among"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "heathen,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts."
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "But ye have profaned it, in that ye say, The table of the LORD {is} polluted; and the fruit thereof, {even} his meat, {is} contemptible.",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "profaned"
+            },
+            {
+              "text": "it,"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "say,"
+            },
+            {
+              "text": "The"
+            },
+            {
+              "text": "table"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "polluted;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fruit"
+            },
+            {
+              "text": "thereof,"
+            },
+            {
+              "text": "{even}"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "meat,"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "contemptible."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "Ye said also, Behold, what a weariness {is it}! and ye have snuffed at it, saith the LORD of hosts; and ye brought {that which was} torn, and the lame, and the sick; thus ye brought an offering: should I accept this of your hand? saith the LORD. {and ye have...: or, whereas ye might have blown it away}",
+          "words": [
+            {
+              "text": "Ye"
+            },
+            {
+              "text": "said"
+            },
+            {
+              "text": "also,"
+            },
+            {
+              "text": "Behold,"
+            },
+            {
+              "text": "what"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "weariness"
+            },
+            {
+              "text": "{is"
+            },
+            {
+              "text": "it}!"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "snuffed"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "it,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "brought"
+            },
+            {
+              "text": "{that"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "was}"
+            },
+            {
+              "text": "torn,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "lame,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sick;"
+            },
+            {
+              "text": "thus"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "brought"
+            },
+            {
+              "text": "an"
+            },
+            {
+              "text": "offering:"
+            },
+            {
+              "text": "should"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "accept"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "hand?"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD."
+            },
+            {
+              "text": "{and"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "have...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "whereas"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "might"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "blown"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "away}"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "But cursed {be} the deceiver, which hath in his flock a male, and voweth, and sacrificeth unto the Lord a corrupt thing: for I {am} a great King, saith the LORD of hosts, and my name {is} dreadful among the heathen. {which...: Heb. in whose flock is}",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "cursed"
+            },
+            {
+              "text": "{be}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "deceiver,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "flock"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "male,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "voweth,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "sacrificeth"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "corrupt"
+            },
+            {
+              "text": "thing:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "{am}"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "King,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "name"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "dreadful"
+            },
+            {
+              "text": "among"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "heathen."
+            },
+            {
+              "text": "{which...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "whose"
+            },
+            {
+              "text": "flock"
+            },
+            {
+              "text": "is}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "And now, O ye priests, this commandment {is} for you.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "now,"
+            },
+            {
+              "text": "O"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "priests,"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "commandment"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "you."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "If ye will not hear, and if ye will not lay {it} to heart, to give glory unto my name, saith the LORD of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay {it} to heart.",
+          "words": [
+            {
+              "text": "If"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "hear,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "if"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "lay"
+            },
+            {
+              "text": "{it}"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "heart,"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "give"
+            },
+            {
+              "text": "glory"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "name,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "even"
+            },
+            {
+              "text": "send"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "curse"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "curse"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "blessings:"
+            },
+            {
+              "text": "yea,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "cursed"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "already,"
+            },
+            {
+              "text": "because"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "lay"
+            },
+            {
+              "text": "{it}"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "heart."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "Behold, I will corrupt your seed, and spread dung upon your faces, {even} the dung of your solemn feasts; and {one} shall take you away with it. {corrupt: or, reprove} {spread: Heb. scatter} {one...: or, it shall take you away to it}",
+          "words": [
+            {
+              "text": "Behold,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "corrupt"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "seed,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "spread"
+            },
+            {
+              "text": "dung"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "faces,"
+            },
+            {
+              "text": "{even}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "dung"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "solemn"
+            },
+            {
+              "text": "feasts;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "{one}"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "take"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "away"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "it."
+            },
+            {
+              "text": "{corrupt:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "reprove}"
+            },
+            {
+              "text": "{spread:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "scatter}"
+            },
+            {
+              "text": "{one...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "take"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "away"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "it}"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "And ye shall know that I have sent this commandment unto you, that my covenant might be with Levi, saith the LORD of hosts.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "know"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "sent"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "commandment"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "covenant"
+            },
+            {
+              "text": "might"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "Levi,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "My covenant was with him of life and peace; and I gave them to him {for} the fear wherewith he feared me, and was afraid before my name.",
+          "words": [
+            {
+              "text": "My"
+            },
+            {
+              "text": "covenant"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "life"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "peace;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "gave"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "{for}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fear"
+            },
+            {
+              "text": "wherewith"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "feared"
+            },
+            {
+              "text": "me,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "afraid"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "name."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace and equity, and did turn many away from iniquity.",
+          "words": [
+            {
+              "text": "The"
+            },
+            {
+              "text": "law"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "truth"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "mouth,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "iniquity"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "found"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "lips:"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "walked"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "peace"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "equity,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "did"
+            },
+            {
+              "text": "turn"
+            },
+            {
+              "text": "many"
+            },
+            {
+              "text": "away"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "iniquity."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he {is} the messenger of the LORD of hosts.",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "priest's"
+            },
+            {
+              "text": "lips"
+            },
+            {
+              "text": "should"
+            },
+            {
+              "text": "keep"
+            },
+            {
+              "text": "knowledge,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "should"
+            },
+            {
+              "text": "seek"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "law"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "mouth:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "messenger"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts."
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "But ye are departed out of the way; ye have caused many to stumble at the law; ye have corrupted the covenant of Levi, saith the LORD of hosts. {stumble at: or, fall in}",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "departed"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "way;"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "caused"
+            },
+            {
+              "text": "many"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "stumble"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "law;"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "corrupted"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "covenant"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Levi,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts."
+            },
+            {
+              "text": "{stumble"
+            },
+            {
+              "text": "at:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "fall"
+            },
+            {
+              "text": "in}"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "Therefore have I also made you contemptible and base before all the people, according as ye have not kept my ways, but have been partial in the law. {have been...: or, lifted up the face against: Heb. accepted faces}",
+          "words": [
+            {
+              "text": "Therefore"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "also"
+            },
+            {
+              "text": "made"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "contemptible"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "base"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "people,"
+            },
+            {
+              "text": "according"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "kept"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "ways,"
+            },
+            {
+              "text": "but"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "been"
+            },
+            {
+              "text": "partial"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "law."
+            },
+            {
+              "text": "{have"
+            },
+            {
+              "text": "been...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "lifted"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "face"
+            },
+            {
+              "text": "against:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "accepted"
+            },
+            {
+              "text": "faces}"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "Have we not all one father? hath not one God created us? why do we deal treacherously every man against his brother, by profaning the covenant of our fathers?",
+          "words": [
+            {
+              "text": "Have"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "one"
+            },
+            {
+              "text": "father?"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "one"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "created"
+            },
+            {
+              "text": "us?"
+            },
+            {
+              "text": "why"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "deal"
+            },
+            {
+              "text": "treacherously"
+            },
+            {
+              "text": "every"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "brother,"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "profaning"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "covenant"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "our"
+            },
+            {
+              "text": "fathers?"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "Judah hath dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah hath profaned the holiness of the LORD which he loved, and hath married the daughter of a strange god. {loved: or, ought to love}",
+          "words": [
+            {
+              "text": "Judah"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "dealt"
+            },
+            {
+              "text": "treacherously,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "an"
+            },
+            {
+              "text": "abomination"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "committed"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Israel"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Jerusalem;"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "Judah"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "profaned"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "holiness"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "loved,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "married"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "daughter"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "strange"
+            },
+            {
+              "text": "god."
+            },
+            {
+              "text": "{loved:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "ought"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "love}"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "The LORD will cut off the man that doeth this, the master and the scholar, out of the tabernacles of Jacob, and him that offereth an offering unto the LORD of hosts. {the master...: or, him that waketh, and him that answereth}",
+          "words": [
+            {
+              "text": "The"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "cut"
+            },
+            {
+              "text": "off"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "doeth"
+            },
+            {
+              "text": "this,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "master"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "scholar,"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "tabernacles"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Jacob,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "offereth"
+            },
+            {
+              "text": "an"
+            },
+            {
+              "text": "offering"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts."
+            },
+            {
+              "text": "{the"
+            },
+            {
+              "text": "master...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "waketh,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "answereth}"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "And this have ye done again, covering the altar of the LORD with tears, with weeping, and with crying out, insomuch that he regardeth not the offering any more, or receiveth {it} with good will at your hand.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "done"
+            },
+            {
+              "text": "again,"
+            },
+            {
+              "text": "covering"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "altar"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "tears,"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "weeping,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "crying"
+            },
+            {
+              "text": "out,"
+            },
+            {
+              "text": "insomuch"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "regardeth"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "offering"
+            },
+            {
+              "text": "any"
+            },
+            {
+              "text": "more,"
+            },
+            {
+              "text": "or"
+            },
+            {
+              "text": "receiveth"
+            },
+            {
+              "text": "{it}"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "good"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "at"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "hand."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "Yet ye say, Wherefore? Because the LORD hath been witness between thee and the wife of thy youth, against whom thou hast dealt treacherously: yet {is} she thy companion, and the wife of thy covenant.",
+          "words": [
+            {
+              "text": "Yet"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "say,"
+            },
+            {
+              "text": "Wherefore?"
+            },
+            {
+              "text": "Because"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "hath"
+            },
+            {
+              "text": "been"
+            },
+            {
+              "text": "witness"
+            },
+            {
+              "text": "between"
+            },
+            {
+              "text": "thee"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wife"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "youth,"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "whom"
+            },
+            {
+              "text": "thou"
+            },
+            {
+              "text": "hast"
+            },
+            {
+              "text": "dealt"
+            },
+            {
+              "text": "treacherously:"
+            },
+            {
+              "text": "yet"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "she"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "companion,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wife"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "thy"
+            },
+            {
+              "text": "covenant."
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "And did not he make one? Yet had he the residue of the spirit. And wherefore one? That he might seek a godly seed. Therefore take heed to your spirit, and let none deal treacherously against the wife of his youth. {residue: or, excellency} {godly...: Heb. seed of God} {treacherously: or, unfaithfully}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "did"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "make"
+            },
+            {
+              "text": "one?"
+            },
+            {
+              "text": "Yet"
+            },
+            {
+              "text": "had"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "residue"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "spirit."
+            },
+            {
+              "text": "And"
+            },
+            {
+              "text": "wherefore"
+            },
+            {
+              "text": "one?"
+            },
+            {
+              "text": "That"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "might"
+            },
+            {
+              "text": "seek"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "godly"
+            },
+            {
+              "text": "seed."
+            },
+            {
+              "text": "Therefore"
+            },
+            {
+              "text": "take"
+            },
+            {
+              "text": "heed"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "spirit,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "let"
+            },
+            {
+              "text": "none"
+            },
+            {
+              "text": "deal"
+            },
+            {
+              "text": "treacherously"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wife"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "youth."
+            },
+            {
+              "text": "{residue:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "excellency}"
+            },
+            {
+              "text": "{godly...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "seed"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "God}"
+            },
+            {
+              "text": "{treacherously:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "unfaithfully}"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "For the LORD, the God of Israel, saith that he hateth putting away: for {one} covereth violence with his garment, saith the LORD of hosts: therefore take heed to your spirit, that ye deal not treacherously. {that he...: or, if he hate her, put her away} {putting...: Heb. to put away}",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Israel,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "hateth"
+            },
+            {
+              "text": "putting"
+            },
+            {
+              "text": "away:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "{one}"
+            },
+            {
+              "text": "covereth"
+            },
+            {
+              "text": "violence"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "garment,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts:"
+            },
+            {
+              "text": "therefore"
+            },
+            {
+              "text": "take"
+            },
+            {
+              "text": "heed"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "spirit,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "deal"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "treacherously."
+            },
+            {
+              "text": "{that"
+            },
+            {
+              "text": "he...:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "if"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "hate"
+            },
+            {
+              "text": "her,"
+            },
+            {
+              "text": "put"
+            },
+            {
+              "text": "her"
+            },
+            {
+              "text": "away}"
+            },
+            {
+              "text": "{putting...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "put"
+            },
+            {
+              "text": "away}"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "Ye have wearied the LORD with your words. Yet ye say, Wherein have we wearied {him}? When ye say, Every one that doeth evil {is} good in the sight of the LORD, and he delighteth in them; or, Where {is} the God of judgment?",
+          "words": [
+            {
+              "text": "Ye"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "wearied"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "words."
+            },
+            {
+              "text": "Yet"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "say,"
+            },
+            {
+              "text": "Wherein"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "wearied"
+            },
+            {
+              "text": "{him}?"
+            },
+            {
+              "text": "When"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "say,"
+            },
+            {
+              "text": "Every"
+            },
+            {
+              "text": "one"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "doeth"
+            },
+            {
+              "text": "evil"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "good"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sight"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "delighteth"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "them;"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "Where"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "judgment?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.",
+          "words": [
+            {
+              "text": "Behold,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "send"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "messenger,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "prepare"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "way"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "me:"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Lord,"
+            },
+            {
+              "text": "whom"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "seek,"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "suddenly"
+            },
+            {
+              "text": "come"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "temple,"
+            },
+            {
+              "text": "even"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "messenger"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "covenant,"
+            },
+            {
+              "text": "whom"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "delight"
+            },
+            {
+              "text": "in:"
+            },
+            {
+              "text": "behold,"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "come,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "But who may abide the day of his coming? and who shall stand when he appeareth? for he {is} like a refiner's fire, and like fullers' soap:",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "who"
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "abide"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "day"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "coming?"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "who"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "stand"
+            },
+            {
+              "text": "when"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "appeareth?"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "like"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "refiner's"
+            },
+            {
+              "text": "fire,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "like"
+            },
+            {
+              "text": "fullers'"
+            },
+            {
+              "text": "soap:"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "And he shall sit {as} a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "sit"
+            },
+            {
+              "text": "{as}"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "refiner"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "purifier"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "silver:"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "purify"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sons"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Levi,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "purge"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "gold"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "silver,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "offer"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "an"
+            },
+            {
+              "text": "offering"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "righteousness."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years. {former: or, ancient}",
+          "words": [
+            {
+              "text": "Then"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "offering"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Judah"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "Jerusalem"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "pleasant"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "days"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "old,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "former"
+            },
+            {
+              "text": "years."
+            },
+            {
+              "text": "{former:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "ancient}"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in {his} wages, the widow, and the fatherless, and that turn aside the stranger {from his right}, and fear not me, saith the LORD of hosts. {oppress: or, defraud}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "come"
+            },
+            {
+              "text": "near"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "judgment;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "swift"
+            },
+            {
+              "text": "witness"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "sorcerers,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "adulterers,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "false"
+            },
+            {
+              "text": "swearers,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "those"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "oppress"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "hireling"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "{his}"
+            },
+            {
+              "text": "wages,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "widow,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fatherless,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "turn"
+            },
+            {
+              "text": "aside"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "stranger"
+            },
+            {
+              "text": "{from"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "right},"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "fear"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "me,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts."
+            },
+            {
+              "text": "{oppress:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "defraud}"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "For I {am} the LORD, I change not; therefore ye sons of Jacob are not consumed.",
+          "words": [
+            {
+              "text": "For"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "{am}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "change"
+            },
+            {
+              "text": "not;"
+            },
+            {
+              "text": "therefore"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "sons"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Jacob"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "consumed."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "text": "Even from the days of your fathers ye are gone away from mine ordinances, and have not kept {them}. Return unto me, and I will return unto you, saith the LORD of hosts. But ye said, Wherein shall we return?",
+          "words": [
+            {
+              "text": "Even"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "days"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "fathers"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "gone"
+            },
+            {
+              "text": "away"
+            },
+            {
+              "text": "from"
+            },
+            {
+              "text": "mine"
+            },
+            {
+              "text": "ordinances,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "kept"
+            },
+            {
+              "text": "{them}."
+            },
+            {
+              "text": "Return"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "me,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "return"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "you,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts."
+            },
+            {
+              "text": "But"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "said,"
+            },
+            {
+              "text": "Wherein"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "return?"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "text": "Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.",
+          "words": [
+            {
+              "text": "Will"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "rob"
+            },
+            {
+              "text": "God?"
+            },
+            {
+              "text": "Yet"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "robbed"
+            },
+            {
+              "text": "me."
+            },
+            {
+              "text": "But"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "say,"
+            },
+            {
+              "text": "Wherein"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "robbed"
+            },
+            {
+              "text": "thee?"
+            },
+            {
+              "text": "In"
+            },
+            {
+              "text": "tithes"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "offerings."
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "text": "Ye {are} cursed with a curse: for ye have robbed me, {even} this whole nation.",
+          "words": [
+            {
+              "text": "Ye"
+            },
+            {
+              "text": "{are}"
+            },
+            {
+              "text": "cursed"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "curse:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "robbed"
+            },
+            {
+              "text": "me,"
+            },
+            {
+              "text": "{even}"
+            },
+            {
+              "text": "this"
+            },
+            {
+              "text": "whole"
+            },
+            {
+              "text": "nation."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "text": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that {there shall} not {be room} enough {to receive it}. {pour...: Heb. empty out}",
+          "words": [
+            {
+              "text": "Bring"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "tithes"
+            },
+            {
+              "text": "into"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "storehouse,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "there"
+            },
+            {
+              "text": "may"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "meat"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "mine"
+            },
+            {
+              "text": "house,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "prove"
+            },
+            {
+              "text": "me"
+            },
+            {
+              "text": "now"
+            },
+            {
+              "text": "herewith,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts,"
+            },
+            {
+              "text": "if"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "open"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "windows"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "heaven,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "pour"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "out"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "blessing,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "{there"
+            },
+            {
+              "text": "shall}"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "{be"
+            },
+            {
+              "text": "room}"
+            },
+            {
+              "text": "enough"
+            },
+            {
+              "text": "{to"
+            },
+            {
+              "text": "receive"
+            },
+            {
+              "text": "it}."
+            },
+            {
+              "text": "{pour...:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "empty"
+            },
+            {
+              "text": "out}"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "number": 11,
+          "text": "And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the LORD of hosts. {destroy: Heb. corrupt}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "rebuke"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "devourer"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "sakes,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "not"
+            },
+            {
+              "text": "destroy"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fruits"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "ground;"
+            },
+            {
+              "text": "neither"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "vine"
+            },
+            {
+              "text": "cast"
+            },
+            {
+              "text": "her"
+            },
+            {
+              "text": "fruit"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "time"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "field,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts."
+            },
+            {
+              "text": "{destroy:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "corrupt}"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "number": 12,
+          "text": "And all nations shall call you blessed: for ye shall be a delightsome land, saith the LORD of hosts.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "nations"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "call"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "blessed:"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "delightsome"
+            },
+            {
+              "text": "land,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "number": 13,
+          "text": "Your words have been stout against me, saith the LORD. Yet ye say, What have we spoken {so much} against thee?",
+          "words": [
+            {
+              "text": "Your"
+            },
+            {
+              "text": "words"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "been"
+            },
+            {
+              "text": "stout"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "me,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD."
+            },
+            {
+              "text": "Yet"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "say,"
+            },
+            {
+              "text": "What"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "spoken"
+            },
+            {
+              "text": "{so"
+            },
+            {
+              "text": "much}"
+            },
+            {
+              "text": "against"
+            },
+            {
+              "text": "thee?"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "text": "Ye have said, It {is} vain to serve God: and what profit {is it} that we have kept his ordinance, and that we have walked mournfully before the LORD of hosts? {ordinance: Heb. observation} {mournfully: Heb. in black}",
+          "words": [
+            {
+              "text": "Ye"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "said,"
+            },
+            {
+              "text": "It"
+            },
+            {
+              "text": "{is}"
+            },
+            {
+              "text": "vain"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "serve"
+            },
+            {
+              "text": "God:"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "what"
+            },
+            {
+              "text": "profit"
+            },
+            {
+              "text": "{is"
+            },
+            {
+              "text": "it}"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "kept"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "ordinance,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "walked"
+            },
+            {
+              "text": "mournfully"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts?"
+            },
+            {
+              "text": "{ordinance:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "observation}"
+            },
+            {
+              "text": "{mournfully:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "black}"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "text": "And now we call the proud happy; yea, they that work wickedness are set up; yea, {they that} tempt God are even delivered. {are set up: Heb. are built}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "now"
+            },
+            {
+              "text": "we"
+            },
+            {
+              "text": "call"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "proud"
+            },
+            {
+              "text": "happy;"
+            },
+            {
+              "text": "yea,"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "work"
+            },
+            {
+              "text": "wickedness"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "set"
+            },
+            {
+              "text": "up;"
+            },
+            {
+              "text": "yea,"
+            },
+            {
+              "text": "{they"
+            },
+            {
+              "text": "that}"
+            },
+            {
+              "text": "tempt"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "even"
+            },
+            {
+              "text": "delivered."
+            },
+            {
+              "text": "{are"
+            },
+            {
+              "text": "set"
+            },
+            {
+              "text": "up:"
+            },
+            {
+              "text": "Heb."
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "built}"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "text": "Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard {it}, and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name.",
+          "words": [
+            {
+              "text": "Then"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "feared"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "spake"
+            },
+            {
+              "text": "often"
+            },
+            {
+              "text": "one"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "another:"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "hearkened,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "heard"
+            },
+            {
+              "text": "{it},"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "book"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "remembrance"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "written"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "feared"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "thought"
+            },
+            {
+              "text": "upon"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "name."
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "text": "And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him. {jewels: or, special treasure}",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "mine,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts,"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "day"
+            },
+            {
+              "text": "when"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "make"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "jewels;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "spare"
+            },
+            {
+              "text": "them,"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "man"
+            },
+            {
+              "text": "spareth"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "own"
+            },
+            {
+              "text": "son"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "serveth"
+            },
+            {
+              "text": "him."
+            },
+            {
+              "text": "{jewels:"
+            },
+            {
+              "text": "or,"
+            },
+            {
+              "text": "special"
+            },
+            {
+              "text": "treasure}"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "number": 18,
+          "text": "Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.",
+          "words": [
+            {
+              "text": "Then"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "return,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "discern"
+            },
+            {
+              "text": "between"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "righteous"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wicked,"
+            },
+            {
+              "text": "between"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "serveth"
+            },
+            {
+              "text": "God"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "serveth"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "not."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "verses": [
+        {
+          "id": 1,
+          "number": 1,
+          "text": "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.",
+          "words": [
+            {
+              "text": "For,"
+            },
+            {
+              "text": "behold,"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "day"
+            },
+            {
+              "text": "cometh,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "burn"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "an"
+            },
+            {
+              "text": "oven;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "proud,"
+            },
+            {
+              "text": "yea,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "wickedly,"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "stubble:"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "day"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "cometh"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "burn"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "up,"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts,"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "it"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "leave"
+            },
+            {
+              "text": "them"
+            },
+            {
+              "text": "neither"
+            },
+            {
+              "text": "root"
+            },
+            {
+              "text": "nor"
+            },
+            {
+              "text": "branch."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "text": "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.",
+          "words": [
+            {
+              "text": "But"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "fear"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "name"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "Sun"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "righteousness"
+            },
+            {
+              "text": "arise"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "healing"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "his"
+            },
+            {
+              "text": "wings;"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "go"
+            },
+            {
+              "text": "forth,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "grow"
+            },
+            {
+              "text": "up"
+            },
+            {
+              "text": "as"
+            },
+            {
+              "text": "calves"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "stall."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "text": "And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do {this}, saith the LORD of hosts.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "tread"
+            },
+            {
+              "text": "down"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "wicked;"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "they"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "be"
+            },
+            {
+              "text": "ashes"
+            },
+            {
+              "text": "under"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "soles"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "feet"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "day"
+            },
+            {
+              "text": "that"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "do"
+            },
+            {
+              "text": "{this},"
+            },
+            {
+              "text": "saith"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "hosts."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "text": "Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, {with} the statutes and judgments.",
+          "words": [
+            {
+              "text": "Remember"
+            },
+            {
+              "text": "ye"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "law"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "Moses"
+            },
+            {
+              "text": "my"
+            },
+            {
+              "text": "servant,"
+            },
+            {
+              "text": "which"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "commanded"
+            },
+            {
+              "text": "unto"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "in"
+            },
+            {
+              "text": "Horeb"
+            },
+            {
+              "text": "for"
+            },
+            {
+              "text": "all"
+            },
+            {
+              "text": "Israel,"
+            },
+            {
+              "text": "{with}"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "statutes"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "judgments."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "number": 5,
+          "text": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:",
+          "words": [
+            {
+              "text": "Behold,"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "will"
+            },
+            {
+              "text": "send"
+            },
+            {
+              "text": "you"
+            },
+            {
+              "text": "Elijah"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "prophet"
+            },
+            {
+              "text": "before"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "coming"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "great"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "dreadful"
+            },
+            {
+              "text": "day"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "LORD:"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "text": "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+          "words": [
+            {
+              "text": "And"
+            },
+            {
+              "text": "he"
+            },
+            {
+              "text": "shall"
+            },
+            {
+              "text": "turn"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "heart"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "fathers"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "children,"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "heart"
+            },
+            {
+              "text": "of"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "children"
+            },
+            {
+              "text": "to"
+            },
+            {
+              "text": "their"
+            },
+            {
+              "text": "fathers,"
+            },
+            {
+              "text": "lest"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "come"
+            },
+            {
+              "text": "and"
+            },
+            {
+              "text": "smite"
+            },
+            {
+              "text": "the"
+            },
+            {
+              "text": "earth"
+            },
+            {
+              "text": "with"
+            },
+            {
+              "text": "a"
+            },
+            {
+              "text": "curse."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
