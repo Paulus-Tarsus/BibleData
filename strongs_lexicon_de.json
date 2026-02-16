@@ -1,37 +1,17 @@
 {
   "H430": {
     "wort": "Elohim",
-    "bedeutung": "Gott, Sch\u00f6pfer",
-    "grammatik": "Subst. Mask."
+    "bedeutung": "Gott",
+    "grammatik": "Subst."
   },
   "H3068": {
     "wort": "Yahweh",
-    "bedeutung": "Der HERR (JHWH)",
-    "grammatik": "Eigenname"
-  },
-  "H7225": {
-    "wort": "re'shith",
-    "bedeutung": "Anfang, Erstes",
-    "grammatik": "Subst. Fem."
-  },
-  "H8064": {
-    "wort": "shamayim",
-    "bedeutung": "Himmel",
-    "grammatik": "Subst. Mask."
-  },
-  "H776": {
-    "wort": "erets",
-    "bedeutung": "Erde, Land",
-    "grammatik": "Subst. Fem."
+    "bedeutung": "HERR",
+    "grammatik": "Name"
   },
   "G3056": {
-    "wort": "logos",
-    "bedeutung": "Wort, Sinn, Grund",
-    "grammatik": "Subst. Mask."
-  },
-  "G746": {
-    "wort": "arch\u0113",
-    "bedeutung": "Anfang, Herrschaft",
-    "grammatik": "Subst. Fem."
+    "wort": "Logos",
+    "bedeutung": "Wort",
+    "grammatik": "Subst."
   }
 }
