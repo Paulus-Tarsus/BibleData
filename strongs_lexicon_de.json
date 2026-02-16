@@ -1,27 +1,72 @@
 {
+  "H430": {
+    "wort": "Elohim",
+    "bedeutung": "Gott, Gottheit, der m\u00e4chtige Sch\u00f6pfer.",
+    "grammatik": "Substantiv Maskulin Plural (Intensit\u00e4tsplural)"
+  },
+  "H3068": {
+    "wort": "Yahweh",
+    "bedeutung": "Der HERR, der Name Gottes, der 'Ich bin'.",
+    "grammatik": "Eigenname Gottes"
+  },
+  "H7225": {
+    "wort": "re'shith",
+    "bedeutung": "Anfang, Beginn, Erstling, das Erste.",
+    "grammatik": "Substantiv Feminin"
+  },
+  "H8064": {
+    "wort": "shamayim",
+    "bedeutung": "Himmel, die H\u00f6hen, das Firmament.",
+    "grammatik": "Substantiv Maskulin Dual"
+  },
+  "H776": {
+    "wort": "erets",
+    "bedeutung": "Erde, Land, Boden, Welt.",
+    "grammatik": "Substantiv Feminin"
+  },
+  "H216": {
+    "wort": "or",
+    "bedeutung": "Licht, Tageslicht, Leuchten.",
+    "grammatik": "Substantiv Feminin"
+  },
+  "H2822": {
+    "wort": "choshek",
+    "bedeutung": "Finsternis, Dunkelheit, Unklarheit.",
+    "grammatik": "Substantiv Maskulin"
+  },
+  "H3117": {
+    "wort": "yom",
+    "bedeutung": "Tag, Zeitperiode, Jahr.",
+    "grammatik": "Substantiv Maskulin"
+  },
+  "H120": {
+    "wort": "adam",
+    "bedeutung": "Mensch, Menschheit, Adam.",
+    "grammatik": "Substantiv Maskulin"
+  },
+  "H7307": {
+    "wort": "ruach",
+    "bedeutung": "Geist, Wind, Hauch, Atem.",
+    "grammatik": "Substantiv Feminin"
+  },
   "G746": {
     "wort": "arch\u0113",
-    "bedeutung": "Anfang, Ursprung, Erstes",
-    "grammatik": "Substantiv, Femininum"
+    "bedeutung": "Anfang, Ursprung",
+    "grammatik": "Substantiv Feminin"
   },
   "G3056": {
     "wort": "logos",
-    "bedeutung": "Wort, Rede, Vernunft, g\u00f6ttlicher Plan",
-    "grammatik": "Substantiv, Maskulinum"
+    "bedeutung": "Wort, Rede, Sinn",
+    "grammatik": "Substantiv Maskulin"
   },
-  "G2316": {
-    "wort": "theos",
-    "bedeutung": "Gott, Gottheit",
-    "grammatik": "Substantiv, Maskulinum"
+  "G2424": {
+    "wort": "Iesous",
+    "bedeutung": "Jesus (Der HERR rettet)",
+    "grammatik": "Eigenname"
   },
-  "G1722": {
-    "wort": "en",
-    "bedeutung": "in, an, bei, unter",
-    "grammatik": "Pr\u00e4position"
-  },
-  "G2258": {
-    "wort": "\u0113n",
-    "bedeutung": "war, war vorhanden",
-    "grammatik": "Verb"
+  "G5547": {
+    "wort": "Christos",
+    "bedeutung": "Christus, der Gesalbte",
+    "grammatik": "Titel"
   }
 }
